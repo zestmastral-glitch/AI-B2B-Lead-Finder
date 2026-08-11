@@ -1,0 +1,65 @@
+name: B2B Lead Finder Automator
+
+on:
+  schedule:
+    # Runs at 02:00 AM UTC every day
+    - cron: '0 2 * * *'
+  workflow_dispatch:
+    # Allows manual triggering from the GitHub Actions UI
+    inputs:
+      niche:
+        description: 'Specific niche to search (leave blank to cycle all)'
+        required: false
+        type: string
+      random_cities:
+        description: 'Number of random cities to search'
+        required: false
+        default: '10'
+        type: string
+      max_results:
+        description: 'Max leads per city'
+        required: false
+        default: '25'
+        type: string
+
+jobs:
+  run-lead-finder:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run Lead Finder (Scheduled)
+        if: github.event_name == 'schedule'
+        env:
+          OPENROUTER_KEY: ${{ secrets.OPENROUTER_KEY }}
+          BREVO_PASSWORD: ${{ secrets.BREVO_PASSWORD }}
+        run: |
+          # Default scheduled run: searches 10 random cities for up to 25 leads per city
+          python main.py --random-cities 10 --max 25
+
+      - name: Run Lead Finder (Manual)
+        if: github.event_name == 'workflow_dispatch'
+        env:
+          OPENROUTER_KEY: ${{ secrets.OPENROUTER_KEY }}
+          BREVO_PASSWORD: ${{ secrets.BREVO_PASSWORD }}
+        run: |
+          NICHE_ARG=""
+          if [ -n "${{ github.event.inputs.niche }}" ]; then
+            NICHE_ARG="--niche \"${{ github.event.inputs.niche }}\""
+          fi
+          
+          # Run with manual inputs
+          eval "python main.py $NICHE_ARG --random-cities ${{ github.event.inputs.random_cities }} --max ${{ github.event.inputs.max_results }}"
