@@ -5,7 +5,6 @@ on:
     # Runs at 02:00 AM UTC every day
     - cron: '0 2 * * *'
   workflow_dispatch:
-    # Allows manual triggering from the GitHub Actions UI
     inputs:
       niche:
         description: 'Specific niche to search (leave blank to cycle all)'
@@ -47,7 +46,6 @@ jobs:
           OPENROUTER_KEY: ${{ secrets.OPENROUTER_KEY }}
           BREVO_PASSWORD: ${{ secrets.BREVO_PASSWORD }}
         run: |
-          # Default scheduled run: searches 10 random cities for up to 25 leads per city
           python main.py --random-cities 10 --max 25
 
       - name: Run Lead Finder (Manual)
@@ -61,5 +59,12 @@ jobs:
             NICHE_ARG="--niche \"${{ github.event.inputs.niche }}\""
           fi
           
-          # Run with manual inputs
           eval "python main.py $NICHE_ARG --random-cities ${{ github.event.inputs.random_cities }} --max ${{ github.event.inputs.max_results }}"
+
+      - name: Save CSV and Database to GitHub
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          git commit -m "Auto-update database and CSV after bot run" || echo "No changes to commit"
+          git push
