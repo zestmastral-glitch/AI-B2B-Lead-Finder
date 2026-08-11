@@ -1,0 +1,309 @@
+# ──────────────────────────────────────────────
+#  B2B Lead Finder — Configuration
+# ──────────────────────────────────────────────
+#  Copy this file and fill in your credentials.
+#  NEVER commit this file to version control.
+# ──────────────────────────────────────────────
+
+search:
+  niches:
+    # ───── Marketing & Creative ─────
+    - "digital marketing agencies"
+    - "SEO agencies"
+    - "social media marketing agencies"
+    - "web design agencies"
+    - "branding agencies"
+    - "graphic design studios"
+    - "video production companies"
+    - "PR agencies"
+    - "advertising agencies"
+    - "content marketing agencies"
+    - "email marketing agencies"
+    - "PPC management agencies"
+
+    # ───── Tech & Software ─────
+    - "software development companies"
+    - "IT consulting firms"
+    - "managed IT services"
+    - "cybersecurity companies"
+    - "app development companies"
+    - "SaaS companies"
+    - "data analytics companies"
+    - "cloud consulting firms"
+
+    # ───── Professional Services ─────
+    - "law firms"
+    - "accounting firms"
+    - "business consulting firms"
+    - "HR consulting agencies"
+    - "recruitment agencies"
+    - "staffing agencies"
+    - "translation services"
+    - "tax advisory firms"
+    - "management consulting firms"
+
+    # ───── Health & Wellness ─────
+    - "dental clinics"
+    - "private medical clinics"
+    - "physiotherapy clinics"
+    - "chiropractic clinics"
+    - "veterinary clinics"
+    - "optometry practices"
+    - "dermatology clinics"
+    - "mental health clinics"
+    - "med spas"
+    - "cosmetic surgery clinics"
+
+    # ───── Home & Trade Services ─────
+    - "plumbing companies"
+    - "electrical contractors"
+    - "HVAC companies"
+    - "roofing companies"
+    - "landscaping companies"
+    - "cleaning companies"
+    - "pest control companies"
+    - "interior design firms"
+    - "architecture firms"
+    - "construction companies"
+
+    # ───── Real Estate & Property ─────
+    - "real estate agencies"
+    - "property management companies"
+    - "mortgage brokers"
+    - "commercial real estate firms"
+
+    # ───── Finance & Insurance ─────
+    - "insurance agencies"
+    - "financial advisory firms"
+    - "wealth management firms"
+    - "bookkeeping services"
+
+    # ───── Education & Training ─────
+    - "private tutoring companies"
+    - "corporate training companies"
+    - "driving schools"
+    - "language schools"
+
+    # ───── Events & Hospitality ─────
+    - "event planning companies"
+    - "catering companies"
+    - "wedding planners"
+    - "photography studios"
+
+    # ───── Automotive ─────
+    - "auto repair shops"
+    - "car dealerships"
+    - "auto detailing services"
+
+  locations:
+    # ───── USA (50 cities) ─────
+    - "New York, USA"
+    - "Los Angeles, USA"
+    - "Chicago, USA"
+    - "Houston, USA"
+    - "Phoenix, USA"
+    - "Philadelphia, USA"
+    - "San Antonio, USA"
+    - "San Diego, USA"
+    - "Dallas, USA"
+    - "Miami, USA"
+    - "Atlanta, USA"
+    - "Boston, USA"
+    - "Seattle, USA"
+    - "Denver, USA"
+    - "Las Vegas, USA"
+    - "Portland, USA"
+    - "Nashville, USA"
+    - "Charlotte, USA"
+    - "Detroit, USA"
+    - "Austin, USA"
+    - "San Francisco, USA"
+    - "Jacksonville, USA"
+    - "Columbus, USA"
+    - "Indianapolis, USA"
+    - "Fort Worth, USA"
+    - "Memphis, USA"
+    - "Baltimore, USA"
+    - "Milwaukee, USA"
+    - "Albuquerque, USA"
+    - "Tucson, USA"
+    - "Sacramento, USA"
+    - "Kansas City, USA"
+    - "Mesa, USA"
+    - "Omaha, USA"
+    - "Raleigh, USA"
+    - "Cleveland, USA"
+    - "Tampa, USA"
+    - "Orlando, USA"
+    - "Pittsburgh, USA"
+    - "Cincinnati, USA"
+    - "St. Louis, USA"
+    - "Minneapolis, USA"
+    - "New Orleans, USA"
+    - "Salt Lake City, USA"
+    - "Honolulu, USA"
+    - "Richmond, USA"
+    - "Boise, USA"
+    - "Scottsdale, USA"
+    - "Charleston, USA"
+    - "Savannah, USA"
+
+    # ───── AUSTRALIA (20 cities) ─────
+    - "Sydney, Australia"
+    - "Melbourne, Australia"
+    - "Brisbane, Australia"
+    - "Perth, Australia"
+    - "Adelaide, Australia"
+    - "Gold Coast, Australia"
+    - "Canberra, Australia"
+    - "Newcastle, Australia"
+    - "Hobart, Australia"
+    - "Darwin, Australia"
+    - "Cairns, Australia"
+    - "Townsville, Australia"
+    - "Geelong, Australia"
+    - "Wollongong, Australia"
+    - "Sunshine Coast, Australia"
+    - "Toowoomba, Australia"
+    - "Ballarat, Australia"
+    - "Bendigo, Australia"
+    - "Launceston, Australia"
+    - "Rockhampton, Australia"
+
+    # ───── GERMANY (20 cities) ─────
+    - "Berlin, Germany"
+    - "Hamburg, Germany"
+    - "Munich, Germany"
+    - "Cologne, Germany"
+    - "Frankfurt, Germany"
+    - "Stuttgart, Germany"
+    - "Düsseldorf, Germany"
+    - "Leipzig, Germany"
+    - "Dortmund, Germany"
+    - "Essen, Germany"
+    - "Bremen, Germany"
+    - "Dresden, Germany"
+    - "Hanover, Germany"
+    - "Nuremberg, Germany"
+    - "Duisburg, Germany"
+    - "Bochum, Germany"
+    - "Wuppertal, Germany"
+    - "Bielefeld, Germany"
+    - "Bonn, Germany"
+    - "Mannheim, Germany"
+
+    # ───── UK (25 cities) ─────
+    - "London, UK"
+    - "Manchester, UK"
+    - "Birmingham, UK"
+    - "Leeds, UK"
+    - "Glasgow, UK"
+    - "Liverpool, UK"
+    - "Bristol, UK"
+    - "Edinburgh, UK"
+    - "Sheffield, UK"
+    - "Newcastle, UK"
+    - "Nottingham, UK"
+    - "Leicester, UK"
+    - "Southampton, UK"
+    - "Brighton, UK"
+    - "Cardiff, UK"
+    - "Belfast, UK"
+    - "Aberdeen, UK"
+    - "Cambridge, UK"
+    - "Oxford, UK"
+    - "York, UK"
+    - "Bath, UK"
+    - "Coventry, UK"
+    - "Reading, UK"
+    - "Swansea, UK"
+    - "Plymouth, UK"
+
+    # ───── NETHERLANDS (15 cities) ─────
+    - "Amsterdam, Netherlands"
+    - "Rotterdam, Netherlands"
+    - "The Hague, Netherlands"
+    - "Utrecht, Netherlands"
+    - "Eindhoven, Netherlands"
+    - "Groningen, Netherlands"
+    - "Tilburg, Netherlands"
+    - "Almere, Netherlands"
+    - "Breda, Netherlands"
+    - "Nijmegen, Netherlands"
+    - "Haarlem, Netherlands"
+    - "Arnhem, Netherlands"
+    - "Leiden, Netherlands"
+    - "Maastricht, Netherlands"
+    - "Delft, Netherlands"
+
+    # ───── CANADA (20 cities) ─────
+    - "Toronto, Canada"
+    - "Montreal, Canada"
+    - "Vancouver, Canada"
+    - "Calgary, Canada"
+    - "Edmonton, Canada"
+    - "Ottawa, Canada"
+    - "Winnipeg, Canada"
+    - "Quebec City, Canada"
+    - "Hamilton, Canada"
+    - "Halifax, Canada"
+    - "Victoria, Canada"
+    - "Saskatoon, Canada"
+    - "Regina, Canada"
+    - "St. John's, Canada"
+    - "Kelowna, Canada"
+    - "Kitchener, Canada"
+    - "London, Canada"
+    - "Windsor, Canada"
+    - "Barrie, Canada"
+    - "Mississauga, Canada"
+
+    # ───── NEW ZEALAND (10 cities) ─────
+    - "Auckland, New Zealand"
+    - "Wellington, New Zealand"
+    - "Christchurch, New Zealand"
+    - "Hamilton, New Zealand"
+    - "Tauranga, New Zealand"
+    - "Dunedin, New Zealand"
+    - "Palmerston North, New Zealand"
+    - "Napier, New Zealand"
+    - "Nelson, New Zealand"
+    - "Queenstown, New Zealand"
+
+  max_results_per_query: 20
+
+scraping:
+  min_delay_seconds: 1.5
+  max_delay_seconds: 3.5
+  timeout_seconds: 10
+
+screenshots:
+  enabled: false
+
+verification:
+  enabled: true
+  skip_smtp_check: false
+  delay_seconds: 2
+  timeout_seconds: 10
+  allow_catch_all: true
+  retry_unverified: true
+
+telegram:
+  enabled: false
+  bot_token: "YOUR_BOT_TOKEN"
+  chat_id: "YOUR_CHAT_ID"
+
+email:
+  enabled: true
+  openrouter_api_key: "ENV_OPENROUTER_KEY"
+  openrouter_model: "google/gemma-4-31b-it:free"
+  smtp_host: "smtp-relay.brevo.com"
+  smtp_port: 587
+  smtp_user: "b51963001@smtp-brevo.com"
+  smtp_password: "ENV_BREVO_PASSWORD"
+  daily_send_cap: 200
+  min_delay_seconds: 5
+  max_delay_seconds: 30
+  template_path: "templates/pitch_email.html"
+  sender_name: "Your Name"
+  sender_email: "zestmastral@gmail.com"
