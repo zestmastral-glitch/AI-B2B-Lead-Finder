@@ -43,9 +43,14 @@ jobs:
           python main.py --random-cities 1 --max 50
 
       - name: Commit and push changes
+        shell: bash
+        env:
+          GIT_TERMINAL_PROMPT: "0"
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git config --global core.askPass ""
+          git config --local credential.helper ""
           git add -f data/leads.db
           git add -f data/results*.csv
           git commit -m "Auto-update: Scraped new leads and updated email logs" || echo "No changes to commit"
