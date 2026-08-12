@@ -1,0 +1,26 @@
+# Credentials & config (never commit)
+config.yaml
+
+# Data & logs (generated at runtime)
+data/
+logs/
+leads.db
+BREVO ACCOUNTS.txt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,44 @@
+name: B2B Lead Finder Automation
+
+on:
+  schedule:
+    - cron: '0 */3 * * *'  # Runs every 3 hours
+  workflow_dispatch:       # Allows manual triggers from the GitHub UI
+
+jobs:
+  run-scraper-and-mailer:
+    runs-on: windows-latest
+
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+          playwright install chromium
+
+      - name: Run Lead Finder (Random City)
+        run: |
+          python main.py --random-cities 1
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/leads.db
+          git add data/results*.csv
+          git commit -m "Auto-update: Scraped new leads and updated email logs" || echo "No changes to commit"
+          git push
