@@ -16,6 +16,10 @@ import time
 import random
 import yaml
 import os
+import socket
+
+# Force a global timeout at the lowest network level so bad websites can NEVER hang the script
+socket.setdefaulttimeout(15)
 
 if sys.stdout.encoding != 'utf-8':
     try:
