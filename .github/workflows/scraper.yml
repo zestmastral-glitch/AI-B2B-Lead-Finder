@@ -31,8 +31,11 @@ jobs:
           playwright install chromium
 
       - name: Create config.yaml from Secrets
+        shell: bash
+        env:
+          CONFIG_SECRET: ${{ secrets.CONFIG_YAML }}
         run: |
-          echo "${{ secrets.CONFIG_YAML }}" > config.yaml
+          echo "$CONFIG_SECRET" > config.yaml
 
       - name: Run Lead Finder (Random City)
         run: |
