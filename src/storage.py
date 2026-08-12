@@ -44,6 +44,16 @@ def init_db():
         )
         ''')
         
+        # New table to track sends per email account
+        cursor.execute('''
+        CREATE TABLE IF NOT EXISTS email_logs (
+            website TEXT NOT NULL,
+            sender_email TEXT NOT NULL,
+            sent_at TEXT NOT NULL,
+            PRIMARY KEY (website, sender_email)
+        )
+        ''')
+        
         conn.commit()
         logger.info("Database initialized successfully.")
     except Exception as e:
@@ -92,8 +102,8 @@ def update_verification(website: str, verified_emails: str, verification_status:
     finally:
         conn.close()
 
-def mark_emailed(website: str):
-    """Set status='emailed', emailed_at=now."""
+def mark_emailed(website: str, sender_email: str = "default"):
+    """Set status='emailed', emailed_at=now, and log the sender."""
     conn = _get_connection()
     try:
         cursor = conn.cursor()
@@ -103,8 +113,14 @@ def mark_emailed(website: str):
         SET status = 'emailed', emailed_at = ?
         WHERE website = ?
         ''', (emailed_at, website))
+        
+        cursor.execute('''
+        INSERT OR IGNORE INTO email_logs (website, sender_email, sent_at)
+        VALUES (?, ?, ?)
+        ''', (website, sender_email, emailed_at))
+        
         conn.commit()
-        logger.debug(f"Marked {website} as emailed")
+        logger.debug(f"Marked {website} as emailed by {sender_email}")
     except Exception as e:
         logger.error(f"Error marking {website} as emailed: {e}")
     finally:
@@ -133,19 +149,21 @@ def _dict_factory(cursor, row):
         d[col[0]] = row[idx]
     return d
 
-def get_unsent_leads() -> list[dict]:
-    """WHERE status='new' AND email_verification_status IN ('valid', 'catch_all') AND verified_emails IS NOT NULL AND verified_emails != ''"""
+def get_unsent_leads(sender_email: str = "default") -> list[dict]:
+    """Get verified leads that haven't been emailed by THIS specific sender."""
     conn = _get_connection()
     conn.row_factory = _dict_factory
     try:
         cursor = conn.cursor()
         cursor.execute('''
         SELECT * FROM leads 
-        WHERE status = 'new' 
-        AND email_verification_status IN ('valid', 'catch_all')
+        WHERE email_verification_status IN ('valid', 'catch_all')
         AND verified_emails IS NOT NULL 
         AND verified_emails != ''
-        ''')
+        AND website NOT IN (
+            SELECT website FROM email_logs WHERE sender_email = ?
+        )
+        ''', (sender_email,))
         return cursor.fetchall()
     except Exception as e:
         logger.error(f"Error fetching unsent leads: {e}")
@@ -253,5 +271,45 @@ def export_csv(filepath='data/results.csv'):
         logger.info(f"Successfully exported leads to {filepath}")
     except Exception as e:
         logger.error(f"Error exporting CSV: {e}")
+    finally:
+        conn.close()
+
+def export_csv_for_batch(websites, location_name):
+    """Write ONLY a specific batch of leads to a city-specific CSV."""
+    if not websites:
+        return
+        
+    conn = _get_connection()
+    conn.row_factory = sqlite3.Row
+    try:
+        cursor = conn.cursor()
+        placeholders = ','.join('?' * len(websites))
+        cursor.execute(f'SELECT * FROM leads WHERE website IN ({placeholders})', websites)
+        rows = cursor.fetchall()
+        
+        safe_loc = location_name.replace(" ", "_").replace(",", "")
+        filepath = f'data/results_{safe_loc}.csv'
+        full_path = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), filepath)
+        os.makedirs(os.path.dirname(full_path), exist_ok=True)
+        
+        with open(full_path, 'w', newline='', encoding='utf-8') as f:
+            writer = csv.writer(f)
+            writer.writerow(['Date', 'Business Name', 'Website', 'Emails', 'Verified Emails', 'Verification Status', 'Phone', 'Country', 'Status'])
+            
+            for row in rows:
+                writer.writerow([
+                    row['date_found'],
+                    row['business_name'],
+                    row['website'],
+                    row['emails'],
+                    row['verified_emails'],
+                    row['email_verification_status'],
+                    row['phone'],
+                    row['country'],
+                    row['status']
+                ])
+        logger.info(f"Successfully exported city-specific leads to {filepath}")
+    except Exception as e:
+        logger.error(f"Error exporting city CSV: {e}")
     finally:
         conn.close()

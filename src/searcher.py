@@ -66,44 +66,112 @@ def _search_ddgs(query: str, max_results: int) -> list[str]:
         logger.warning(f"DDGS search failed: {e}")
         return []
 
+def _search_google_library(query: str, max_results: int) -> list[str]:
+    """Search using googlesearch-python (deep pagination)."""
+    try:
+        from googlesearch import search
+        urls = list(search(query, num_results=max_results * 3, sleep_interval=1))
+        logger.info(f"Google Search Library returned {len(urls)} raw results")
+        return urls
+    except ImportError:
+        logger.warning("googlesearch-python not installed. Use 'pip install googlesearch-python'")
+        return []
+    except Exception as e:
+        logger.warning(f"Google Search Library failed: {e}")
+        return []
 
-def _search_bing_html(query: str) -> list[str]:
-    """Fallback: scrape Bing HTML search results."""
+
+def _search_bing_html(query: str, max_results: int) -> list[str]:
+    """Fallback: scrape Bing HTML search results with pagination."""
     try:
         import requests
         from bs4 import BeautifulSoup
+        import time
 
         headers = {
             "User-Agent": random.choice(USER_AGENTS),
             "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
             "Accept-Language": "en-US,en;q=0.9",
-            "Accept-Encoding": "gzip, deflate",
-            "DNT": "1",
         }
-        url = f"https://www.bing.com/search?q={urllib.parse.quote_plus(query)}"
-        res = requests.get(url, headers=headers, timeout=15)
-        res.raise_for_status()
-        soup = BeautifulSoup(res.text, "html.parser")
-
+        
         urls = []
-        # Try multiple selectors for Bing
-        for selector in ["li.b_algo h2 a", ".b_algo a", "h2 a[href^='http']"]:
-            items = soup.select(selector)
-            if items:
-                urls = [a["href"] for a in items if a.get("href", "").startswith("http")]
+        for first in range(1, max_results + 10, 10):
+            url = f"https://www.bing.com/search?q={urllib.parse.quote_plus(query)}&first={first}"
+            res = requests.get(url, headers=headers, timeout=15)
+            if res.status_code != 200:
+                break
+                
+            soup = BeautifulSoup(res.text, "html.parser")
+            page_urls = []
+            
+            for selector in ["li.b_algo h2 a", ".b_algo a", "h2 a[href^='http']"]:
+                items = soup.select(selector)
+                if items:
+                    page_urls = [a["href"] for a in items if a.get("href", "").startswith("http")]
+                    break
+
+            if not page_urls:
+                for a in soup.find_all("a", href=True):
+                    href = a["href"]
+                    if href.startswith("http") and "bing.com" not in href and "microsoft.com" not in href:
+                        page_urls.append(href)
+                        
+            if not page_urls:
+                break
+                
+            urls.extend(page_urls)
+            time.sleep(random.uniform(0.5, 1.5))
+            
+            if len(urls) >= max_results * 2:
                 break
 
-        # Fallback: find all external links
-        if not urls:
-            for a in soup.find_all("a", href=True):
-                href = a["href"]
-                if href.startswith("http") and "bing.com" not in href and "microsoft.com" not in href:
-                    urls.append(href)
-
-        logger.info(f"Bing HTML returned {len(urls)} raw results")
+        logger.info(f"Bing HTML returned {len(urls)} raw results across pages")
         return urls
     except Exception as e:
         logger.warning(f"Bing HTML search failed: {e}")
+        return []
+
+def _search_yahoo_html(query: str, max_results: int) -> list[str]:
+    """Fallback: scrape Yahoo HTML search results with pagination."""
+    try:
+        import requests
+        from bs4 import BeautifulSoup
+        import time
+
+        headers = {
+            "User-Agent": random.choice(USER_AGENTS),
+            "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+            "Accept-Language": "en-US,en;q=0.9",
+        }
+        
+        urls = []
+        for b in range(1, max_results + 10, 10):
+            url = f"https://search.yahoo.com/search?p={urllib.parse.quote_plus(query)}&b={b}"
+            res = requests.get(url, headers=headers, timeout=15)
+            if res.status_code != 200:
+                break
+                
+            soup = BeautifulSoup(res.text, "html.parser")
+            page_urls = []
+            
+            for a in soup.find_all("a", class_="ac-algo", href=True):
+                href = a["href"]
+                if href.startswith("http") and "yahoo.com" not in href:
+                    page_urls.append(href)
+                        
+            if not page_urls:
+                break
+                
+            urls.extend(page_urls)
+            time.sleep(random.uniform(0.5, 1.5))
+            
+            if len(urls) >= max_results * 2:
+                break
+
+        logger.info(f"Yahoo HTML returned {len(urls)} raw results across pages")
+        return urls
+    except Exception as e:
+        logger.warning(f"Yahoo HTML search failed: {e}")
         return []
 
 
@@ -179,74 +247,80 @@ def _search_yellowpages(niche: str, location: str, max_results: int) -> list[str
 def search_leads(niche: str, location: str, max_results: int = 25, config: dict = None) -> list[str]:
     """
     Search for business URLs using DuckDuckGo API, with HTML fallbacks.
-
-    Args:
-        niche: Business type to search for
-        location: City/location to search in
-        max_results: Maximum number of deduplicated URLs to return
-        config: Configuration dict with scraping delay settings
-
-    Returns:
-        List of deduplicated root domain URLs (business websites only)
+    Uses multiple query variations to maximize results.
     """
     config = config or {}
     scraping_config = config.get("scraping", {})
     min_delay = scraping_config.get("min_delay_seconds", 1.5)
     max_delay = scraping_config.get("max_delay_seconds", 3.5)
 
-    query = f"{niche} {location}"
-    logger.info(f"Searching leads for query: '{query}'")
-
-    # Small delay before searching
-    time.sleep(random.uniform(min_delay, max_delay))
-
-    # Strategy 1: Yellow Pages (Directly scrapes business websites)
-    raw_urls = _search_yellowpages(niche, location, max_results)
+    queries = [
+        f"{niche} {location}",
+        f"{niche} in {location}",
+        f"best {niche} {location}",
+        f"{location} {niche} companies",
+        f"top {niche} agencies {location}",
+        f"local {niche} in {location}",
+        f"{niche} services {location}",
+        f"professional {niche} {location}",
+        f"award winning {niche} {location}",
+        f"{location} {niche} experts"
+    ]
     
-    # Strategy 2: ddgs library (most reliable web search fallback)
-    if not raw_urls:
-        logger.info("Yellow Pages returned 0 results, trying DDGS fallback")
-        time.sleep(random.uniform(min_delay, max_delay))
-        raw_urls = _search_ddgs(query, max_results)
-
-    # Strategy 3: DuckDuckGo HTML fallback
-    if not raw_urls:
-        logger.info("DDGS returned 0 results, trying DDG HTML fallback")
-        time.sleep(random.uniform(min_delay, max_delay))
-        raw_urls = _search_ddg_html(query)
-
-    # Strategy 4: Bing HTML fallback
-    if not raw_urls:
-        logger.info("DDG HTML returned 0 results, trying Bing fallback")
-        time.sleep(random.uniform(min_delay, max_delay))
-        raw_urls = _search_bing_html(query)
-
-    # Deduplicate and filter
     seen_domains = set()
     results = []
 
-    for url in raw_urls:
-        if not url.startswith("http"):
-            if url.startswith("//"):
-                url = "https:" + url
-            else:
+    for query in queries:
+        if len(results) >= max_results:
+            break
+            
+        logger.info(f"Searching leads for query: '{query}'")
+        time.sleep(random.uniform(min_delay, max_delay))
+
+        # Strategy 1: ddgs library
+        raw_urls = _search_ddgs(query, max_results)
+
+        # Strategy 2: DuckDuckGo HTML fallback
+        if len(raw_urls) < max_results:
+            logger.info(f"DDGS only got {len(raw_urls)}, stacking DDG HTML...")
+            time.sleep(random.uniform(min_delay, max_delay))
+            raw_urls.extend(_search_ddg_html(query))
+
+        # Strategy 3: Bing HTML fallback (Paginated)
+        if len(raw_urls) < max_results:
+            logger.info(f"Still need more ({len(raw_urls)}), stacking Bing...")
+            time.sleep(random.uniform(min_delay, max_delay))
+            raw_urls.extend(_search_bing_html(query, max_results))
+
+        # Strategy 4: Yahoo HTML fallback (Paginated)
+        if len(raw_urls) < max_results:
+            logger.info(f"Still need more ({len(raw_urls)}), stacking Yahoo...")
+            time.sleep(random.uniform(min_delay, max_delay))
+            raw_urls.extend(_search_yahoo_html(query, max_results))
+
+        # Deduplicate and filter
+        for url in raw_urls:
+            if not url.startswith("http"):
+                if url.startswith("//"):
+                    url = "https:" + url
+                else:
+                    continue
+
+            domain = _extract_root_domain(url)
+            if not domain:
                 continue
 
-        domain = _extract_root_domain(url)
-        if not domain:
-            continue
+            # Skip excluded domains
+            if _is_excluded(domain):
+                continue
 
-        # Skip excluded domains
-        if _is_excluded(domain):
-            continue
+            # Deduplicate by root domain
+            if domain not in seen_domains:
+                seen_domains.add(domain)
+                parsed = urllib.parse.urlparse(url)
+                results.append(f"{parsed.scheme}://{parsed.netloc}")
+                if len(results) >= max_results:
+                    break
 
-        # Deduplicate by root domain
-        if domain not in seen_domains:
-            seen_domains.add(domain)
-            parsed = urllib.parse.urlparse(url)
-            results.append(f"{parsed.scheme}://{parsed.netloc}")
-            if len(results) >= max_results:
-                break
-
-    logger.info(f"Found {len(results)} unique business URLs for '{query}'")
+    logger.info(f"Found {len(results)} unique business URLs for '{niche}' in '{location}'")
     return results

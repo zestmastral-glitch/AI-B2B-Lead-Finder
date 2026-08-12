@@ -290,20 +290,24 @@ verification:
 
 telegram:
   enabled: false
-  bot_token: "YOUR_BOT_TOKEN"
-  chat_id: "YOUR_CHAT_ID"
+  bot_token: "YOUR_BOT_TOKEN_HERE"
+  chat_id: "YOUR_CHAT_ID_HERE"
 
 email:
   enabled: true
-  openrouter_api_key: "ENV_OPENROUTER_KEY"
-  openrouter_model: "google/gemma-4-31b-it:free"
-  smtp_host: "smtp-relay.brevo.com"
-  smtp_port: 587
-  smtp_user: "b51963001@smtp-brevo.com"
-  smtp_password: "ENV_BREVO_PASSWORD"
+  openrouter_api_key: "YOUR_OPENROUTER_API_KEY_HERE"
+  openrouter_model: "liquid/lfm-2.5-2.6b:free"
   daily_send_cap: 200
   min_delay_seconds: 5
   max_delay_seconds: 30
   template_path: "templates/pitch_email.html"
-  sender_name: "Your Name"
-  sender_email: "zestmastral@gmail.com"
+  
+  # Fleet of email accounts (Rotates automatically)
+  # You can add as many as you want here.
+  accounts:
+    - smtp_host: "smtp-relay.brevo.com"
+    - smtp_port: 587
+      smtp_user: "YOUR_BREVO_SMTP_LOGIN"
+      smtp_password: "YOUR_BREVO_SMTP_PASSWORD"
+      sender_name: "Lead Automation"
+      sender_email: "account1@example.com"

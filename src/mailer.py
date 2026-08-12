@@ -30,7 +30,7 @@ def rewrite_email_with_openrouter(html_content: str, api_key: str, model: str = 
         "1. DO NOT change the HTML structure, layout, or CSS classes.\n"
         "2. DO NOT change any links (href).\n"
         "3. Only rewrite the actual text (sentences, phrasing, greetings).\n"
-        "4. Keep the same core message, pricing (€25), and features.\n"
+        "4. Keep the core message: promoting a free, no-API Google Maps scraper with zero monthly subscriptions.\n"
         "5. Output ONLY the raw rewritten HTML code, starting with <!DOCTYPE html>. No markdown formatting, no explanations."
     )
     
@@ -85,27 +85,25 @@ def send_email(lead: dict, niche: str, config: dict) -> bool:
     """
     email_config = config.get('email', {})
     if not email_config.get('enabled', False):
-        logger.info(f"Email sending disabled. Skipping {lead.get('business_name')}.")
-        return True
-        
-    verified_emails = lead.get('verified_emails', '')
-    if not verified_emails:
-        logger.warning(f"No verified emails for {lead.get('business_name')}. Cannot send email.")
-        return False
-        
-    # Get first email
-    to_email = verified_emails.split(',')[0].strip()
-    if not to_email:
-        logger.warning(f"Parsed empty email for {lead.get('business_name')}. Cannot send.")
         return False
 
-    smtp_host = email_config.get('smtp_host')
-    smtp_port = email_config.get('smtp_port')
-    smtp_user = email_config.get('smtp_user')
-    smtp_password = email_config.get('smtp_password')
-    template_path = email_config.get('template_path')
-    sender_name = email_config.get('sender_name', 'Lead Bot')
-    sender_email = email_config.get('sender_email', smtp_user)
+    # Pull the randomly selected fleet account injected by main.py
+    account = email_config.get('current_account', email_config)
+
+    verified_emails_str = lead.get('verified_emails', '')
+    if not verified_emails_str:
+        return False
+    to_email = verified_emails_str.split(',')[0].strip()
+    if not to_email:
+        return False
+
+    smtp_host = account.get('smtp_host')
+    smtp_port = account.get('smtp_port')
+    smtp_user = account.get('smtp_user')
+    smtp_password = account.get('smtp_password')
+    template_path = email_config.get('template_path', 'templates/pitch_email.html')
+    sender_name = account.get('sender_name', 'Your Name')
+    sender_email = account.get('sender_email', smtp_user)
     
     if not all([smtp_host, smtp_port, smtp_user, smtp_password, template_path]):
         logger.error("Incomplete email configuration.")
@@ -210,7 +208,9 @@ def send_batch(leads: list[dict], niche: str, config: dict, db_module) -> dict:
                     
                 success = send_email(lead, niche, config)
                 if success:
-                    db_module.mark_emailed(lead.get('website', ''))
+                    account = email_config.get('current_account', email_config)
+                    sender_email = account.get("sender_email") or account.get("smtp_user", "default")
+                    db_module.mark_emailed(lead.get('website', ''), sender_email)
                     db_module.increment_send_count()
                     stats['sent'] += 1
                 else:

@@ -39,32 +39,12 @@ logger = get_logger(__name__)
 # ─────────────────────────────────────────────
 
 def load_config(path: str = "config.yaml") -> dict:
-    """Load config.yaml from project root and inject environment variables."""
+    """Load config.yaml from project root."""
     config_path = os.path.join(os.path.dirname(os.path.abspath(__file__)), path)
     try:
         with open(config_path, "r", encoding="utf-8") as f:
             config = yaml.safe_load(f)
-            
-        def inject_env_vars(d):
-            if isinstance(d, dict):
-                for k, v in d.items():
-                    if isinstance(v, str) and v.startswith("ENV_"):
-                        env_key = v.replace("ENV_", "")
-                        d[k] = os.environ.get(env_key, v)
-                    else:
-                        inject_env_vars(v)
-            elif isinstance(d, list):
-                for i, v in enumerate(d):
-                    if isinstance(v, str) and v.startswith("ENV_"):
-                        env_key = v.replace("ENV_", "")
-                        d[i] = os.environ.get(env_key, v)
-                    else:
-                        inject_env_vars(v)
-        
-        if config:
-            inject_env_vars(config)
-            
-        logger.info(f"Loaded config from {config_path} with secure env vars")
+        logger.info(f"Loaded config from {config_path}")
         return config or {}
     except FileNotFoundError:
         logger.warning(f"Config file not found at {config_path}, using defaults")
@@ -239,19 +219,43 @@ def run_email(niche: str, config: dict, dry_run: bool = False) -> dict:
         logger.info("═══ EMAIL: disabled in config (email.enabled: false), skipping ═══")
         return {"sent": 0, "failed": 0, "skipped": 0, "cap_reached": False}
 
+    accounts = email_config.get("accounts", [])
+    if not accounts:
+        # Fallback for old config
+        account = {
+            "smtp_host": email_config.get("smtp_host"),
+            "smtp_port": email_config.get("smtp_port"),
+            "smtp_user": email_config.get("smtp_user"),
+            "smtp_password": email_config.get("smtp_password"),
+            "sender_name": email_config.get("sender_name"),
+            "sender_email": email_config.get("sender_email")
+        }
+    else:
+        # Randomly select an account from the fleet
+        import random
+        account = random.choice(accounts)
+        logger.info(f"═══ EMAIL: Selected fleet account {account.get('sender_email')} ═══")
+        
+    sender_email = account.get("sender_email", "default")
+
     if dry_run:
         logger.info("═══ EMAIL: dry-run mode — no emails will be sent ═══")
-        unsent = storage.get_unsent_leads()
+        unsent = storage.get_unsent_leads(sender_email)
         logger.info(f"  Would send to {len(unsent)} leads (dry-run)")
         return {"sent": 0, "failed": 0, "skipped": len(unsent), "cap_reached": False}
 
-    unsent = storage.get_unsent_leads()
+    unsent = storage.get_unsent_leads(sender_email)
     if not unsent:
-        logger.info("═══ EMAIL: no unsent leads with verified emails ═══")
+        logger.info("═══ EMAIL: no unsent leads with verified emails for this sender ═══")
         return {"sent": 0, "failed": 0, "skipped": 0, "cap_reached": False}
 
     logger.info(f"═══ EMAIL: sending to {len(unsent)} verified leads ═══")
-    stats = send_batch(unsent, niche, config, storage)
+    
+    # Inject the selected account into the config for the mailer
+    config_for_mailer = config.copy()
+    config_for_mailer["email"]["current_account"] = account
+    
+    stats = send_batch(unsent, niche, config_for_mailer, storage)
     logger.info(f"Email complete: {stats.get('sent', 0)} sent, {stats.get('failed', 0)} failed")
     return stats
 
@@ -430,6 +434,10 @@ def main():
             
             # Live save to CSV after every location finishes
             storage.export_csv()
+            # Also save to a city-specific CSV
+            current_city_websites = [l.get("website") for l in leads if l.get("website")]
+            if current_city_websites:
+                storage.export_csv_for_batch(current_city_websites, location)
             logger.info(f"Live saved results to CSV after {location}.")
 
     # Stage 7: Send emails (unless search-only or dry-run)
