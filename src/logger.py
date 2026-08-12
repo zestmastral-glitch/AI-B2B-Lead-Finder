@@ -55,6 +55,14 @@ def setup_logging(level=logging.INFO):
     root.addHandler(console)
     root.addHandler(file_handler)
 
+    # Silence noisy third-party libraries
+    logging.getLogger("urllib3").setLevel(logging.WARNING)
+    logging.getLogger("httpx").setLevel(logging.WARNING)
+    logging.getLogger("httpcore").setLevel(logging.WARNING)
+    logging.getLogger("ddgs").setLevel(logging.WARNING)
+    logging.getLogger("curl_cffi").setLevel(logging.WARNING)
+    logging.getLogger("WDM").setLevel(logging.WARNING)
+
 
 def get_logger(name: str) -> logging.Logger:
     """Return a named logger. Initializes logging on first call."""

@@ -60,7 +60,7 @@ def _search_ddgs(query: str, max_results: int) -> list[str]:
         # Over-fetch by 5x to allow aggressive filtering of directories
         results = DDGS().text(query, max_results=max_results * 5)
         urls = [r["href"] for r in results if "href" in r]
-        logger.info(f"DDGS returned {len(urls)} raw results")
+        logger.debug(f"DDGS returned {len(urls)} raw results")
         return urls
     except Exception as e:
         logger.warning(f"DDGS search failed: {e}")
@@ -71,7 +71,7 @@ def _search_google_library(query: str, max_results: int) -> list[str]:
     try:
         from googlesearch import search
         urls = list(search(query, num_results=max_results * 3, sleep_interval=1))
-        logger.info(f"Google Search Library returned {len(urls)} raw results")
+        logger.debug(f"Google Search Library returned {len(urls)} raw results")
         return urls
     except ImportError:
         logger.warning("googlesearch-python not installed. Use 'pip install googlesearch-python'")
@@ -125,7 +125,7 @@ def _search_bing_html(query: str, max_results: int) -> list[str]:
             if len(urls) >= max_results * 2:
                 break
 
-        logger.info(f"Bing HTML returned {len(urls)} raw results across pages")
+        logger.debug(f"Bing HTML returned {len(urls)} raw results across pages")
         return urls
     except Exception as e:
         logger.warning(f"Bing HTML search failed: {e}")
@@ -168,7 +168,7 @@ def _search_yahoo_html(query: str, max_results: int) -> list[str]:
             if len(urls) >= max_results * 2:
                 break
 
-        logger.info(f"Yahoo HTML returned {len(urls)} raw results across pages")
+        logger.debug(f"Yahoo HTML returned {len(urls)} raw results across pages")
         return urls
     except Exception as e:
         logger.warning(f"Yahoo HTML search failed: {e}")
@@ -208,7 +208,7 @@ def _search_ddg_html(query: str) -> list[str]:
                 if href.startswith("http"):
                     urls.append(href)
 
-        logger.info(f"DDG HTML returned {len(urls)} raw results")
+        logger.debug(f"DDG HTML returned {len(urls)} raw results")
         return urls
     except Exception as e:
         logger.warning(f"DDG HTML search failed: {e}")
@@ -237,7 +237,7 @@ def _search_yellowpages(niche: str, location: str, max_results: int) -> list[str
             if href.startswith("http"):
                 urls.append(href)
                 
-        logger.info(f"Yellow Pages returned {len(urls)} raw business websites")
+        logger.debug(f"Yellow Pages returned {len(urls)} raw business websites")
         return urls[:max_results * 2]
     except Exception as e:
         logger.warning(f"Yellow Pages search failed: {e}")
@@ -274,7 +274,7 @@ def search_leads(niche: str, location: str, max_results: int = 25, config: dict 
         if len(results) >= max_results:
             break
             
-        logger.info(f"Searching leads for query: '{query}'")
+        logger.debug(f"Searching leads for query: '{query}'")
         time.sleep(random.uniform(min_delay, max_delay))
 
         # Strategy 1: ddgs library
@@ -282,19 +282,19 @@ def search_leads(niche: str, location: str, max_results: int = 25, config: dict 
 
         # Strategy 2: DuckDuckGo HTML fallback
         if len(raw_urls) < max_results:
-            logger.info(f"DDGS only got {len(raw_urls)}, stacking DDG HTML...")
+            logger.debug(f"DDGS only got {len(raw_urls)}, stacking DDG HTML...")
             time.sleep(random.uniform(min_delay, max_delay))
             raw_urls.extend(_search_ddg_html(query))
 
         # Strategy 3: Bing HTML fallback (Paginated)
         if len(raw_urls) < max_results:
-            logger.info(f"Still need more ({len(raw_urls)}), stacking Bing...")
+            logger.debug(f"Still need more ({len(raw_urls)}), stacking Bing...")
             time.sleep(random.uniform(min_delay, max_delay))
             raw_urls.extend(_search_bing_html(query, max_results))
 
         # Strategy 4: Yahoo HTML fallback (Paginated)
         if len(raw_urls) < max_results:
-            logger.info(f"Still need more ({len(raw_urls)}), stacking Yahoo...")
+            logger.debug(f"Still need more ({len(raw_urls)}), stacking Yahoo...")
             time.sleep(random.uniform(min_delay, max_delay))
             raw_urls.extend(_search_yahoo_html(query, max_results))
 
@@ -322,5 +322,5 @@ def search_leads(niche: str, location: str, max_results: int = 25, config: dict 
                 if len(results) >= max_results:
                     break
 
-    logger.info(f"Found {len(results)} unique business URLs for '{niche}' in '{location}'")
+    logger.debug(f"Found {len(results)} unique business URLs for '{niche}' in '{location}'")
     return results
