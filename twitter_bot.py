@@ -30,7 +30,7 @@ def generate_tweet():
                 "HTTP-Referer": "https://github.com/zestmastral-glitch/AI-B2B-Lead-Finder",
             },
             json={
-                "model": "liquid/lfm-40b:free", # Using a free model on OpenRouter
+                "model": "nvidia/nemotron-3-ultra-550b-a55b:free", # Using a free model on OpenRouter
                 "messages": [{"role": "user", "content": prompt}]
             }
         )
