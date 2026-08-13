@@ -1,190 +1,313 @@
 Date,Business Name,Website,Emails,Verified Emails,Verification Status,Phone,Country,Status
-2026-08-13,Edvido,https://www.edvido.com,info@edvido.com,info@edvido.com,catch_all,,,new
-2026-08-13,Digital Domination Marketing & Software,https://digitaldomination.ai,accounting@digitaldomination.ai,accounting@digitaldomination.ai,valid,,,new
-2026-08-13,LYFE Marketing,https://www.lyfemarketing.com,info@lyfemarketing.com,info@lyfemarketing.com,valid,404-596-7925,,new
-2026-08-13,602 Marketing,https://602marketingaz.com,"jane@company.com, 602marketinggroup@gmail.com",602marketinggroup@gmail.com,valid,(218) 850-1115,,new
+2026-08-13,Edvido,https://www.edvido.com,info@edvido.com,info@edvido.com,catch_all,,,emailed
+2026-08-13,Digital Domination Marketing & Software,https://digitaldomination.ai,accounting@digitaldomination.ai,accounting@digitaldomination.ai,valid,,,emailed
+2026-08-13,LYFE Marketing,https://www.lyfemarketing.com,info@lyfemarketing.com,info@lyfemarketing.com,valid,404-596-7925,,emailed
+2026-08-13,602 Marketing,https://602marketingaz.com,"jane@company.com, 602marketinggroup@gmail.com",602marketinggroup@gmail.com,valid,(218) 850-1115,,emailed
 2026-08-13,Angell Marketing,https://www.angellmarketing.com,info@angellmarketing.com,,invalid,,,new
-2026-08-13,Marketing LTB -,https://marketingltb.com,info@marketingltb.com,info@marketingltb.com,catch_all,,,new
+2026-08-13,Marketing LTB -,https://marketingltb.com,info@marketingltb.com,info@marketingltb.com,catch_all,,,emailed
 2026-08-13,Semrush Agency Partners,https://agencies.semrush.com,"agencies@semrush.com, mail@semrush.com",,invalid,,,new
-2026-08-13,Get Visible - Digital Marketing Agency,https://www.getvisible.com,john@doe.com,john@doe.com,catch_all,,,new
-2026-08-13,NEWMEDIA.COM,https://newmedia.com,"support@newmedia.com, hello@newmedia.com","support@newmedia.com, hello@newmedia.com",catch_all,(212) 220-6200,,new
-2026-08-13,"Voted Best Phoenix Web Designers, Arizona Advertising Agency, Graphic Designer, Web Developers, Branding and Marketing Firms in Phoenix AZ",https://ave25.com,"info@ave25.com, hello@ave25.com, social@ave25.com","info@ave25.com, hello@ave25.com, social@ave25.com",valid,(602) 864-1233,,new
+2026-08-13,Get Visible - Digital Marketing Agency,https://www.getvisible.com,john@doe.com,john@doe.com,catch_all,,,emailed
+2026-08-13,NEWMEDIA.COM,https://newmedia.com,"support@newmedia.com, hello@newmedia.com","support@newmedia.com, hello@newmedia.com",catch_all,(212) 220-6200,,emailed
+2026-08-13,"Voted Best Phoenix Web Designers, Arizona Advertising Agency, Graphic Designer, Web Developers, Branding and Marketing Firms in Phoenix AZ",https://ave25.com,"info@ave25.com, hello@ave25.com, social@ave25.com","info@ave25.com, hello@ave25.com, social@ave25.com",valid,(602) 864-1233,,emailed
 2026-08-13,Frack Technologies,https://fracktechnologies.com,info@fracktechnologies.com,,invalid,329 5423,,new
 2026-08-13,Titanmind,https://titanmindhq.com,john.doe@gmail.com,,invalid,,,new
 2026-08-13,Home,https://dovemountainmarketing.com,inquires@dovemountainmarketing.com,,invalid,,,new
 2026-08-13,GrowthX247,https://growthx247.com,support@growthx247.com,,invalid,,,new
-2026-08-13,Helena - The last marketing hire you'll ever make.,https://www.enrichlabs.ai,"support@enrichlabs.ai, john@company.com, sam@enrichlabs.ai, admin@enrichlabs.ai","support@enrichlabs.ai, admin@enrichlabs.ai",valid,,,new
-2026-08-13,Your Creative Services Team Led By Creative Directors - Designity,https://www.designity.com,support@designity.com,support@designity.com,valid,+1 (917) 634-3407,,new
+2026-08-13,Helena - The last marketing hire you'll ever make.,https://www.enrichlabs.ai,"support@enrichlabs.ai, john@company.com, sam@enrichlabs.ai, admin@enrichlabs.ai","support@enrichlabs.ai, admin@enrichlabs.ai",valid,,,emailed
+2026-08-13,Your Creative Services Team Led By Creative Directors - Designity,https://www.designity.com,support@designity.com,support@designity.com,valid,+1 (917) 634-3407,,emailed
 2026-08-13,OnBaze,https://onbaze.com,company@onbaze.com,,invalid,+1 (858) 397-9792,,new
 2026-08-13,Webxtalk Pvt. Ltd.,https://webxtalk.com,"mandy@webxtalk.in, sales@webxtalk.com, info@webxtalk.com, hr@webxtalk.com, info@wextalk.com",,unverified,661 4147,,new
 2026-08-13,Viking Digital Marketing Tempe | Call 888-231-4191,https://vikingdigitalmarketing.com,sales@vikingdigitalmarketing.com,,unverified,(888) 231-4191,,new
-2026-08-13,Sermondo,https://sermondo.com,support@sermondo.com,support@sermondo.com,catch_all,,,new
+2026-08-13,Sermondo,https://sermondo.com,support@sermondo.com,support@sermondo.com,catch_all,,,emailed
 2026-08-13,Contractors Digital Marketing Nationwide Advertisment,https://contractorsdigitalmarketing.com,contratorsmarketing@yahoo.com,,unverified,,,new
 2026-08-13,AdLift,https://www.adlift.com,"john@company.com, abcd@adlift.com, u003eabc@email.com, hello@adlift.com, jane@company.com, finance@aureliawellness.com, vendors@emberearth.in, payables@solsticelife.co.in, ap.team@harborline.in, accounts@northbridge.com, u003eaccounts@northbridge.com, accounts@meridianfashion.com, finance@verdantskin.in",,unverified,,,new
-2026-08-13,Webhopers,https://www.webhopers.com,"sales@webhopers.com, info@webhopers.com","sales@webhopers.com, info@webhopers.com",valid,5859684,,new
-2026-08-13,MobileAppDaily,https://www.mobileappdaily.com,editor@mobileappdaily.com,editor@mobileappdaily.com,valid,,,new
-2026-08-13,Improvado,https://improvado.io,"info@improvado.io, example@email.com",info@improvado.io,valid,,,new
-2026-08-13,Spur,https://www.spurnow.com,support@spurnow.com,support@spurnow.com,valid,9195990552,,new
-2026-08-13,Hispanic Marketing Agency | Entravision Digital,https://www.entravisionlocalmarketingsolutions.com,"info@entravisionlocalmarketingsolutions.com, info@entravisiondigital.com","info@entravisionlocalmarketingsolutions.com, info@entravisiondigital.com",catch_all,(877) 375-3632,,new
+2026-08-13,Webhopers,https://www.webhopers.com,"sales@webhopers.com, info@webhopers.com","sales@webhopers.com, info@webhopers.com",valid,5859684,,emailed
+2026-08-13,MobileAppDaily,https://www.mobileappdaily.com,editor@mobileappdaily.com,editor@mobileappdaily.com,valid,,,emailed
+2026-08-13,Improvado,https://improvado.io,"info@improvado.io, example@email.com",info@improvado.io,valid,,,emailed
+2026-08-13,Spur,https://www.spurnow.com,support@spurnow.com,support@spurnow.com,valid,9195990552,,emailed
+2026-08-13,Hispanic Marketing Agency | Entravision Digital,https://www.entravisionlocalmarketingsolutions.com,"info@entravisionlocalmarketingsolutions.com, info@entravisiondigital.com","info@entravisionlocalmarketingsolutions.com, info@entravisiondigital.com",catch_all,(877) 375-3632,,emailed
 2026-08-13,Phoenix SEO Company: Powerful SEO Results [20+ Yrs],https://www.sodermanseo.com,support@sodermanmarketing.com,,invalid,(602) 892-0900,,new
-2026-08-13,Nvent Marketing,https://nventmarketing.com,goto@nventmarketing.com,goto@nventmarketing.com,valid,(888) 388-8030,,new
-2026-08-13,Phoenix SEO Company,https://phoenixseoco.com,deacon@phoenixseoco.com,deacon@phoenixseoco.com,catch_all,(480) 269-2591,,new
-2026-08-13,SEO & AI Search Visibility Agency | Loopex Digital,https://www.loopexdigital.com,hello@loopexdigital.com,hello@loopexdigital.com,catch_all,(844) 670-8343,,new
-2026-08-13,Simply Digital Marketing Group,https://simplydigitalmarketinggroup.com,"quanto.agency@mail.com, sasha@simplydmg.com",sasha@simplydmg.com,catch_all,+1 702 960 3490,,new
-2026-08-13,Helium SEO,https://helium-seo.com,sales@helium-seo.com,sales@helium-seo.com,catch_all,513-563-3065,,new
+2026-08-13,Nvent Marketing,https://nventmarketing.com,goto@nventmarketing.com,goto@nventmarketing.com,valid,(888) 388-8030,,emailed
+2026-08-13,Phoenix SEO Company,https://phoenixseoco.com,deacon@phoenixseoco.com,deacon@phoenixseoco.com,catch_all,(480) 269-2591,,emailed
+2026-08-13,SEO & AI Search Visibility Agency | Loopex Digital,https://www.loopexdigital.com,hello@loopexdigital.com,hello@loopexdigital.com,catch_all,(844) 670-8343,,emailed
+2026-08-13,Simply Digital Marketing Group,https://simplydigitalmarketinggroup.com,"quanto.agency@mail.com, sasha@simplydmg.com",sasha@simplydmg.com,catch_all,+1 702 960 3490,,emailed
+2026-08-13,Helium SEO,https://helium-seo.com,sales@helium-seo.com,sales@helium-seo.com,catch_all,513-563-3065,,emailed
 2026-08-13,"Norobots - Verified people, real portfolios, and trustworthy reviews.",https://norobots.co,your@email.com,,unverified,,,new
-2026-08-13,Amlan Maiti - AI Digital Marketing & SEO Expert Consultant,https://www.amlanmaiti.co.in,amlan@digitalpiloto.com,amlan@digitalpiloto.com,catch_all,326 9794,,new
+2026-08-13,Amlan Maiti - AI Digital Marketing & SEO Expert Consultant,https://www.amlanmaiti.co.in,amlan@digitalpiloto.com,amlan@digitalpiloto.com,catch_all,326 9794,,emailed
 2026-08-13,Magnitude Management,https://magnitudemanagement.com,john@magnitudemanagement.com,,invalid,+1 (520) 609-4592,,new
-2026-08-13,Digital Piloto - Best Digital Marketing Consultancy Firm,https://www.digitalpiloto.com,"hr@digitalpiloto.com, info@digitalpiloto.com","hr@digitalpiloto.com, info@digitalpiloto.com",catch_all,326 9794,,new
+2026-08-13,Digital Piloto - Best Digital Marketing Consultancy Firm,https://www.digitalpiloto.com,"hr@digitalpiloto.com, info@digitalpiloto.com","hr@digitalpiloto.com, info@digitalpiloto.com",catch_all,326 9794,,emailed
 2026-08-13,Seota Digital Marketing,https://seota.com,info@seota.com,,invalid,972-737-2830,,new
-2026-08-13,1Digital® Agency,https://www.1digitalagency.com,"info@1digitalagency.com, rfp@1digitalagency.com","info@1digitalagency.com, rfp@1digitalagency.com",valid,888-982-8269,,new
+2026-08-13,1Digital® Agency,https://www.1digitalagency.com,"info@1digitalagency.com, rfp@1digitalagency.com","info@1digitalagency.com, rfp@1digitalagency.com",valid,888-982-8269,,emailed
 2026-08-13,MakDigitalDesign,https://makdigitaldesign.com,info@makdigitaldesign.com,,invalid,1-888-553-8776,,new
-2026-08-13,Aero Business Solutions,https://www.aerobusinesssolutions.com,hello@aerobusinesssolutions.com,hello@aerobusinesssolutions.com,catch_all,,,new
-2026-08-13,Phoenix SEO Geek,https://phoenixseogeek.com,info@phoenixseogeek.com,info@phoenixseogeek.com,catch_all,(480) 842-5055,,new
-2026-08-13,Growth Hackers,https://www.growth-hackers.net,"matt@growth-hackers.net, info@growth-hackers.net","matt@growth-hackers.net, info@growth-hackers.net",catch_all,,,new
-2026-08-13,Digital Marketing Agency | Pronto Live Internet Marketing Agency,https://prontolivemarketing.com,connect@prontolivemarketing.com,connect@prontolivemarketing.com,catch_all,(916) 847-9493,,new
-2026-08-13,NUOPTIMA,https://nuoptima.com,"jane@yourmsp.com, goce@nuoptima.com",goce@nuoptima.com,valid,4407366,,new
+2026-08-13,Aero Business Solutions,https://www.aerobusinesssolutions.com,hello@aerobusinesssolutions.com,hello@aerobusinesssolutions.com,catch_all,,,emailed
+2026-08-13,Phoenix SEO Geek,https://phoenixseogeek.com,info@phoenixseogeek.com,info@phoenixseogeek.com,catch_all,(480) 842-5055,,emailed
+2026-08-13,Growth Hackers,https://www.growth-hackers.net,"matt@growth-hackers.net, info@growth-hackers.net","matt@growth-hackers.net, info@growth-hackers.net",catch_all,,,emailed
+2026-08-13,Digital Marketing Agency | Pronto Live Internet Marketing Agency,https://prontolivemarketing.com,connect@prontolivemarketing.com,connect@prontolivemarketing.com,catch_all,(916) 847-9493,,emailed
+2026-08-13,NUOPTIMA,https://nuoptima.com,"jane@yourmsp.com, goce@nuoptima.com",goce@nuoptima.com,valid,4407366,,emailed
 2026-08-13,AEO Vision,https://aeovision.ai,john@company.com,,unverified,,,new
-2026-08-13,Leading Full-Service Influencer Marketing Agency | Obviously,https://www.obvious.ly,contact@obvious.ly,contact@obvious.ly,valid,,,new
-2026-08-13,10SEOS,https://www.10seos.com,info@10seos.com,info@10seos.com,catch_all,,,new
-2026-08-13,AMWÂ® â Run the Business. Grow the Brand.,https://amworldgroup.com,"info@amworldgroup.com, you@email.com, you@company.com",info@amworldgroup.com,valid,,,new
+2026-08-13,Leading Full-Service Influencer Marketing Agency | Obviously,https://www.obvious.ly,contact@obvious.ly,contact@obvious.ly,valid,,,emailed
+2026-08-13,10SEOS,https://www.10seos.com,info@10seos.com,info@10seos.com,catch_all,,,emailed
+2026-08-13,AMWÂ® â Run the Business. Grow the Brand.,https://amworldgroup.com,"info@amworldgroup.com, you@email.com, you@company.com",info@amworldgroup.com,valid,,,emailed
 2026-08-13,Vimeo,https://vimeo.com,example@domain.com,,invalid,,,new
-2026-08-13,Socially Powerful,https://sociallypowerful.com,"asia@sociallypowerful.com, usa@sociallypowerful.com, mena@sociallypowerful.com, careers@sociallypowerful.com, press@sociallypowerful.com, james.hacking@sociallypowerful.com, tellmemore@sociallypowerful.com","asia@sociallypowerful.com, usa@sociallypowerful.com, mena@sociallypowerful.com, careers@sociallypowerful.com, press@sociallypowerful.com, james.hacking@sociallypowerful.com, tellmemore@sociallypowerful.com",valid,+1 (646) 692-0462,,new
-2026-08-13,IndeedSEO - Best SEO Company India,https://indeedseo.com,info@indeedseo.com,info@indeedseo.com,valid,+1 808 999 0096,,new
-2026-08-13,Pearl Lemon Leads USA,https://pearllemonleadsusa.com,me@deepakshukla.com,me@deepakshukla.com,valid,+16502784421,,new
-2026-08-13,7seamarketing,https://7seamarketing.com,"you@brand.com, contact@7seamarketing.com",contact@7seamarketing.com,catch_all,,,new
+2026-08-13,Socially Powerful,https://sociallypowerful.com,"asia@sociallypowerful.com, usa@sociallypowerful.com, mena@sociallypowerful.com, careers@sociallypowerful.com, press@sociallypowerful.com, james.hacking@sociallypowerful.com, tellmemore@sociallypowerful.com","asia@sociallypowerful.com, usa@sociallypowerful.com, mena@sociallypowerful.com, careers@sociallypowerful.com, press@sociallypowerful.com, james.hacking@sociallypowerful.com, tellmemore@sociallypowerful.com",valid,+1 (646) 692-0462,,emailed
+2026-08-13,IndeedSEO - Best SEO Company India,https://indeedseo.com,info@indeedseo.com,info@indeedseo.com,valid,+1 808 999 0096,,emailed
+2026-08-13,Pearl Lemon Leads USA,https://pearllemonleadsusa.com,me@deepakshukla.com,me@deepakshukla.com,valid,+16502784421,,emailed
+2026-08-13,7seamarketing,https://7seamarketing.com,"you@brand.com, contact@7seamarketing.com",contact@7seamarketing.com,catch_all,,,emailed
 2026-08-13,"The AI Sales OS For Smarter, Faster Revenue Growth",https://www.success.ai,you@company.com,,unverified,,,new
 2026-08-13,DuckDuckGo,https://duckduckgo.com,"shield-boom-light@3x.webp, shield-boom-dark@3x.avif, shield-boom-light@3x.avif, career-dark@3x.avif, take-control-light@3x.webp, career-dark@3x.webp, take-control-dark@3x.avif, career-light@3x.avif, shield-boom-dark@3x.webp, career-light@3x.webp, take-control-dark@3x.webp, take-control-light@3x.avif",,invalid,,,new
-2026-08-13,Callbox Inc. - B2B Lead Generation Company,https://www.callboxinc.com,"u003esales@callboxinc.com, sales@callboxinc.com","u003esales@callboxinc.com, sales@callboxinc.com",catch_all,+1 888 810 7464,,new
-2026-08-13,Hire Top 1% Virtual Assistants | Stealth Agents,https://stealthagents.com,"support@stealthagents.com, hello@stealthagents.com","support@stealthagents.com, hello@stealthagents.com",catch_all,(888) 693-1045,,new
-2026-08-13,Single Grain,https://www.singlegrain.com,info@singlegrain.com,info@singlegrain.com,valid,,,new
-2026-08-13,B2B Marketing Agency | Inbound Marketing & Account-Based Marketing,https://www.310creative.com,info@310creative.com,info@310creative.com,catch_all,,,new
+2026-08-13,Callbox Inc. - B2B Lead Generation Company,https://www.callboxinc.com,"u003esales@callboxinc.com, sales@callboxinc.com","u003esales@callboxinc.com, sales@callboxinc.com",catch_all,+1 888 810 7464,,emailed
+2026-08-13,Hire Top 1% Virtual Assistants | Stealth Agents,https://stealthagents.com,"support@stealthagents.com, hello@stealthagents.com","support@stealthagents.com, hello@stealthagents.com",catch_all,(888) 693-1045,,emailed
+2026-08-13,Single Grain,https://www.singlegrain.com,info@singlegrain.com,info@singlegrain.com,valid,,,emailed
+2026-08-13,B2B Marketing Agency | Inbound Marketing & Account-Based Marketing,https://www.310creative.com,info@310creative.com,info@310creative.com,catch_all,,,emailed
 2026-08-13,SEOTakeoff,https://www.seotakeoff.com,graham@seotakeoff.com,,unverified,,,new
 2026-08-13,MirrorProfiles,https://mirrorprofiles.com,info@mirrorprofiles.com,,invalid,,,new
-2026-08-13,Jake Jorgovan,https://jake-jorgovan.com,"jake@jake-jorgovan.com, user@domain.com",jake@jake-jorgovan.com,catch_all,,,new
-2026-08-13,"AI Sales Platform | Apollo.io - Outbound, Inbound & Automation",https://www.apollo.io,"press@apollo.io, u003eprivacy@apollo.io, u003esupport@apollo.io, u003eapollo@lionheartsquared.eu",press@apollo.io,valid,,,new
-2026-08-13,SalesCaptain | B2B Outbound & GTM Agency,https://www.salescaptain.io,hello@salescaptain.io,hello@salescaptain.io,valid,,,new
-2026-08-13,LeadsMunch,https://leadsmunch.com,"info@leadsmunch.com, leadsmunch@gmail.com, %20leadsmunch@gmail.com, churchsupport@gmail.com",leadsmunch@gmail.com,valid,575 3863,,new
+2026-08-13,Jake Jorgovan,https://jake-jorgovan.com,"jake@jake-jorgovan.com, user@domain.com",jake@jake-jorgovan.com,catch_all,,,emailed
+2026-08-13,"AI Sales Platform | Apollo.io - Outbound, Inbound & Automation",https://www.apollo.io,"press@apollo.io, u003eprivacy@apollo.io, u003esupport@apollo.io, u003eapollo@lionheartsquared.eu",press@apollo.io,valid,,,emailed
+2026-08-13,SalesCaptain | B2B Outbound & GTM Agency,https://www.salescaptain.io,hello@salescaptain.io,hello@salescaptain.io,valid,,,emailed
+2026-08-13,LeadsMunch,https://leadsmunch.com,"info@leadsmunch.com, leadsmunch@gmail.com, %20leadsmunch@gmail.com, churchsupport@gmail.com",leadsmunch@gmail.com,valid,575 3863,,emailed
 2026-08-13,Expansion Americas,https://expansionamericas.com,"sales@expansionamericas.com, support@expansionamericas.com",,unverified,,,new
 2026-08-13,Leadra.io,https://leadra.io,info@leadra.io,,invalid,(864) 721-8384,,new
 2026-08-13,Bemo Design,https://bemodesign.com,info@bemodesign.com,,unverified,(480) 600-2477,,new
-2026-08-13,Intent Amplify,https://intentamplify.com,"name@email.com, sales@intentamplify.com, mark@intentamplify.com",sales@intentamplify.com,valid,+1-602-898-6394,,new
-2026-08-13,Marketcall - Pay Per Call Affiliate Network,https://www.marketcall.com,"affiliate@marketcall.com, info@marketcall.com","affiliate@marketcall.com, info@marketcall.com",valid,+1 (844) 410-5210,,new
+2026-08-13,Intent Amplify,https://intentamplify.com,"name@email.com, sales@intentamplify.com, mark@intentamplify.com",sales@intentamplify.com,valid,+1-602-898-6394,,emailed
+2026-08-13,Marketcall - Pay Per Call Affiliate Network,https://www.marketcall.com,"affiliate@marketcall.com, info@marketcall.com","affiliate@marketcall.com, info@marketcall.com",valid,+1 (844) 410-5210,,emailed
 2026-08-13,Leadsbro,https://leadsbro.com,"hello@leadsbro.com, john@company.com",,unverified,,,new
-2026-08-13,Software Testing Help - FREE IT Courses and Business Software/Service Reviews,https://www.softwaretestinghelp.com,info@softwaretestinghelp.com,info@softwaretestinghelp.com,catch_all,,,new
+2026-08-13,Software Testing Help - FREE IT Courses and Business Software/Service Reviews,https://www.softwaretestinghelp.com,info@softwaretestinghelp.com,info@softwaretestinghelp.com,catch_all,,,emailed
 2026-08-13,Scopic Studios,https://marketing-microsite.scopicsoftware.net,"sales@scopicsoftware.com, sales@scopicstudios.com",,invalid,+1 (508) 886-3240,,new
-2026-08-13,Korn Ferry | Organizational Consulting,https://www.kornferry.com,stacy.rozen@kornferry.com,stacy.rozen@kornferry.com,catch_all,,,new
-2026-08-13,Forbes,https://www.forbes.com,"feedback@forbes.com, accolades@forbes.com, pressinquiries@forbes.com, frbcustserv@cdsfulfillment.com, corrections@forbes.com, security@forbes.com, readers@forbes.com",frbcustserv@cdsfulfillment.com,catch_all,,,new
+2026-08-13,Korn Ferry | Organizational Consulting,https://www.kornferry.com,stacy.rozen@kornferry.com,stacy.rozen@kornferry.com,catch_all,,,emailed
+2026-08-13,Forbes,https://www.forbes.com,"feedback@forbes.com, accolades@forbes.com, pressinquiries@forbes.com, frbcustserv@cdsfulfillment.com, corrections@forbes.com, security@forbes.com, readers@forbes.com",frbcustserv@cdsfulfillment.com,catch_all,,,emailed
 2026-08-13,Bain,https://www.bain.com,"dan.pinkney@bain.com, alumni.relations@bain.com, ann.lee@bain.com, gary.duncan@bain.com, webmaster@bain.com",,unverified,996-2026,,new
-2026-08-13,CaseBasix - Consulting Prep & Career Coaching,https://www.casebasix.com,support@casebasix.com,support@casebasix.com,catch_all,,,new
+2026-08-13,CaseBasix - Consulting Prep & Career Coaching,https://www.casebasix.com,support@casebasix.com,support@casebasix.com,catch_all,,,emailed
 2026-08-13,BSS - Стабильно увеличиваем доходы с помощью отдела продаж и привлекаем целевых клиентов,https://b2b-sales.systems,info@b2ss.ru,,invalid,17242294328,,new
 2026-08-13,B2B Contact Data & Validation Platform | the8.ai,https://www.the8.ai,"support@the8.ai, john@company.com",,unverified,,,new
 2026-08-13,The Five Abilities,https://thefiveabilities.com,rick.wong@fiveabilities.com,,unverified,(480) 977-8298,,new
-2026-08-13,Home - Vault,https://vault.com,"hello@vault.com, support@vault.com",support@vault.com,valid,,,new
+2026-08-13,Home - Vault,https://vault.com,"hello@vault.com, support@vault.com",support@vault.com,valid,,,emailed
 2026-08-13,KLA Group,https://klagroup.com,kendra.lee@klagroup.com,,invalid,303-741-6636,,new
 2026-08-13,Demand Generation & Sales Development Agency | Prosales Connection,https://www.prosalesconnection.com,info@prosalesconnection.com,,invalid,832-365-0730,,new
 2026-08-13,PA Consulting,https://www.paconsulting.com,digitalmarketing@paconsulting.com,,invalid,,,new
 2026-08-13,MEI Consulting Phoenix,https://meiconsultingphoenix.com,hr@meiconsultingphoenix.com,,invalid,,,new
-2026-08-13,OpsArmy,https://www.operationsarmy.com,tony@operationsarmy.com,tony@operationsarmy.com,valid,,,new
-2026-08-13,Phoenix 3 Consulting – Igniting personal excellence,https://phoenix3consulting.com,talent@phoenix3consulting.com,talent@phoenix3consulting.com,catch_all,,,new
-2026-08-13,SEI | Business & Technology Management Consulting Firm,https://www.sei.com,"eamobi@sei.com, bgallagher@sei.com, jdavis@sei.com, seyer@sei.com, mfisher@sei.com, dortiz@sei.com, awilson@sei.com, bcote@sei.com, sreilly@sei.com, caustensen@sei.com, rseichter@sei.com, kabendroth@sei.com, dbiederman@sei.com, esullivan@sei.com, amanueco@sei.com, sei@sei.com, dbarger@sei.com, rwillard@sei.com, gblumenthal@sei.com, sbhavana@sei.com, nalgarin@sei.com, mretz@sei.com, tgagnon@sei.com, akutcher@sei.com, pdonegan@sei.com","eamobi@sei.com, bgallagher@sei.com, jdavis@sei.com, seyer@sei.com, mfisher@sei.com, dortiz@sei.com, awilson@sei.com, bcote@sei.com, sreilly@sei.com, caustensen@sei.com, rseichter@sei.com, kabendroth@sei.com, dbiederman@sei.com, esullivan@sei.com, amanueco@sei.com, sei@sei.com, dbarger@sei.com, rwillard@sei.com, gblumenthal@sei.com, sbhavana@sei.com, nalgarin@sei.com, mretz@sei.com, tgagnon@sei.com, akutcher@sei.com, pdonegan@sei.com",catch_all,,,new
-2026-08-13,Belkins - #1 B2B Lead Generation Agency,https://belkins.io,"press@belkins.io, recruitment@belkins.io, sales@belkins.io, pr@belkins.io","press@belkins.io, recruitment@belkins.io, sales@belkins.io, pr@belkins.io",catch_all,+1 302-803-5506,,new
+2026-08-13,OpsArmy,https://www.operationsarmy.com,tony@operationsarmy.com,tony@operationsarmy.com,valid,,,emailed
+2026-08-13,Phoenix 3 Consulting – Igniting personal excellence,https://phoenix3consulting.com,talent@phoenix3consulting.com,talent@phoenix3consulting.com,catch_all,,,emailed
+2026-08-13,SEI | Business & Technology Management Consulting Firm,https://www.sei.com,"eamobi@sei.com, bgallagher@sei.com, jdavis@sei.com, seyer@sei.com, mfisher@sei.com, dortiz@sei.com, awilson@sei.com, bcote@sei.com, sreilly@sei.com, caustensen@sei.com, rseichter@sei.com, kabendroth@sei.com, dbiederman@sei.com, esullivan@sei.com, amanueco@sei.com, sei@sei.com, dbarger@sei.com, rwillard@sei.com, gblumenthal@sei.com, sbhavana@sei.com, nalgarin@sei.com, mretz@sei.com, tgagnon@sei.com, akutcher@sei.com, pdonegan@sei.com","eamobi@sei.com, bgallagher@sei.com, jdavis@sei.com, seyer@sei.com, mfisher@sei.com, dortiz@sei.com, awilson@sei.com, bcote@sei.com, sreilly@sei.com, caustensen@sei.com, rseichter@sei.com, kabendroth@sei.com, dbiederman@sei.com, esullivan@sei.com, amanueco@sei.com, sei@sei.com, dbarger@sei.com, rwillard@sei.com, gblumenthal@sei.com, sbhavana@sei.com, nalgarin@sei.com, mretz@sei.com, tgagnon@sei.com, akutcher@sei.com, pdonegan@sei.com",catch_all,,,emailed
+2026-08-13,Belkins - #1 B2B Lead Generation Agency,https://belkins.io,"press@belkins.io, recruitment@belkins.io, sales@belkins.io, pr@belkins.io","press@belkins.io, recruitment@belkins.io, sales@belkins.io, pr@belkins.io",catch_all,+1 302-803-5506,,emailed
 2026-08-13,JWPM Industrial Strength Marketing,https://jwpm.com.au,contact@jwpm.com.au,,unverified,,,new
 2026-08-13,PTP Consulting,https://www.ptpexperts.com,"contact@ptpexperts.com, info@ptpexperts.com",,invalid,844-575-3689,,new
 2026-08-13,"Brevo: Email & SMS Marketing, CRM & Automation Platform",https://www.brevo.com,videdressing@1x-1-1.webp,,invalid,,,new
-2026-08-13,Print & Marketing Solutions | AlphaGraphics Corporate,https://www.alphagraphics.com,agsupport@alphagraphics.com,agsupport@alphagraphics.com,catch_all,800.955.6246,,new
+2026-08-13,Print & Marketing Solutions | AlphaGraphics Corporate,https://www.alphagraphics.com,agsupport@alphagraphics.com,agsupport@alphagraphics.com,catch_all,800.955.6246,,emailed
 2026-08-13,thinkpixa.com,https://thinkpixa.com,customercare@thinkpixa.com,,invalid,480.380.2201,,new
 2026-08-13,"Digital Marketing Agency in Phoenix, AZ | Internet Marketing | REV77",https://www.rev77.com,"support@rev77.com, mymail@mailservice.com",,unverified,555-555-5555,,new
-2026-08-13,Colling Media,https://collingmedia.com,info@collingmedia.com,info@collingmedia.com,valid,480.889.8944,,new
+2026-08-13,Colling Media,https://collingmedia.com,info@collingmedia.com,info@collingmedia.com,valid,480.889.8944,,emailed
 2026-08-13,Zapnix,https://www.zapnix.co,support@zapnix.co,,invalid,+1 -855-390-3900,,new
 2026-08-13,Best Digital Marketing & Outdoor Advertising Agency in the US,https://www.vision2020group.com,sales@vision2020group.com,,invalid,(862) 250-5796,,new
-2026-08-13,AeroLeads,https://aeroleads.com,"support@aeroleads.com, hello@aeroleads.com","support@aeroleads.com, hello@aeroleads.com",catch_all,+1 (628) 282 4380,,new
-2026-08-13,Krowdbase,https://www.krowdbase.com,team@krowdbase.com,team@krowdbase.com,catch_all,,,new
-2026-08-13,FotoLog - Magazine 2025,https://www.fotoolog.com,office@fotoolog.com,office@fotoolog.com,catch_all,,,new
-2026-08-13,Scottmax.com,https://scottmax.com,partners@scottmax.com,partners@scottmax.com,valid,,,new
+2026-08-13,AeroLeads,https://aeroleads.com,"support@aeroleads.com, hello@aeroleads.com","support@aeroleads.com, hello@aeroleads.com",catch_all,+1 (628) 282 4380,,emailed
+2026-08-13,Krowdbase,https://www.krowdbase.com,team@krowdbase.com,team@krowdbase.com,catch_all,,,emailed
+2026-08-13,FotoLog - Magazine 2025,https://www.fotoolog.com,office@fotoolog.com,office@fotoolog.com,catch_all,,,emailed
+2026-08-13,Scottmax.com,https://scottmax.com,partners@scottmax.com,partners@scottmax.com,valid,,,emailed
 2026-08-13,TML Agency,https://townmedialabs.com,"info@townmedialabs.com, john@company.com",,unverified,,,new
 2026-08-13,eLocal | Leaders in Pay-Per-Call,https://www.elocal.com,marketing@elocal.com,,invalid,(877) 418-8665,,new
 2026-08-13,Vora | New York Performance Marketing Agency — ROAS-Focused,https://aivopa.com,"hello@aivopa.com, alex@yourcompany.com",,unverified,(647) 370-1888,,new
-2026-08-13,Pick an Agency,https://www.pickanagency.com,nathan@pickanagency.com,nathan@pickanagency.com,catch_all,,,new
-2026-08-13,REVERB | Full Service Marketing,https://reverbico.com,david@reverbico.com,david@reverbico.com,catch_all,+1 507-923-6723,,new
+2026-08-13,Pick an Agency,https://www.pickanagency.com,nathan@pickanagency.com,nathan@pickanagency.com,catch_all,,,emailed
+2026-08-13,REVERB | Full Service Marketing,https://reverbico.com,david@reverbico.com,david@reverbico.com,catch_all,+1 507-923-6723,,emailed
 2026-08-13,Full-Stack Growth Agency for Ecommerce Brands | Digital Position,https://www.digitalposition.com,info@digitalposition.com,,invalid,(980) 277-2560,,new
 2026-08-13,The Ad Firm,https://www.theadfirm.net,ewg-logo-white@1x.svg,,invalid,(714) 442-7775,,new
-2026-08-13,PPC Agency | PPC Management Services | PPC Company | ppc.co,https://ppc.co,"info@ppc.co, you@company.com",info@ppc.co,valid,+1 (689) 399-6464,,new
-2026-08-13,Result-Driven Digital Marketing Agency | White Label Solutions for Global Brands,https://themarkace.com,"contact@themarkace.com, info@themarkace.com",contact@themarkace.com,valid,470-2900,,new
-2026-08-13,Phoenix,https://pxroproject.net,info@pxroproject.net,info@pxroproject.net,valid,,,new
-2026-08-13,Below Zero Media,https://belowzeromedia.com,hello@belowzeromedia.com,hello@belowzeromedia.com,catch_all,,,new
-2026-08-13,PPC Gems,https://www.ppcgems.com,"jane@yourbusiness.com, sales@ppcgems.com","jane@yourbusiness.com, sales@ppcgems.com",catch_all,+1 (437) 848 6690,,new
-2026-08-13,Vital Design,https://vitaldesign.com,info@vitaldesign.com,info@vitaldesign.com,valid,,,new
+2026-08-13,PPC Agency | PPC Management Services | PPC Company | ppc.co,https://ppc.co,"info@ppc.co, you@company.com",info@ppc.co,valid,+1 (689) 399-6464,,emailed
+2026-08-13,Result-Driven Digital Marketing Agency | White Label Solutions for Global Brands,https://themarkace.com,"contact@themarkace.com, info@themarkace.com",contact@themarkace.com,valid,470-2900,,emailed
+2026-08-13,Phoenix,https://pxroproject.net,info@pxroproject.net,info@pxroproject.net,valid,,,emailed
+2026-08-13,Below Zero Media,https://belowzeromedia.com,hello@belowzeromedia.com,hello@belowzeromedia.com,catch_all,,,emailed
+2026-08-13,PPC Gems,https://www.ppcgems.com,"jane@yourbusiness.com, sales@ppcgems.com","jane@yourbusiness.com, sales@ppcgems.com",catch_all,+1 (437) 848 6690,,emailed
+2026-08-13,Vital Design,https://vitaldesign.com,info@vitaldesign.com,info@vitaldesign.com,valid,,,emailed
 2026-08-13,Blue Corona,https://www.bluecorona.com,m-header-logo@3x.webp,,invalid,(800) 696-4690,,new
-2026-08-13,Just Digital Inc,https://justdigitalinc.com,info@justdigitalinc.com,info@justdigitalinc.com,catch_all,424-210-7128,,new
+2026-08-13,Just Digital Inc,https://justdigitalinc.com,info@justdigitalinc.com,info@justdigitalinc.com,catch_all,424-210-7128,,emailed
 2026-08-13,Hop2TheTop | Google Ads Management Services | Google PPC Mgt Company,https://www.hop2thetop.com,"info@hop2thetop.com, justin@hop2thetop.com, %20info@hop2thetop.com",,invalid,(800) 401-4972,,new
 2026-08-13,Helixbeat,https://helixbeat.com,info@helixbeat.com,,invalid,,,new
-2026-08-13,"PPC Agency, PPC Management Services, PPC Advertising Agency - SevenAtoms",https://www.sevenatoms.com,info@sevenatoms.com,info@sevenatoms.com,catch_all,+1 415-513-0435,,new
-2026-08-13,Sellers Catalyst,https://www.sellerscatalyst.com,"contact@sellerscatalyst.com, help@sellerscatalyst.com","contact@sellerscatalyst.com, help@sellerscatalyst.com",catch_all,1 (404) 565-4681,,new
-2026-08-13,Top SEO Services to Boost Revenue | Wildnet Marketing Agency,https://wildnetmarketing.agency,"info@wildnetmarketing.agency, sales@wildnetmarketing.agency","info@wildnetmarketing.agency, sales@wildnetmarketing.agency",catch_all,,,new
+2026-08-13,"PPC Agency, PPC Management Services, PPC Advertising Agency - SevenAtoms",https://www.sevenatoms.com,info@sevenatoms.com,info@sevenatoms.com,catch_all,+1 415-513-0435,,emailed
+2026-08-13,Sellers Catalyst,https://www.sellerscatalyst.com,"contact@sellerscatalyst.com, help@sellerscatalyst.com","contact@sellerscatalyst.com, help@sellerscatalyst.com",catch_all,1 (404) 565-4681,,emailed
+2026-08-13,Top SEO Services to Boost Revenue | Wildnet Marketing Agency,https://wildnetmarketing.agency,"info@wildnetmarketing.agency, sales@wildnetmarketing.agency","info@wildnetmarketing.agency, sales@wildnetmarketing.agency",catch_all,,,emailed
 2026-08-13,Signalytics,https://signalytics.ai,"support@signalytics.ai, ayesha.saleem@signalytics.ai",,invalid,,,new
-2026-08-13,ROI MINDS,https://roiminds.com,info@roiminds.com,info@roiminds.com,valid,1-7719515611,,new
+2026-08-13,ROI MINDS,https://roiminds.com,info@roiminds.com,info@roiminds.com,valid,1-7719515611,,emailed
 2026-08-13,BrandElevate Solutions,https://marketing.tauntondepot.com,proyectoweber+marketing.tauntondepot.com@gmail.com,,invalid,,,new
 2026-08-13,VaporWave Marketing Solutions,https://marketing.vaporkingusa.com,proyectoweber+marketing.vaporkingusa.com@gmail.com,,invalid,,,new
 2026-08-13,PRCO,https://www.prco.com,"info@prco.com, enquiries@prco.com",,invalid,,,new
-2026-08-13,Online PR,https://online.pr,"media@online.pr, support@online.pr, hello@online.pr","media@online.pr, support@online.pr, hello@online.pr",catch_all,,,new
+2026-08-13,Online PR,https://online.pr,"media@online.pr, support@online.pr, hello@online.pr","media@online.pr, support@online.pr, hello@online.pr",catch_all,,,emailed
 2026-08-13,mysite,https://www.oconnellpr.com,dan@oconnellpr.com,,unverified,708-363-6118,,new
 2026-08-13,HMA PR,https://hmapr.com,info@hmapr.com,,invalid,602.957.8881,,new
 2026-08-13,"Magic Pitch | Pitch anyone on Earth, about anything",https://magicpitch.com,hello@magicpitch.com,,invalid,,,new
-2026-08-13,Level Up Magazine,https://levelupmag.com,support@guestpostsale.com,support@guestpostsale.com,catch_all,,,new
-2026-08-13,Online PR,https://www1.online.pr,"media@online.pr, support@online.pr, hello@online.pr","media@online.pr, support@online.pr, hello@online.pr",catch_all,,,new
+2026-08-13,Level Up Magazine,https://levelupmag.com,support@guestpostsale.com,support@guestpostsale.com,catch_all,,,emailed
+2026-08-13,Online PR,https://www1.online.pr,"media@online.pr, support@online.pr, hello@online.pr","media@online.pr, support@online.pr, hello@online.pr",catch_all,,,emailed
 2026-08-13,Pr Agency Network,https://pragencynetwork.com,hi@pragencynetwork.com,,invalid,,,new
-2026-08-13,NewswireJet,https://newswirejet.com,info@newswirejet.com,info@newswirejet.com,catch_all,(301) 202-4515,,new
-2026-08-13,FixThePhoto.com,https://fixthephoto.com,fixthephotocom@gmail.com,fixthephotocom@gmail.com,valid,,,new
+2026-08-13,NewswireJet,https://newswirejet.com,info@newswirejet.com,info@newswirejet.com,catch_all,(301) 202-4515,,emailed
+2026-08-13,FixThePhoto.com,https://fixthephoto.com,fixthephotocom@gmail.com,fixthephotocom@gmail.com,valid,,,emailed
 2026-08-13,Statista,https://www.statista.com,"global.client.service@statista.com, eu.support@statista.com, support@statista.com",,invalid,821-2026,,new
 2026-08-13,Northwest Registered Agent,https://www.northwestregisteredagent.com,support@northwestregisteredagent.com,,invalid,509-768-2249,,new
-2026-08-13,Vinci,https://vincipr.com,"sales@vincipr.com, hello@vincipr.com","sales@vincipr.com, hello@vincipr.com",valid,7965120,,new
+2026-08-13,Vinci,https://vincipr.com,"sales@vincipr.com, hello@vincipr.com","sales@vincipr.com, hello@vincipr.com",valid,7965120,,emailed
 2026-08-13,WHIO TV 7 and WHIO Radio,https://www.whio.com,"whiocontentcenter@cmg.com, andrea.clay@cmg.com, chris.hartley@cmg.com, kristen.burchfield@cmg.com, todd.hollst@cmg.com, nick.roberts@cmg.com",,unverified,,,new
 2026-08-13,City of Phoenix,https://www.phoenix.gov,"vielka.miller@phoenix.gov, carmen.dealba@phoenix.gov, athena.sanchez@phoenix.gov, pfd.pio@phoenix.gov, michael.gertzman@phoenix.gov, alejandro.montiel@phoenix.gov, robert.mcdade@phoenix.gov, teleia.galaviz@phoenix.gov, ashley.patton@phoenix.gov, alexa.dangelo@phoenix.gov, kristin.couturier@phoenix.gov, john.trierweiler@phoenix.gov, luz.jimenez@phoenix.gov, mayorpress@phoenix.gov, jimena.garrison@phoenix.gov, lauren.evans@phoenix.gov, barton.fears@phoenix.gov, mercedes.fortune@phoenix.gov, lee.franklin@phoenix.gov, ali.pardi@phoenix.gov, angie.holdsworth@phoenix.gov, %09alexa.dangelo@phoenix.gov, heather.shelbrack@phoenix.gov, skyharborpio@phoenix.gov, adam.waltz@phoenix.gov, daniel.b.wilson@phoenix.gov, saneeya.mir@phoenix.gov, jeff.moriarty@phoenix.gov, kimberly.martin@phoenix.gov, brenda.yanez@phoenix.gov, matthew.hamada@phoenix.gov, spencer.blake@phoenix.gov",,unverified,602-262-3111,,new
-2026-08-13,Phoenix Public Relations »,https://www.phoenixpublicrelations.com,"gxcdesign@gmail.com, scottsackett@cox.net, nicole@prphx.com, yem.fong@gmail.com, tess@prphx.com, ashlei@prphx.com","gxcdesign@gmail.com, yem.fong@gmail.com",valid,(480) 771-4186,,new
+2026-08-13,Phoenix Public Relations »,https://www.phoenixpublicrelations.com,"gxcdesign@gmail.com, scottsackett@cox.net, nicole@prphx.com, yem.fong@gmail.com, tess@prphx.com, ashlei@prphx.com","gxcdesign@gmail.com, yem.fong@gmail.com",valid,(480) 771-4186,,emailed
 2026-08-13,Golin Ketchum,https://golinketchum.com,jane.doe@domain.com,,invalid,,,new
-2026-08-13,Felice Agency,https://www.feliceagency.com,"info@mysite.com, info@feliceagency.com",info@feliceagency.com,valid,,,new
+2026-08-13,Felice Agency,https://www.feliceagency.com,"info@mysite.com, info@feliceagency.com",info@feliceagency.com,valid,,,emailed
 2026-08-13,Superpages THE Local Business Directory,https://www.superpages.com,support@thryv.com,,invalid,1-866-794-0889,,new
 2026-08-13,FroggyAds,https://froggyads.com,you@company.com,,unverified,,,new
 2026-08-13,AppLovin,https://www.applovin.com,u003eaccommodations@applovin.com,,invalid,,,new
-2026-08-13,ON Advertising - Southwest Advertising Agency,https://onadvertising.com,"info@onadvertising.com, info@yournewsecretweapon.com",info@onadvertising.com,valid,,,new
-2026-08-13,Ablaze Media,https://ablazemedia.co,"mark@ablaze.media, mark@ablazemedia.co","mark@ablaze.media, mark@ablazemedia.co",valid,(480) 485-3200,,new
+2026-08-13,ON Advertising - Southwest Advertising Agency,https://onadvertising.com,"info@onadvertising.com, info@yournewsecretweapon.com",info@onadvertising.com,valid,,,emailed
+2026-08-13,Ablaze Media,https://ablazemedia.co,"mark@ablaze.media, mark@ablazemedia.co","mark@ablaze.media, mark@ablazemedia.co",valid,(480) 485-3200,,emailed
 2026-08-13,The Valley Marketing Group,https://thevalleymarketinggroup.com,info@thevalleymarketinggroup.com,,invalid,,,new
 2026-08-13,Brand Animators,https://www.brandanimators.com,info@brandanimators.com,,invalid,+1 346 697 7088,,new
 2026-08-13,CheapWebsiteUSA.com,https://www.cheapwebsiteusa.com,hello@cheapwebsitesusa.com,,invalid,,,new
-2026-08-13,Water Bear Marketing®,https://waterbearmarketing.com,"freeconsultation@waterbearmarketing.com, customerservice@waterbearmarketing.com","freeconsultation@waterbearmarketing.com, customerservice@waterbearmarketing.com",catch_all,800-341-7138,,new
+2026-08-13,Water Bear Marketing®,https://waterbearmarketing.com,"freeconsultation@waterbearmarketing.com, customerservice@waterbearmarketing.com","freeconsultation@waterbearmarketing.com, customerservice@waterbearmarketing.com",catch_all,800-341-7138,,emailed
 2026-08-13,AMANTI CREATIVE,https://www.amanticreative.com,user@domain.com,,invalid,,,new
-2026-08-13,SoftwareSuggest: Top Business Software Reviews and Recommendations,https://www.softwaresuggest.com,support@softwaresuggest.com,support@softwaresuggest.com,valid,,,new
+2026-08-13,SoftwareSuggest: Top Business Software Reviews and Recommendations,https://www.softwaresuggest.com,support@softwaresuggest.com,support@softwaresuggest.com,valid,,,emailed
 2026-08-13,Digital Marketing Agency in Phoenix AZ | Get More Leads Now,https://redlinemarketingco.com,info@redlinedezign.com,,invalid,(480) 725-2728,,new
 2026-08-13,Award-Winning Digital Marketing Agency in United States | ClickMasters,https://clickmastersdigitalmarketing.com,sales@clickmastersdigitalmarketing.com,,unverified,988 5760,,new
-2026-08-13,Fanntastic Media,https://www.fanntasticmediallc.com,"fanntasticmedia@gmail.com, user@domain.com",fanntasticmedia@gmail.com,valid,(602) 881-9067,,new
-2026-08-13,Exaalgia,https://exaalgia.com,"info@exaalgia.com, marketing@numerique.com",info@exaalgia.com,catch_all,+1 (385) 304-4433,,new
-2026-08-13,Wadline,https://wadline.com,"plegowebdesign@gmail.com, your@email.com, info@sisols.com, info@wadline.com, contact@company.com, contact@yourcompany.com, yuri.kitin@effective-soft.com, u003einfo@wadline.com",plegowebdesign@gmail.com,valid,,,new
+2026-08-13,Fanntastic Media,https://www.fanntasticmediallc.com,"fanntasticmedia@gmail.com, user@domain.com",fanntasticmedia@gmail.com,valid,(602) 881-9067,,emailed
+2026-08-13,Exaalgia,https://exaalgia.com,"info@exaalgia.com, marketing@numerique.com",info@exaalgia.com,catch_all,+1 (385) 304-4433,,emailed
+2026-08-13,Wadline,https://wadline.com,"plegowebdesign@gmail.com, your@email.com, info@sisols.com, info@wadline.com, contact@company.com, contact@yourcompany.com, yuri.kitin@effective-soft.com, u003einfo@wadline.com",plegowebdesign@gmail.com,valid,,,emailed
 2026-08-13,Social Media 55,https://socialmedia55.com,info@socialmedia55.com,,invalid,1-844-633-4255,,new
-2026-08-13,NeoReach Agency,https://neoreach.com,team@neoreach.com,team@neoreach.com,catch_all,,,new
+2026-08-13,NeoReach Agency,https://neoreach.com,team@neoreach.com,team@neoreach.com,catch_all,,,emailed
 2026-08-13,Scott Social,https://www.scottsocialmarketing.com,user@domain.com,,invalid,,,new
-2026-08-13,Quimby Digital,https://quimbydigital.com,ashley@quimbydigital.com,ashley@quimbydigital.com,catch_all,,,new
+2026-08-13,Quimby Digital,https://quimbydigital.com,ashley@quimbydigital.com,ashley@quimbydigital.com,catch_all,,,emailed
 2026-08-13,Traffic Tail Technologies Pvt. Ltd.,https://traffictail.com,info@traffictail.com,,invalid,702 4727,,new
-2026-08-13,Boomp,https://boomp.net,"support@boomp.net, you@business.com, hello@boomp.net, kathleen@boomp.net","support@boomp.net, hello@boomp.net, kathleen@boomp.net",catch_all,,,new
+2026-08-13,Boomp,https://boomp.net,"support@boomp.net, you@business.com, hello@boomp.net, kathleen@boomp.net","support@boomp.net, hello@boomp.net, kathleen@boomp.net",catch_all,,,emailed
 2026-08-13,ApparelnBags.com,https://www.apparelnbags.com,sales@apparelnbags.com,,unverified,8133441336,,new
 2026-08-13,Design At Work,https://www.marion.com,hello@designatwork.com,,invalid,832.200.8200,,new
 2026-08-13,Semrush,https://fr.semrush.com,mail@semrush.com,,invalid,,,new
-2026-08-13,Find the Right Service Providers for Your Projects,https://feedbax.ai,"info@feedbax.de, info@andersenlab.de, info@feedbax.ai, kontakt@feedbax.de",info@andersenlab.de,valid,,,new
+2026-08-13,Find the Right Service Providers for Your Projects,https://feedbax.ai,"info@feedbax.de, info@andersenlab.de, info@feedbax.ai, kontakt@feedbax.de",info@andersenlab.de,valid,,,emailed
 2026-08-13,SMM Panel : World's Best and Cheapest SMM Provider Services,https://smmfollows.com,contact@smmfollows.com,,unverified,,,new
-2026-08-13,No. 1 Digital Marketing | SEO | B2B | PPC Agency - Whizamet,https://whizamet.com,reach@whizamet.com,reach@whizamet.com,valid,1 9876769096,,new
-2026-08-13,Net-Craft.com,https://www.net-craft.com,connect@netcraftmedia.com,connect@netcraftmedia.com,catch_all,1-877-638-2723,,new
+2026-08-13,No. 1 Digital Marketing | SEO | B2B | PPC Agency - Whizamet,https://whizamet.com,reach@whizamet.com,reach@whizamet.com,valid,1 9876769096,,emailed
+2026-08-13,Net-Craft.com,https://www.net-craft.com,connect@netcraftmedia.com,connect@netcraftmedia.com,catch_all,1-877-638-2723,,emailed
 2026-08-13,Designjoy - Design as a Subscription,https://www.designjoy.co,hello@designjoy.co,,invalid,,,new
-2026-08-13,Digital Roots Media,https://www.digitalrootsmedia.com,hello@digitalrootsmedia.com,hello@digitalrootsmedia.com,catch_all,,,new
+2026-08-13,Digital Roots Media,https://www.digitalrootsmedia.com,hello@digitalrootsmedia.com,hello@digitalrootsmedia.com,catch_all,,,emailed
 2026-08-13,Semrush,https://www.semrush.com,mail@semrush.com,,invalid,,,new
 2026-08-13,Perceptric | B2B SaaS SEO Agency,https://perceptric.com,"admin@perceptric.com, vincent@perceptric.com",,invalid,,,new
-2026-08-13,Jen Chapman Creative,https://jenchapmancreative.com,jenrchapman@gmail.com,jenrchapman@gmail.com,valid,623-476-7394,,new
-2026-08-13,Web Design Agencies,https://designagenciesdir.com,"contact@southerndigitalconsulting.com, info@hortongroup.com, info@clickrain.com, support@m16marketing.com, brett@rhinopm.com, hello@lemonheaddesign.com, hello@grainandmortar.com, info@robintek.com, info@pixelperfectcreative.com","contact@southerndigitalconsulting.com, info@hortongroup.com, info@clickrain.com, support@m16marketing.com, brett@rhinopm.com, hello@lemonheaddesign.com, hello@grainandmortar.com, info@pixelperfectcreative.com",valid,(800) 676-0175,,new
-2026-08-13,Mint Media,https://www.mintmediaservices.com,info@mintmediaservices.com,info@mintmediaservices.com,catch_all,+1 (438) 797-7319,,new
+2026-08-13,Jen Chapman Creative,https://jenchapmancreative.com,jenrchapman@gmail.com,jenrchapman@gmail.com,valid,623-476-7394,,emailed
+2026-08-13,Web Design Agencies,https://designagenciesdir.com,"contact@southerndigitalconsulting.com, info@hortongroup.com, info@clickrain.com, support@m16marketing.com, brett@rhinopm.com, hello@lemonheaddesign.com, hello@grainandmortar.com, info@robintek.com, info@pixelperfectcreative.com","contact@southerndigitalconsulting.com, info@hortongroup.com, info@clickrain.com, support@m16marketing.com, brett@rhinopm.com, hello@lemonheaddesign.com, hello@grainandmortar.com, info@pixelperfectcreative.com",valid,(800) 676-0175,,emailed
+2026-08-13,Mint Media,https://www.mintmediaservices.com,info@mintmediaservices.com,info@mintmediaservices.com,catch_all,+1 (438) 797-7319,,emailed
 2026-08-13,Webflow: The agentic web platform for modern businesses,https://webflow.com,"example@yourdomain.com, exemple@votredomaine.com",,unverified,,,new
 2026-08-13,SEOlium Rank Tracker - Professional Google Rank Tracker for SEO,https://www.seolium.com,info@seolium.com,,invalid,"500 
  5000",,new
-2026-08-13,SelectedFirms - Trusted B2B Agency Ratings & Reviews Platform,https://selectedfirms.co,info@selectedfirms.co,info@selectedfirms.co,valid,,,new
+2026-08-13,SelectedFirms - Trusted B2B Agency Ratings & Reviews Platform,https://selectedfirms.co,info@selectedfirms.co,info@selectedfirms.co,valid,,,emailed
 2026-08-13,The #1 HubSpot Website Agency | We Specialise in HubSpot Websites,https://www.blendb2b.com,info@blendb2b.com,,invalid,,,new
 2026-08-13,DigitalSilk,https://www.digitalsilk.com,info@digitalsilk.com,,invalid,(800) 206-9413,,new
 2026-08-13,GraphicDigits,https://www.graphicdigits.com,"hello@graphicdigits.com, john@company.com",,unverified,,,new
 2026-08-13,UI UX Design Agency for AI Startups and SaaS | ParallelHQ,https://www.parallelhq.com,jane@company.com,,unverified,,,new
+2026-08-13,Jelly Digital Marketing & Vancouver PR,https://jellymarketing.ca,hello@jellymarketing.com,hello@jellymarketing.com,valid,604.674.3559,,new
+2026-08-13,Setsail Marketing | Vancouver Digital Marketing & PPC Agency,https://www.setsail.ca,"team@setsail.ca, name@email.com, team@yousetsail.com","team@setsail.ca, team@yousetsail.com",catch_all,200-1737,,new
+2026-08-13,Tiny Planet Digital - Vancouver Digital Marketing Agency,https://tinyplanet.digital,marketing@tinyplanet.digital,marketing@tinyplanet.digital,valid,,,new
+2026-08-13,"Digital Marketing Agency in Vancouver, BC - The Unusual Agency",https://www.theunusualagency.com,hello@theunusualagency.com,hello@theunusualagency.com,catch_all,,,new
+2026-08-13,Ollo Metrics,https://www.ollometrics.com,info@ollometrics.com,info@ollometrics.com,valid,604-398-8844,,new
+2026-08-13,Bernum,https://www.bernum.ca,"you@company.com, info@bernum.ca",info@bernum.ca,catch_all,+1 519-804-6156,,new
+2026-08-13,Salt Water Digital,https://www.saltwaterdigital.com,stephen@saltwaterdigital.com,stephen@saltwaterdigital.com,catch_all,+1 (778) 899-2331,,new
+2026-08-13,Strataigize,https://www.strataigize.com,you@company.com,,unverified,(604) 720-3967,,new
+2026-08-13,Momentum360 Digital Marketing,https://momentum360.ca,info@momentum360.ca,info@momentum360.ca,catch_all,519-900-2717,,new
+2026-08-13,Brand-Backed Performance: Integrated Branding & Marketing,https://www.brandedagency.com,hello@brandedagency.com,hello@brandedagency.com,valid,+1 (236) 987-6005,,new
+2026-08-13,Longhouse Branding & Marketing,https://www.longhouse.co,grow@longhouse.co,grow@longhouse.co,catch_all,,,new
+2026-08-13,Banch,https://banchmarketing.com,drew@banchmarketing.com,drew@banchmarketing.com,catch_all,,,new
+2026-08-13,"SMERGERS - Business for Sale, Franchise for Sale, Investors & Buyers",https://www.smergers.com,info@smergers.com,info@smergers.com,catch_all,500 - 1000,,new
+2026-08-13,Unalike Marketing | Marketing Agency for Canada and the USA,https://unalike.ca,info@unalike.ca,info@unalike.ca,valid,306-910-9300,,new
+2026-08-13,"Major Tom | Digital Marketing Agency in Vancouver, Toronto, New York",https://www.majortom.com,"hello@majortom.com, van@majortom.com, ny@majortom.com, to@majortom.com","hello@majortom.com, van@majortom.com, ny@majortom.com, to@majortom.com",catch_all,,,new
+2026-08-13,Absolute Creative,https://absolutecreative.ca,hello@absolutecreative.ca,hello@absolutecreative.ca,valid,604.669.2992,,new
+2026-08-13,seovancouveragency.ca,https://seovancouveragency.ca,info@seovancouveragency.ca,,unverified,+1 (734) 212-6649,,new
+2026-08-13,OptiRank SEO Agency,https://optirankagency.com,info@optirankagency.com,info@optirankagency.com,catch_all,+1(778) 861-3740,,new
+2026-08-13,SEO Vancouver | Vancouver SEO Consultant | Vancouver SEO Company,https://www.topseovancouver.com,info@topseovancouver.com,info@topseovancouver.com,catch_all,(236) 863-7121,,new
+2026-08-13,Growth Vive - Vancouver SEO Company,https://growthvive.ca,info@growthvive.ca,,invalid,(778) 288-8638,,new
+2026-08-13,North SEO | Vancouver Local SEO Experts,https://northseo.ca,"jane@company.com, info@northseo.ca",info@northseo.ca,catch_all,+1 (778) 650-5106,,new
+2026-08-13,Nirvana Canada,https://www.nirvanacanada.com,success@nirvanacanada.com,,invalid,604.595.2495,,new
+2026-08-13,Prostar SEO,https://www.prostarseo.com,votre@email.com,,unverified,,,new
+2026-08-13,Oscar Black,https://oscar-black.com,contact@oscar-black.com,contact@oscar-black.com,catch_all,,,new
+2026-08-13,PRNEWS.io,https://prnews.io,"media@prnews.io, hk@prnews.io, support@prnews.io, info@b2blogger.com","media@prnews.io, hk@prnews.io, support@prnews.io, info@b2blogger.com",valid,,,new
+2026-08-13,Seo Agency Network,https://seoagencynetwork.com,hi@seoagencynetwork.com,,invalid,,,new
+2026-08-13,SearchForged,https://www.searchforged.com,support@searchforged.com,,invalid,2021001,,new
+2026-08-13,Potens Digital,https://potensdigital.com,"support@potensmarketing.com, info@potensdigital.com","support@potensmarketing.com, info@potensdigital.com",catch_all,647-234-1817,,new
+2026-08-13,Vancoders,https://vancoders.com,"info@vancoders.com, vancoders77@gmail.com, contact@vancoders.com",vancoders77@gmail.com,valid,,,new
+2026-08-13,Consultus Digital | Accelerating Growth to SMBs,https://consultusdigital.com,your@company.com,,unverified,416-460-1810,,new
+2026-08-13,XYZ Studio,https://www.xyz.studio,email@xyz.studio,,invalid,+1 (844) 999 - 7836,,new
+2026-08-13,Khan IT,https://khanit.ca,info@khanit.ca,,unverified,+1 236-308-1577,,new
+2026-08-13,India's No.1 SEO Company: 2026 Award-Winning Agency | Best in Gurgaon,https://www.seotechexperts.com,info@seotechexperts.com,info@seotechexperts.com,valid,9871280,,new
+2026-08-13,"Canada Marketing – Canada's Marketing Platform – SEO, GEO & AI Growth",https://canadamarketing.ca,"info@canadamarketing.ca, your@email.com, support@canadamarketing.ca","info@canadamarketing.ca, support@canadamarketing.ca",catch_all,+1 (437) 430-2280,,new
+2026-08-13,Blogs Database,https://bloggers.feedspot.com,"anuj@feedspot.com, team@feedspot.com","anuj@feedspot.com, team@feedspot.com",valid,,,new
+2026-08-13,Contractor Marketing Agency | Lead Generation For Trades,https://debutmarketing.ca,info@debutmarketing.ca,,unverified,604-626-3100,,new
+2026-08-13,Web Design and Development Company- framebake,https://framebake.com,info@framebake.com,,invalid,,,new
+2026-08-13,TML Agency,https://townmedialabs.ca,"you@company.com, hello@townmedialabs.ca, info@townmedialabs.ca",,unverified,+1 (403) 604-8692,,new
+2026-08-13,Leadomos,https://leadomos.com,"contactleadomos@gmail.com, you@email.com",,unverified,784 2291,,new
+2026-08-13,pearllemonleads.ca,https://pearllemonleads.ca,"me@deepakshukla.com, plseo@pearllemon.com, info@pearllemongroup.com","me@deepakshukla.com, plseo@pearllemon.com, info@pearllemongroup.com",valid,+13437005058,,new
+2026-08-13,We Generate High Quality Leads for Your Business,https://qualityleadgen.ca,info@qualityleadgen.ca,info@qualityleadgen.ca,catch_all,(778) 358-2731,,new
+2026-08-13,"Toronto Digital Marketing Agency | Local SEO, Web Design & Google Ads | Wisdek",https://wisdek.com,contact@wisdek.com,contact@wisdek.com,catch_all,416-514-1672,,new
+2026-08-13,Tiny Tomato Design,https://tinytomatodesign.com,accounts@tinytomatodesign.com,accounts@tinytomatodesign.com,catch_all,+1 604-901-5104,,new
+2026-08-13,Concurate,https://concurate.com,nitesh.gupta@concurate.com,nitesh.gupta@concurate.com,valid,7042150300,,new
+2026-08-13,Lead Magno | Marketing Blog for Business Growth,https://tech.leadmagno.com,"info@wesolve.ca, info@leadmagno.com",info@wesolve.ca,valid,(587) 815 4730,,new
+2026-08-13,Influencer Marketing Factory,https://theinfluencermarketingfactory.com,hello@theinfluencermarketingfactory.com,,invalid,,,new
+2026-08-13,Vancouver.Marketing | Full Marketing Services & Agency in BC,https://vancouver.marketing,ali@sedighi.ca,ali@sedighi.ca,valid,+1 (604)632-4959,,new
+2026-08-13,SeonixAI,https://seonixai.ca,"info@seonixai.ca, u003einfo@seonixai.ca, john@business.com",,invalid,236-979-0433,,new
+2026-08-13,AP DIGITAL,https://ap-digital.ca,apdigital.core@gmail.com,apdigital.core@gmail.com,valid,,,new
+2026-08-13,"Website Design, Online Marketing, Website Development, SEO Services, Vancouver Canada",https://www.newearthmarketing.com,info@newearthmarketing.com,info@newearthmarketing.com,valid,604-720-9377,,new
+2026-08-13,Solocube Creative,https://solocube.com,web@solocube.com,,unverified,,,new
+2026-08-13,Durable,https://durable.com,"jim.halpert@dundermifflin.com, jamie@acme.com, example@email.com, support@durable.com, example2@email.com",support@durable.com,catch_all,,,new
+2026-08-13,B2b Sales Agency,https://www.b2bsalesagency.ca,"info@b2bsalesagency.ca, info@mysite.com",info@b2bsalesagency.ca,valid,778.955.1412,,new
+2026-08-13,Checking your browser,https://www.f6s.com,support@f6s.com,support@f6s.com,catch_all,,,new
+2026-08-13,Failory: 90% of Startups Fail — Learn How Not To.,https://www.failory.com,nico@failory.com,nico@failory.com,catch_all,,,new
+2026-08-13,Secret Benefits,https://www.secretbenefits.com,"3@1x.webp, 1@1x.webp, how-it-works@1x.webp, 2@1x.webp, phone@1x.webp, relationship-photo@1x.webp",,invalid,,,new
+2026-08-13,Astra Pacifica Incorporated,https://astrapacifica.ca,office@astrapacifica.ca,,invalid,+1 604-404-1886,,new
+2026-08-13,VA Partners,https://vapartners.ca,"info@vapartners.ca, hr@vapartners.ca","info@vapartners.ca, hr@vapartners.ca",valid,(647) 401-7156,,new
+2026-08-13,Claudia Mason | B2B Sales Trainer Vancouver | Sales Playbook Consultant Canada | AI Sales Enablement,https://claudiamasonsales.ca,masonclaudiaeva68@gmail.com,masonclaudiaeva68@gmail.com,valid,604.512.3379,,new
+2026-08-13,OpenView Venture Partners,https://openviewpartners.com,hello@openviewpartners.com,,invalid,,,new
+2026-08-13,Success Unlimited Sales and Marketing Group,https://www.susmg.com,info@susmg.com,,invalid,604-535-2111,,new
+2026-08-13,"JZ Sales Consulting Inc. - ""Fractional Sales Leadership and consulting """,https://jzsalesconsulting.com,john@jzsalesconsulting.com,john@jzsalesconsulting.com,catch_all,,,new
+2026-08-13,ÐÑÐ¸Ð±ÐºÐ¸ Windows 11,https://helpwinfix.ru,alexxgrom@gmail.com,alexxgrom@gmail.com,valid,,,new
+2026-08-13,helloDarwin,https://hellodarwin.com,"clients@hellodarwin.com, info@hellodarwin.com","clients@hellodarwin.com, info@hellodarwin.com",catch_all,,,new
+2026-08-13,Boomy Marketing Agency — Toronto's Premier Digital Agency,https://boomymarketing.com,"care@boomymarketing.com, marcus@company.com, your@email.com",,unverified,(647) 370-1888,,new
+2026-08-13,PublicLeads,https://www.publicleads.com,support@publicleads.com,support@publicleads.com,valid,,,new
+2026-08-13,Verta Marketing,https://vertamarketing.com,info@vertamarketing.com,info@vertamarketing.com,catch_all,+1 343 290 1356,,new
+2026-08-13,Strategis,https://strategisconsulting.ca,"info@strategisgroup.ca, +info@strategisgroup.ca",,invalid,+1 (604) 836-4143,,new
+2026-08-13,Qwant,https://www.qwant.com,legal@qwant.com,legal@qwant.com,valid,,,new
+2026-08-13,Inflowave,https://inflowave.io,support@inflowave.io,support@inflowave.io,catch_all,735 3965,,new
+2026-08-13,Micro Mailing Canada,https://micromailingcanada.com,info@micromailingcanada.com,,unverified,(416) 412 1294,,new
+2026-08-13,"Full-Service Creative Agency | Branding, Web Design & Marketing",https://www.mthdmarketing.com,contact@mthd.agency,contact@mthd.agency,valid,,,new
+2026-08-13,Run2Promotion,https://www.run2promotion.com,"your@email.com, info@run2promotion.com",,unverified,1-9899585566,,new
+2026-08-13,FirstChoice,https://firstchoicemedia.ca,sales@firstchoicemedia.ca,,unverified,,,new
+2026-08-13,Online Press Release Distribution Service | PRWeb,https://www.prweb.com,test@test.com,,unverified,877-297-8921,,new
+2026-08-13,Brandsmartini Ca,https://brandsmartini.ca,hello@brandsmartini.ca,hello@brandsmartini.ca,valid,604 399 4990,,new
+2026-08-13,Quake Media,https://quakemedia.ca,"info@quakemedia.ca, info@appie.com","info@quakemedia.ca, info@appie.com",catch_all,604-901-7668,,new
+2026-08-13,Best Digital Marketing Agency in Canada - Infinity Digital,https://infinitydigital.ca,info@infinitydigital.ca,info@infinitydigital.ca,catch_all,+1 647.784.2813,,new
+2026-08-13,AtlanticWorks,https://atlanticworks.ca,"business@atlanticworks.ca, john@company.com, info@atlanticworks.ca","business@atlanticworks.ca, info@atlanticworks.ca",catch_all,,,new
+2026-08-13,Pay Per Click Advertising & Management,https://ppc.ca,info@ppc.ca,,invalid,,,new
+2026-08-13,BediCreative,https://www.bedicreative.com,info@bedicreative.com,info@bedicreative.com,catch_all,+1-604.409.4333,,new
+2026-08-13,Premier Digital Marketing Agency in Canada | Trena Digital,https://trenadigital.ca,hello@trenadigital.ca,hello@trenadigital.ca,catch_all,604-800-3432,,new
+2026-08-13,Tech-Wonders.com,https://www.tech-wonders.com,ramarao@tech-wonders.com,,unverified,,,new
+2026-08-13,NW Business Advisors – Serving the Pacific Northwest,https://baeronmarketing.com,info@neveweb-agency.com,,invalid,346.248.8656,,new
+2026-08-13,Big Hunt Digital,https://bighunt.digital,hello@bighunt.digital,,unverified,,,new
+2026-08-13,Most Trusted SEO & AI Marketing Agency in Canada,https://www.greenlotus.ca,bassem@greenlotus.ca,bassem@greenlotus.ca,catch_all,908-332-0997,,new
+2026-08-13,Everything-PR,https://everything-pr.com,info@everything-pr.com,info@everything-pr.com,catch_all,9366611,,new
+2026-08-13,theprovince,https://theprovince.com,"epapersupport@sunprovince.com, youremail@email.com, mysubscription@sunprovince.com",,unverified,,,new
+2026-08-13,Crave Public Relations,https://wearecrave.ca,saskia@wearecrave.ca,,invalid,,,new
+2026-08-13,ITProfiles,https://itprofiles.com,support@itprofiles.com,,unverified,,,new
+2026-08-13,"Finding the best business, It's that easy - ThreeBestRated.ca",https://threebestrated.ca,"support@threebestrated.ca, press@threebestrated.com, reviews@threebestrated.ca","support@threebestrated.ca, reviews@threebestrated.ca, press@threebestrated.com",valid,,,new
+2026-08-13,Ads of the World™,https://www.adsoftheworld.com,contact@adsoftheworld.com,contact@adsoftheworld.com,catch_all,,,new
+2026-08-13,NorvellJefferson,https://www.norvelljefferson.com,"info-ca@norvelljefferson.com, m.vandoormaal@norvelljefferson.com, info-be@norvelljefferson.com, info-us@norvelljefferson.com, j.eversdijk@norvelljefferson.com, m.roelofs@norvelljefferson.com, q.dewidt@norvelljefferson.com, info-nl@norvelljefferson.com",,invalid,,,new
+2026-08-13,BrandWise Solutions,https://marketing-ca.australianremedy.eu,proyectoweber+marketing-ca.australianremedy.eu@gmail.com,,invalid,,,new
+2026-08-13,Extuitive | Forecast performance of your ads before launching,https://extuitive.com,support@extuitive.com,,invalid,,,new
+2026-08-13,YellowPages.ca,https://www.yellowpages.ca,"editor@yp.ca, media@yp.ca",,invalid,2026072,,new
+2026-08-13,MAD Agency - Social Media Marketing & Ads Agency,https://www.madsocialagency.com,"you@yourbrand.com, lorem@madsocialagency.com, maddie@madsocialagency.com, hello@madsocialagency.com","maddie@madsocialagency.com, hello@madsocialagency.com",valid,+1 (647) 559 8967,,new
+2026-08-13,Freeman Social Media,https://freemansocialmedia.com,info@freemansocialmedia.com,,invalid,,,new
+2026-08-13,Kuipra Communications,https://www.kuipra.ca,"hello@company.com, info@kuipra.ca",info@kuipra.ca,catch_all,672-964-1888,,new
+2026-08-13,Entasher.com,https://entasher.com,"info@entasher.com, you@company.com",info@entasher.com,valid,2011139,,new
+2026-08-13,Spellaro,https://www.spellaro.com,hello@spellaro.com,,unverified,258 6529,,new
+2026-08-13,World Famous,https://worldfamousmarketing.ca,info@worldfamousmarketing.ca,info@worldfamousmarketing.ca,catch_all,+1(416)792-6499,,new
+2026-08-13,Contra - A professional network for the jobs and skills of the future,https://contra.com,"branding.charlesnnamdi@gmail.com, hello@contra.com","branding.charlesnnamdi@gmail.com, hello@contra.com",valid,,,new
+2026-08-13,Ewanity Marketing – Vancouver Digital Marketing Agency,https://ewanitymarketing.com,ewanityinc@gmail.com,ewanityinc@gmail.com,valid,,,new
+2026-08-13,Staging,https://techchimpanzee.com,support@techchimpanzee.com,,unverified,(604)906-5906,,new
+2026-08-13,The Marketing Mavericks | Performance Marketing Agency,https://marketingmavericks.co.uk,"contact@marketingmavericks.co.uk, you@company.com, john@company.com",,unverified,717 6066,,new
+2026-08-13,iMark Infotech Pvt. Ltd.,https://www.imarkinfotech.com,"hr@imarkinfotech.com, security@imarkinfotech.org, ishan@imarkinfotech.com, support@imarkinfotech.com",security@imarkinfotech.org,catch_all,+1 323 503 2827,,new
+2026-08-13,Vancouver Web Design and SEO,https://ideamarketing.ca,info@ideamarketing.ca,,unverified,+1-236-513-8111,,new
+2026-08-13,"Forge and Smith | Vancouver Web Design, Development & SEO",https://forgeandsmith.com,contact@forgeandsmith.com,contact@forgeandsmith.com,catch_all,,,new
+2026-08-13,Studiothink,https://www.studiothink.com,hello@studiothink.com,hello@studiothink.com,valid,604 576 4433,,new
+2026-08-13,Vancity Web Design,https://vancitywebdesign.com,"info@vancitywebdesign.com, bluebsupport@mail.com, infovancitywebdesign@gmail.com","info@vancitywebdesign.com, infovancitywebdesign@gmail.com",valid,+1-604-761-5979,,new
+2026-08-13,BragDeal Inc.,https://bragdeal.com,"support@bragdeal.com, info@bragdeal.com","support@bragdeal.com, info@bragdeal.com",catch_all,+1 844 604 2724,,new
+2026-08-13,Evoke Studio,https://madebyevoke.com,"you@company.com, work@madebyevoke.com",,unverified,,,new
+2026-08-13,Digital Agencies Network,https://digitalagenciesnetwork.com,hi@digitalagenciesnetwork.com,,invalid,,,new
+2026-08-13,Pragmatica | Web Design Toronto & Vancouver,https://www.pragmati.ca,"hello@pragmati.ca, email@website.com",hello@pragmati.ca,catch_all,+1 (604) 206 - 5345,,new
+2026-08-13,DoodleWeb Canada,https://doodleweb.ca,"jane@company.com, info@doodleweb.ca, you@company.com",info@doodleweb.ca,catch_all,,,new
+2026-08-13,Benchmak - The Leading Marketplace for Finding Business Services - Benchmak.com,https://www.benchmak.com,marketing@benchmak.com,,invalid,,,new
+2026-08-13,Web Design Surrey BC Web Development Surrey Canada,http://bannerdesign.ca,"support@webforless.ca, webforlessmedia@gmail.com","support@webforless.ca, webforlessmedia@gmail.com",valid,604-715-0464,,new
+2026-08-13,"WebDesignGuide â Website Cost, Platform & Local SEO Help for Canadian Businesses",https://webdesignguide.ca,you@business.ca,,unverified,,,new
+2026-08-13,Atimi |,https://www.atimi.com,discover@atimi.com,,invalid,1-778-372-2800,,new
+2026-08-13,"Sortfolio: Find a great web designer by style, budget, and location.",https://www.sortfolio.com,contact@sortfolio.com,,unverified,,,new
+2026-08-13,Locomotive,https://locomotive.ca,"info@locomotive.ca, name@email.com",info@locomotive.ca,catch_all,+1 514 524 5678,,new
+2026-08-13,Parachute Design Group,https://parachutedesign.ca,hello@parachutedesign.ca,hello@parachutedesign.ca,valid,416-901-8633,,new
