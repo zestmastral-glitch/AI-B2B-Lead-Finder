@@ -1,0 +1,14 @@
+Date,Business Name,Website,Emails,Verified Emails,Verification Status,Phone,Country,Status
+2026-08-13,Evoke Studio,https://madebyevoke.com,"you@company.com, work@madebyevoke.com",,unverified,,,new
+2026-08-17,TrustValet,https://trustvalet.co.uk,"info@trustvalet.co.uk, u003einfo@trustvalet.co.uk","info@trustvalet.co.uk, u003einfo@trustvalet.co.uk",catch_all,,,new
+2026-08-14,UKAgencies.co.uk,https://ukagencies.co.uk,hello@ukagencies.co.uk,,invalid,,,new
+2026-08-17,Web Design Exeter | Dartmoor & South Devon | World X Digital,https://worldxdigital.co.uk,"worldxdigitalweb@gmail.com, info@worldxdigital.co.uk","worldxdigitalweb@gmail.com, info@worldxdigital.co.uk",valid,0742959105,,new
+2026-08-14,AAM Consultants - Digital Marketing & Web Development Agency,https://www.aamconsultants.org,info@aamconsultants.org,,invalid,334-9955239,,new
+2026-08-17,Arobase Creative | Bristol Website Design | Webflow Premium Partner,https://www.arobasecreative.co.uk,"andrew@arobasecreative.co.uk, poppy@arobasecreative.co.uk, danny@arobasecreative.co.uk, tom@arobasecreative.co.uk, hello@arobasecreative.co.uk","andrew@arobasecreative.co.uk, poppy@arobasecreative.co.uk, danny@arobasecreative.co.uk, tom@arobasecreative.co.uk, hello@arobasecreative.co.uk",valid,403 4440,,new
+2026-08-17,Blackbird Marketing,https://www.blackbird-marketing.co.uk,"contact@blackbird-marketing.co.uk, info@blackbird-marketing.co.uk, example@mysite.com",contact@blackbird-marketing.co.uk,valid,,,new
+2026-08-17,"Best Web Design, Development & SEO Company in India | Chulbul Design",https://www.chulbuldesign.com,"info@chulbuldesign.com, invoice@chulbuldesign.com, sale@chulbuldesign.com, support@chulbuldesign.com",,unverified,,,new
+2026-08-13,Edvido,https://www.edvido.com,info@edvido.com,info@edvido.com,catch_all,,,emailed
+2026-08-14,La Fabrique du Net,https://www.lafabriquedunet.co.uk,"nom@entreprise.com, your@email.com, name@company.com, hello@lafabriquedunet.co.uk, vous@entreprise.com, you@company.com, votre@email.fr",,unverified,,,new
+2026-08-17,Mediatopia,https://www.mediatopia.co.uk,"jane@company.co.uk, hello@mediatopia.co.uk",,unverified,299 0348,,new
+2026-08-14,Sortlist,https://www.sortlist.co.uk,"info@ajmarketing.io, info@intouchmena.com, jane.doe@acme.com, u003eadvertise@influasia.com, janedoe@acme.com","info@ajmarketing.io, info@intouchmena.com, u003eadvertise@influasia.com",catch_all,,,new
+2026-08-17,Grizzly,https://www.wearegrizzly.com,admin@wearegrizzly.com,admin@wearegrizzly.com,valid,214 0222,,new
