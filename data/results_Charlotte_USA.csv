@@ -1,10 +1,12 @@
 Date,Business Name,Website,Emails,Verified Emails,Verification Status,Phone,Country,Status
-2026-08-13,AeroLeads,https://aeroleads.com,"support@aeroleads.com, hello@aeroleads.com","support@aeroleads.com, hello@aeroleads.com",catch_all,+1 (628) 282 4380,,emailed
-2026-08-18,Outliers CS,https://outlierscs.com,"shilan@outlierscs.com, hr@outlierscs.com","shilan@outlierscs.com, hr@outlierscs.com",valid,(704) 266-0689,,new
-2026-08-18,RKW Consulting,https://rkwconsults.com,"contact@rkwconsults.com, %20contact@rkwconsults.com, mail@mulk.agency",,invalid,(704) 360-4988,,new
-2026-08-23,"Robbie Hodge | Fractional CMO Charlotte, NC — eCommerce & DTC Marketing Leader",https://robbiehodge.com,"me@robbiehodge.com, jane@company.com",me@robbiehodge.com,valid,(704) 629-8677,,new
-2026-08-16,SalesHive,https://saleshive.com,sales@saleshive.com,sales@saleshive.com,catch_all,,,new
-2026-08-13,CaseBasix - Consulting Prep & Career Coaching,https://www.casebasix.com,support@casebasix.com,support@casebasix.com,catch_all,,,emailed
-2026-08-13,Checking your browser,https://www.f6s.com,support@f6s.com,support@f6s.com,catch_all,,,emailed
-2026-08-13,PTP Consulting,https://www.ptpexperts.com,"contact@ptpexperts.com, info@ptpexperts.com",,invalid,844-575-3689,,new
-2026-08-13,B2B Contact Data & Validation Platform | the8.ai,https://www.the8.ai,"support@the8.ai, john@company.com",,unverified,,,new
+2026-08-25,Black Wednesday,https://blackwednesday.co,magic@blackwednesday.co,magic@blackwednesday.co,catch_all,,,new
+2026-08-18,Global Communications Consultancy - FleishmanHillard,https://fleishmanhillard.com,inquiries@fleishman.com,,invalid,,,new
+2026-08-25,IMCWire,https://imcwire.com,"john@company.com, ceo@imcwire.com, support@imcwire.com",,unverified,730 758 3590,,new
+2026-08-21,Lost Boy Entertainment,https://lostboyent.com,contact@lostboyent.com,contact@lostboyent.com,valid,,,new
+2026-08-18,luquire,https://luquire.com,"rwallace@luquire.com, inquire@luquire.com, careers@luquire.com, hello@luquire.com",,invalid,704.552.6565,,new
+2026-08-13,NewswireJet,https://newswirejet.com,info@newswirejet.com,info@newswirejet.com,catch_all,(301) 202-4515,,emailed
+2026-08-18,PIVOT PR,https://pivot-pr.com,info@pivot-pr.com,,invalid,(704) 774-9271,,new
+2026-08-25,Home | Best Reviewed Experts,https://topratedexperts.com,info@topratedexperts.com,,unverified,,,new
+2026-08-25,CLT Public Relations,https://www.cltpr.com,"user@domain.com, contact@cltpr.com",contact@cltpr.com,valid,(704) 594-1309,,new
+2026-08-13,Krowdbase,https://www.krowdbase.com,team@krowdbase.com,team@krowdbase.com,catch_all,,,emailed
+2026-08-25,Rein Communications,https://www.reincommunications.com,info@reincommunications.com,,unverified,704.312.2021,,new
