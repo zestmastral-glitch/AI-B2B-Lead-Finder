@@ -1,0 +1,12 @@
+Date,Business Name,Website,Emails,Verified Emails,Verification Status,Phone,Country,Status
+2026-08-30,Bizango Web Design Seattle,https://bizango.com,hello@bizango.com,,invalid,,,new
+2026-08-30,DoodleWeb,https://doodleweb.io,"jane@company.com, info@doodleweb.io, you@company.com",info@doodleweb.io,catch_all,(425) 359-0168,,new
+2026-08-13,DuckDuckGo,https://duckduckgo.com,"shield-boom-light@3x.webp, shield-boom-dark@3x.avif, shield-boom-light@3x.avif, career-dark@3x.avif, take-control-light@3x.webp, career-dark@3x.webp, take-control-dark@3x.avif, career-light@3x.avif, shield-boom-dark@3x.webp, career-light@3x.webp, take-control-dark@3x.webp, take-control-light@3x.avif",,invalid,,,new
+2026-08-13,ITProfiles,https://itprofiles.com,support@itprofiles.com,,unverified,,,new
+2026-08-13,Evoke Studio,https://madebyevoke.com,"you@company.com, work@madebyevoke.com",,unverified,,,new
+2026-08-16,OneLittleWeb,https://onelittleweb.com,hello@onelittleweb.com,hello@onelittleweb.com,catch_all,+1 646 401 0020,,new
+2026-08-30,People People,https://people-people.com,hello@people-people.com,hello@people-people.com,catch_all,,,new
+2026-08-30,TatianaDesigns,https://tatianadesigns.com,info@tatianadesigns.com,info@tatianadesigns.com,catch_all,(888) 341-5988,,new
+2026-08-30,"Digital Marketing, SEO & Web Agency",https://visualwebz.com,"info@visualwebz.com, sales@visualwebz.com",,unverified,(425) 336-0069,,new
+2026-08-13,Edvido,https://www.edvido.com,info@edvido.com,info@edvido.com,catch_all,,,emailed
+2026-08-15,Web Design Awards,https://www.webdesignawards.io,"you@studio.com, nominations@webdesignawards.io, partnerships@webdesignawards.io, support@webdesignawards.io","you@studio.com, nominations@webdesignawards.io, partnerships@webdesignawards.io, support@webdesignawards.io",catch_all,,,emailed
