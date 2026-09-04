@@ -1,12 +1,12 @@
 Date,Business Name,Website,Emails,Verified Emails,Verification Status,Phone,Country,Status
-2026-08-26,Fairweb,https://fairweb.co.nz,"hello@fairweb.co.nz, anwang@fairweb.co.nz, you@example.co.nz","hello@fairweb.co.nz, anwang@fairweb.co.nz",catch_all,,,new
+2026-08-23,EightySix Digital,https://eightysix.digital,stu@eightysix.digital,,invalid,,,new
 2026-08-26,Jones Creative,https://jonescreative.co.nz,hello@jonescreative.co.nz,hello@jonescreative.co.nz,catch_all,,,new
+2026-09-04,KiwiNova.tech,https://kiwinova.tech,info@kiwinova.tech,,invalid,,,new
 2026-08-20,Pryce Digital,https://prycedigital.com,"studio@prycedigital.com, hello@you.com",hello@you.com,catch_all,,,new
-2026-08-26,Remarkable Web,https://remarkableweb.co.nz,"jane@yourbusiness.co.nz, hello@remarkableweb.co.nz",,unverified,594 3481,,new
 2026-08-23,Sky Media - Growth-Focused Internet Marketing,https://skymedia.nz,info@skymedia.nz,,unverified,,,new
-2026-08-25,TOAST Creative Digital Agency,https://toast.co.nz,hello@toast.co.nz,hello@toast.co.nz,catch_all,489 2726,,new
 2026-08-14,TopChoice,https://topchoice.co.nz,topchoice@eightysix.digital,,invalid,,,new
 2026-08-14,Ultimate Web Designs Limited,https://ultimatewebdesigns.co.nz,info@ultimatewebdesigns.co.nz,info@ultimatewebdesigns.co.nz,valid,6421791,,emailed
+2026-08-26,MAKEBARDO,https://www.makebardo.com,"bren@makebardo.com, user@domain.com, luis@makebardo.com, hello@makebardo.com","bren@makebardo.com, luis@makebardo.com, hello@makebardo.com",valid,,,new
+2026-09-04,Remarkable Creative,https://www.remarkablecreative.co.nz,hello@remarkablecreative.co.nz,,unverified,,,new
 2026-08-26,Website Design Agency in New Zealand - Triangle Design,https://www.triangledesign.co.nz,contact@triangledesign.co.nz,contact@triangledesign.co.nz,catch_all,,,new
-2026-08-15,Web Design Awards,https://www.webdesignawards.io,"you@studio.com, nominations@webdesignawards.io, partnerships@webdesignawards.io, support@webdesignawards.io","you@studio.com, nominations@webdesignawards.io, partnerships@webdesignawards.io, support@webdesignawards.io",catch_all,,,new
-2026-08-25,Webstudio Web Design,https://www.webstudio.nz,sales@webstudio.nz,sales@webstudio.nz,valid,543 7734,,new
+2026-08-15,Web Design Awards,https://www.webdesignawards.io,"you@studio.com, nominations@webdesignawards.io, partnerships@webdesignawards.io, support@webdesignawards.io","you@studio.com, nominations@webdesignawards.io, partnerships@webdesignawards.io, support@webdesignawards.io",catch_all,,,emailed
