@@ -1,12 +1,23 @@
 Date,Business Name,Website,Emails,Verified Emails,Verification Status,Phone,Country,Status
+2026-08-13,AeroLeads,https://aeroleads.com,"support@aeroleads.com, hello@aeroleads.com","support@aeroleads.com, hello@aeroleads.com",catch_all,+1 (628) 282 4380,,emailed
+2026-08-13,Semrush Agency Partners,https://agencies.semrush.com,"agencies@semrush.com, mail@semrush.com",,invalid,,,new
 2026-08-23,EightySix Digital,https://eightysix.digital,stu@eightysix.digital,,invalid,,,new
-2026-08-26,Jones Creative,https://jonescreative.co.nz,hello@jonescreative.co.nz,hello@jonescreative.co.nz,catch_all,,,new
-2026-09-04,KiwiNova.tech,https://kiwinova.tech,info@kiwinova.tech,,invalid,,,new
-2026-08-20,Pryce Digital,https://prycedigital.com,"studio@prycedigital.com, hello@you.com",hello@you.com,catch_all,,,new
-2026-08-23,Sky Media - Growth-Focused Internet Marketing,https://skymedia.nz,info@skymedia.nz,,unverified,,,new
+2026-08-14,Hustle Marketers,https://hustlemarketers.com,info@hustlemarketers.com,info@hustlemarketers.com,valid,9178141887,,emailed
+2026-08-14,Kiwitech Labs,https://kiwitechlabs.com,"john@company.com, info@kiwitechlabs.com",,unverified,,,new
+2026-08-25,RD Digital,https://rddigital.co.nz,"hello@rddigital.co.nz, dallas@rddigital.co.nz, robin@rddigital.co.nz","hello@rddigital.co.nz, dallas@rddigital.co.nz, robin@rddigital.co.nz",valid,,,new
+2026-09-07,"SBD Media NZ | IT, Web Development & Digital Marketing Wellington",https://sbdmedianz.com,sbdmedianz@gmail.com,sbdmedianz@gmail.com,valid,2206594,,new
+2026-08-13,Top IT Companies for Your Projects - TechBehemoths,https://techbehemoths.com,urteqitechnology@gmail.com,urteqitechnology@gmail.com,valid,,,emailed
+2026-08-25,TOAST Creative Digital Agency,https://toast.co.nz,hello@toast.co.nz,hello@toast.co.nz,catch_all,489 2726,,new
 2026-08-14,TopChoice,https://topchoice.co.nz,topchoice@eightysix.digital,,invalid,,,new
-2026-08-14,Ultimate Web Designs Limited,https://ultimatewebdesigns.co.nz,info@ultimatewebdesigns.co.nz,info@ultimatewebdesigns.co.nz,valid,6421791,,emailed
-2026-08-26,MAKEBARDO,https://www.makebardo.com,"bren@makebardo.com, user@domain.com, luis@makebardo.com, hello@makebardo.com","bren@makebardo.com, luis@makebardo.com, hello@makebardo.com",valid,,,new
-2026-09-04,Remarkable Creative,https://www.remarkablecreative.co.nz,hello@remarkablecreative.co.nz,,unverified,,,new
-2026-08-26,Website Design Agency in New Zealand - Triangle Design,https://www.triangledesign.co.nz,contact@triangledesign.co.nz,contact@triangledesign.co.nz,catch_all,,,new
-2026-08-15,Web Design Awards,https://www.webdesignawards.io,"you@studio.com, nominations@webdesignawards.io, partnerships@webdesignawards.io, support@webdesignawards.io","you@studio.com, nominations@webdesignawards.io, partnerships@webdesignawards.io, support@webdesignawards.io",catch_all,,,emailed
+2026-08-20,"Adhesion® Digital Marketing Agency Auckland | Ads, SEO, Web Design",https://www.adhesion.co.nz,"info@adhesion.co.nz, service@adhesion.co.nz",,unverified,,,new
+2026-08-25,Data Story | Analytics and Strategy Marketing Agency,https://www.datastory.nz,"paul@datastory.nz, jayne@datastory.nz, sophie@datastory.nz, sam@datastory.nz, nicolas@datastory.nz, penny@datastory.nz, dave@datastory.nz, callum@datastory.nz, liyana@datastory.nz, sabrina@datastory.nz, hannah@datastory.nz, name@gmail.com, katharine@datastory.nz, arthur@datastory.nz","paul@datastory.nz, jayne@datastory.nz, sophie@datastory.nz, sam@datastory.nz, nicolas@datastory.nz, penny@datastory.nz, dave@datastory.nz, callum@datastory.nz, liyana@datastory.nz, sabrina@datastory.nz, hannah@datastory.nz, katharine@datastory.nz, arthur@datastory.nz",catch_all,,,new
+2026-09-04,EA Digital | Growth Marketing Specialists,https://www.eadigital.co.nz,"erin@eadigital.co.nz, erin@eadigitalcollective.com","erin@eadigital.co.nz, erin@eadigitalcollective.com",valid,248 2421,,new
+2026-08-25,Ground Up Marketing,https://www.groundupmarketing.co.nz,"user@domain.com, hello@groundupmarketing.co.nz",hello@groundupmarketing.co.nz,catch_all,,,new
+2026-08-25,Guerrilla,https://www.guerrilla.nz,andy@guerrilla.nz,,unverified,,,new
+2026-08-14,Lucid Media,https://www.lucidmedia.co.nz,"info@lucidmedia.co.nz, john@company.com",info@lucidmedia.co.nz,valid,582 4369,,emailed
+2026-08-25,Neat Social,https://www.neatsocialmedia.com,"user@domain.com, hello@neatsocialmedia.com",hello@neatsocialmedia.com,catch_all,,,new
+2026-08-14,Award-Winning Creative Digital Marketing Agency NZ »,https://www.nikaconsulting.co.nz,hello@nikaconsulting.co.nz,hello@nikaconsulting.co.nz,catch_all,,,emailed
+2026-08-13,Outsource Accelerator,https://www.outsourceaccelerator.com,info@outsourceaccelerator.com,info@outsourceaccelerator.com,valid,,,emailed
+2026-08-25,Queenstown New Zealand | Official Tourism Website,https://www.queenstownnz.co.nz,"ash@queenstown-wanaka.nz, micaelam@queenstown-wanaka.nz, rosiem@queenstown-wanaka.nz, cyndif@queenstown-wanaka.nz, victoriaj@queenstown-wanaka.nz, katieo@queenstown-wanaka.nz, pault@queenstown-wanaka.nz, orlao@queenstown-wanaka.nz, jennyh@queenstown-wanaka.nz, your@email.com, caraa@queenstown-wanaka.nz, reception@queenstownnz.nz, aimeer@queenstown-wanaka.nz, charlotteg@queenstown-wanaka.nz, saraho@queenstown-wanaka.nz, rubyk@queenstown-wanaka.nz, willn@queenstown-wanaka.nz, mat@queenstown-wanaka.nz, daniellaj@queenstown-wanaka.nz, rosew@queenstown-wanaka.nz, amandat@queenstown-wanaka.nz, beno@queenstown-wanaka.nz, stuc@queenstown-wanaka.nz, info@queenstown-wanaka.nz, eilidhb@queenstown-wanaka.nz","ash@queenstown-wanaka.nz, micaelam@queenstown-wanaka.nz, rosiem@queenstown-wanaka.nz, cyndif@queenstown-wanaka.nz, victoriaj@queenstown-wanaka.nz, katieo@queenstown-wanaka.nz, pault@queenstown-wanaka.nz, orlao@queenstown-wanaka.nz, jennyh@queenstown-wanaka.nz, caraa@queenstown-wanaka.nz, aimeer@queenstown-wanaka.nz, charlotteg@queenstown-wanaka.nz, saraho@queenstown-wanaka.nz, rubyk@queenstown-wanaka.nz, willn@queenstown-wanaka.nz, mat@queenstown-wanaka.nz, daniellaj@queenstown-wanaka.nz, rosew@queenstown-wanaka.nz, amandat@queenstown-wanaka.nz, beno@queenstown-wanaka.nz, stuc@queenstown-wanaka.nz, info@queenstown-wanaka.nz, eilidhb@queenstown-wanaka.nz, reception@queenstownnz.nz",catch_all,441 0700,,new
+2026-08-25,Trailblazer Digital Agency,https://www.trailblazerdigitalagency.com,"railblazerdigitalagency@gmail.com, trailblazerdigitalagency@gmail.com",trailblazerdigitalagency@gmail.com,valid,349 0313,,new
+2026-08-25,Webstudio Web Design,https://www.webstudio.nz,sales@webstudio.nz,sales@webstudio.nz,valid,543 7734,,new
