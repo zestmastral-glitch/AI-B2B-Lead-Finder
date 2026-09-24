@@ -1,11 +1,6 @@
 Date,Business Name,Website,Emails,Verified Emails,Verification Status,Phone,Country,Status
-2026-08-13,Semrush Agency Partners,https://agencies.semrush.com,"agencies@semrush.com, mail@semrush.com",,invalid,,,new
-2026-08-30,HYER Studios,https://hyerstudios.com,"name@google.com, hello@hyerstudios.com","name@google.com, hello@hyerstudios.com",catch_all,,,new
-2026-08-30,Mission Bay Media,https://missionbaymedia.com,info@missionbaymedia.com,info@missionbaymedia.com,valid,(858) 356-2820,,new
-2026-08-17,Mojo Media,https://mojo-agency.com,"jdoe@company.com, hey@mojo-agency.com",hey@mojo-agency.com,catch_all,+1-647-948-5001,,emailed
-2026-08-13,OnBaze,https://onbaze.com,company@onbaze.com,,invalid,+1 (858) 397-9792,,new
+2026-08-13,ITProfiles,https://itprofiles.com,support@itprofiles.com,,unverified,,,new
 2026-08-16,OneLittleWeb,https://onelittleweb.com,hello@onelittleweb.com,hello@onelittleweb.com,catch_all,+1 646 401 0020,,emailed
-2026-08-21,San Diego Web Design for Small Businesses | Oui Digital,https://oui.digital,hello@oui.digital,hello@oui.digital,catch_all,(619) 259 0530,,new
-2026-08-21,San Diego Website Design & Web Development,https://sandiegowebstudios.com,hello@sandiegowebstudios.com,hello@sandiegowebstudios.com,catch_all,(619) 833-8820,,new
-2026-08-30,Tinyfrog Technologies,https://tinyfrog.com,info@tinyfrog.com,,invalid,619 202 7542,,new
-2026-08-30,UIDesignz,https://uidesignz.com,"contact@uidesignz.com, email@email.com",,unverified,+1 (323) 522-5370,,new
+2026-08-21,San Diego Web Design for Small Businesses | Oui Digital,https://oui.digital,hello@oui.digital,hello@oui.digital,catch_all,(619) 259 0530,,emailed
+2026-08-13,DigitalSilk,https://www.digitalsilk.com,info@digitalsilk.com,,invalid,(800) 206-9413,,new
+2026-08-15,Web Design Awards,https://www.webdesignawards.io,"you@studio.com, nominations@webdesignawards.io, partnerships@webdesignawards.io, support@webdesignawards.io","you@studio.com, nominations@webdesignawards.io, partnerships@webdesignawards.io, support@webdesignawards.io",catch_all,,,emailed
