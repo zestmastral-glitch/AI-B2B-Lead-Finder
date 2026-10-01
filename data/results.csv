@@ -3935,9 +3935,9 @@ Date,Business Name,Website,Emails,Verified Emails,Verification Status,Phone,Coun
 2026-08-22,Website laten maken – Roland Brugman | Webdesign & Development,https://rolandbrugman.com,"brugmanroland@gmail.com, jouw@email.nl",brugmanroland@gmail.com,valid,2518303,,emailed
 2026-08-22,Samas Studio,https://samasstudio.com,"info@samasstudio.com, jane@brand.com",,unverified,+1 (248) 809-0185,,new
 2026-08-22,Rockit Digital,https://www.rockitdigital.net,mark@rockitdigital.net,,unverified,(248) 733-4000,,new
-2026-08-22,"Peakscape Digital | SEO, PPC, Web & AI Marketing Agency",https://peakscapedigital.com,info@peakscapedigital.com,info@peakscapedigital.com,catch_all,(313) 986-1590,,failed
-2026-08-22,Valve + Meter,https://valveandmeter.com,info@valveandmeter.com,info@valveandmeter.com,valid,,,failed
-2026-08-22,Bootstrap Creative,https://bootstrapcreative.com,info@bootstrapcreative.com,info@bootstrapcreative.com,catch_all,(586) 894-8024,,failed
+2026-08-22,"Peakscape Digital | SEO, PPC, Web & AI Marketing Agency",https://peakscapedigital.com,info@peakscapedigital.com,info@peakscapedigital.com,catch_all,(313) 986-1590,,emailed
+2026-08-22,Valve + Meter,https://valveandmeter.com,info@valveandmeter.com,info@valveandmeter.com,valid,,,emailed
+2026-08-22,Bootstrap Creative,https://bootstrapcreative.com,info@bootstrapcreative.com,info@bootstrapcreative.com,catch_all,(586) 894-8024,,emailed
 2026-08-22,One With Digital,https://onewithdigital.com,info@onewithdigital.com,info@onewithdigital.com,valid,(517) 861-1067,,emailed
 2026-08-22,Detroit SEO Consultants,https://detroitseoconsultants.com,"contact@detroitseoconsultants.com, you@business.com",,invalid,(786) 735-2974,,new
 2026-08-22,Detroit SEO Company,https://detroit-seo.com,"info@detroit-seo.com, john@yourcompany.com",,unverified,,,new
@@ -8240,3 +8240,11 @@ Date,Business Name,Website,Emails,Verified Emails,Verification Status,Phone,Coun
 2026-09-30,Webdesign Hannover,https://www.webdesign-hannover.de,"boye@webdesign-hannover.de, angermann@webdesign-hannover.de",,unverified,,,new
 2026-10-01,B2B Marketing for Tech Brands | The Insight Collective,https://www.theinsightcollective.com,info@theinsightcollective.com,info@theinsightcollective.com,valid,7179598,,new
 2026-10-01,Go Click Media,https://goclick.media,info@goclick.media,info@goclick.media,catch_all,,,new
+2026-10-01,Searchmaxxed,https://www.searchmaxxed.com,"you@company.com, b@searchmaxxed.com",b@searchmaxxed.com,catch_all,,,new
+2026-10-01,Loud Days,https://www.louddays.com.au,team@louddays.com,team@louddays.com,catch_all,,,new
+2026-10-01,Consulting Pedia | Top Consulting Firms & Consultants,https://www.consultingpedia.com,info@consultingpedia.com,,unverified,+1 (813) 551-3041,,new
+2026-10-01,Danielog,https://www.danielog.net,hello@danielog.net,,invalid,,,new
+2026-10-01,Birdeye,https://reviews.birdeye.com,naveen-neeraj@3x.webp,,invalid,,,new
+2026-10-01,Shout by Design,https://shoutbydesign.com.au,hello@shoutbydesign.com.au,hello@shoutbydesign.com.au,valid,,,new
+2026-10-01,CLIQE,https://www.cliqe.com.au,"hello@cliqe.com.au, u003ehello@cliqe.com.au, jane@yourbusiness.com.au","hello@cliqe.com.au, u003ehello@cliqe.com.au, jane@yourbusiness.com.au",catch_all,,,new
+2026-10-01,On Point Creative NT,https://onpointcreative.au,"connect@onpointcreative.au, connect@onpointcreativent.com.au",connect@onpointcreativent.com.au,valid,,,new
