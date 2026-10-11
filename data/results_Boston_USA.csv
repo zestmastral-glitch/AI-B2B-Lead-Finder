@@ -1,6 +1,3 @@
 Date,Business Name,Website,Emails,Verified Emails,Verification Status,Phone,Country,Status
-2026-08-13,Semrush Agency Partners,https://agencies.semrush.com,"agencies@semrush.com, mail@semrush.com",,invalid,,,new
-2026-08-13,Improvado,https://improvado.io,"info@improvado.io, example@email.com",info@improvado.io,valid,,,emailed
-2026-09-08,Social Thrive,https://socialthrive.com,contact@socialthrive.com,contact@socialthrive.com,valid,,,new
-2026-08-18,Amp Agency,https://www.ampagency.com,press@roastbrief.us,press@roastbrief.us,valid,,,emailed
-2026-08-18,Zozimus Agency,https://zozimus.com,info@zozimus.com,,invalid,,,new
+2026-10-11,TrueList,https://truelist.co,listings@truelist.co,listings@truelist.co,catch_all,,,new
+2026-08-18,WDB Agency,https://www.wdb.agency,contact@wdb.agency,contact@wdb.agency,catch_all,1 (617) 237-0305,,emailed
