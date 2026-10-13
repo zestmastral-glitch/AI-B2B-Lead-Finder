@@ -5900,41 +5900,41 @@ Date,Business Name,Website,Emails,Verified Emails,Verification Status,Phone,Coun
 2026-09-02,FZP Digital,https://fzpdigital.com,fred@fzpdigital.com,,invalid,215-867-8617,,new
 2026-09-02,Robindale Media,https://robindalemedia.com,tinfo@robindalemedia.com,,invalid,(215) 828-6603,,new
 2026-09-02,The Munroe Agency,https://www.munroe.com,info@munroe.com,info@munroe.com,catch_all,215.563.8080,,emailed
-2026-09-02,Carmichael Lynch,https://carmichaellynch.com,"newbiz@clynch.com, hello@clynch.com, cltalent@clynch.com","newbiz@clynch.com, hello@clynch.com, cltalent@clynch.com",catch_all,(612) 334-6000,,new
-2026-09-02,Brownstein Group,https://www.brownsteingroup.com,"hello@brownsteingroup.com, newbusiness@brownsteingroup.com, media@brownsteingroup.com, careers@brownsteingroup.com","hello@brownsteingroup.com, newbusiness@brownsteingroup.com, media@brownsteingroup.com, careers@brownsteingroup.com",catch_all,,,new
-2026-09-02,Old City Media,https://www.oldcitymedia.com,"user@domain.com, info@oldcitymedia.com",info@oldcitymedia.com,catch_all,267-939-0503,,new
-2026-09-02,The 215 Guys,https://www.the215guys.com,hello@the215guys.com,hello@the215guys.com,catch_all,215.315.5529,,new
-2026-09-02,"Branding & Graphic Design Studio | Philadelphia, Pa",https://www.goodbonesstudio.com,"info@goodbonesstudio.com, info@goodbones.studio","info@goodbonesstudio.com, info@goodbones.studio",catch_all,,,new
+2026-09-02,Carmichael Lynch,https://carmichaellynch.com,"newbiz@clynch.com, hello@clynch.com, cltalent@clynch.com","newbiz@clynch.com, hello@clynch.com, cltalent@clynch.com",catch_all,(612) 334-6000,,emailed
+2026-09-02,Brownstein Group,https://www.brownsteingroup.com,"hello@brownsteingroup.com, newbusiness@brownsteingroup.com, media@brownsteingroup.com, careers@brownsteingroup.com","hello@brownsteingroup.com, newbusiness@brownsteingroup.com, media@brownsteingroup.com, careers@brownsteingroup.com",catch_all,,,emailed
+2026-09-02,Old City Media,https://www.oldcitymedia.com,"user@domain.com, info@oldcitymedia.com",info@oldcitymedia.com,catch_all,267-939-0503,,emailed
+2026-09-02,The 215 Guys,https://www.the215guys.com,hello@the215guys.com,hello@the215guys.com,catch_all,215.315.5529,,emailed
+2026-09-02,"Branding & Graphic Design Studio | Philadelphia, Pa",https://www.goodbonesstudio.com,"info@goodbonesstudio.com, info@goodbones.studio","info@goodbonesstudio.com, info@goodbones.studio",catch_all,,,emailed
 2026-09-02,Biondo Creative,https://www.biondocreative.com,hello@biondocreative.com,,invalid,267-362-9321,,new
 2026-09-03,Biz Esteem,https://bizesteem.com,user@domain.com,,invalid,847-701-4249,,new
 2026-09-03,"iCrossing | AI Growth, Marketing & Technology Partner",https://www.icrossing.com,hello@icrossing.com,,invalid,,,new
 2026-09-03,Paychex Careers and Job Openings | Paychex Apply,https://careers.paychex.com,"privacy@icims.com, social_media_careers@paychex.com",,unverified,(585) 385-6666,,new
-2026-09-03,Avenue B2B Marketing,https://www.avenue-inc.com,"jobs@avenue-inc.com, info@avenue-inc.com","jobs@avenue-inc.com, info@avenue-inc.com",catch_all,(312) 787-8300,,new
+2026-09-03,Avenue B2B Marketing,https://www.avenue-inc.com,"jobs@avenue-inc.com, info@avenue-inc.com","jobs@avenue-inc.com, info@avenue-inc.com",catch_all,(312) 787-8300,,emailed
 2026-09-03,TopOut Group,https://topoutgrp.com,"hello@topoutgrp.com, careers@topoutgrp.com",,invalid,,,new
 2026-09-03,ZAPWATER COMMUNICATIONS,https://www.zapwater.com,"david@zapwater.com, internshipsmia@zapwater.com, user@domain.com, internshipsla@zapwater.com, internshipschi@zapwater.com",,invalid,,,new
 2026-09-03,222 Digital Marketing Agency Chicago,https://222digitalmarketing.com,info@222digitalmarketing.com,,invalid,(312)896-3005,,new
-2026-09-03,Good Design Awards,https://gooddesignawards.org,jennifer@chicagoathenaeum.org,jennifer@chicagoathenaeum.org,valid,+1 815 777 4444,,new
-2026-09-03,"Chicago Web Design, Development, & Digital Marketing Agency | Clique Studios",https://cliquestudios.com,buildsomething@cliquestudios.com,buildsomething@cliquestudios.com,catch_all,312-379-9329,,new
+2026-09-03,Good Design Awards,https://gooddesignawards.org,jennifer@chicagoathenaeum.org,jennifer@chicagoathenaeum.org,valid,+1 815 777 4444,,emailed
+2026-09-03,"Chicago Web Design, Development, & Digital Marketing Agency | Clique Studios",https://cliquestudios.com,buildsomething@cliquestudios.com,buildsomething@cliquestudios.com,catch_all,312-379-9329,,emailed
 2026-09-03,York - Best Local Rated,https://york.bestlocalrated.co.uk,contact@bestlocalrated.co.uk,,unverified,,,new
-2026-09-03,"AdvanceTec - Tech News, Crypto, Business, Gaming, Reviews, and More",https://advancetec.co.uk,info@advancetec.co.uk,info@advancetec.co.uk,catch_all,,,new
-2026-09-03,B2B Lead Generation Company | Hypergen – Drive More Sales,https://www.hypergen.io,team@hypergen.io,team@hypergen.io,catch_all,1 (647) 333-1910,,new
+2026-09-03,"AdvanceTec - Tech News, Crypto, Business, Gaming, Reviews, and More",https://advancetec.co.uk,info@advancetec.co.uk,info@advancetec.co.uk,catch_all,,,emailed
+2026-09-03,B2B Lead Generation Company | Hypergen – Drive More Sales,https://www.hypergen.io,team@hypergen.io,team@hypergen.io,catch_all,1 (647) 333-1910,,emailed
 2026-09-03,Outsourced SDR - The Point Company,https://thepointco.com,f8ea5653ecc246dc8d232e01b0999d69@thepointco.com,,invalid,4420331,,new
-2026-09-03,Made Media,https://made.media,"rfp@made.media, ceo@made.media, hello@made.media","rfp@made.media, ceo@made.media, hello@made.media",valid,4530365,,new
-2026-09-03,waveup,https://waveup.com,info@waveup.com,info@waveup.com,valid,,,new
+2026-09-03,Made Media,https://made.media,"rfp@made.media, ceo@made.media, hello@made.media","rfp@made.media, ceo@made.media, hello@made.media",valid,4530365,,emailed
+2026-09-03,waveup,https://waveup.com,info@waveup.com,info@waveup.com,valid,,,emailed
 2026-09-03,EY - US | Shape the future with confidence,https://www.ey.com,contact@ey.com,,unverified,,,new
-2026-09-03,PCP Market Research,https://pcpmarketresearch.com,info@pcpmarketresearch.com,info@pcpmarketresearch.com,valid,800 6523740,,new
-2026-09-03,Home - Graduate Management Education | GMAC Home,https://www.gmac.com,"privacy@gmac.com, john.doe@anon.com, customercare@gmac.com",john.doe@anon.com,catch_all,,,new
-2026-09-03,University of York,https://www.york.ac.uk,communications-support@york.ac.uk,communications-support@york.ac.uk,valid,,,new
-2026-09-03,EBQ,https://ebq.com,info@ebq.com,info@ebq.com,valid,(512) 637-9696,,new
-2026-09-03,PPC Expert,http://ppcexpert.co.uk,info@ppcexpert.co.uk,info@ppcexpert.co.uk,catch_all,345 6789,,new
-2026-09-03,Praytell | Integrated Marketing & Creative Communications Agency,https://www.praytellagency.com,hello@praytellagency.com,hello@praytellagency.com,catch_all,,,new
-2026-09-03,Purple PR,https://purplepr.com,"enquiries@purplepr.com, careers@imerza.com","enquiries@purplepr.com, careers@imerza.com",valid,,,new
-2026-09-03,"PR and communications agency, York, Yorkshire - Partners PR",https://www.partners-pr.co.uk,intouch@partners-pr.co.uk,intouch@partners-pr.co.uk,valid,904 6100,,new
-2026-09-03,BPM-PR Firm,https://www.bpm-prfirm.com,"info@bpm-prfirm.com, jane@yourbrand.com",info@bpm-prfirm.com,catch_all,1.877.841.7244,,new
-2026-09-03,ie edu,https://www.ie.edu,"info@ie.edu, anadelacruz@ie.edu","info@ie.edu, anadelacruz@ie.edu",valid,,,new
-2026-09-03,Likeable,https://likeable.com,"hello@likeable.com, real@likeable.com","hello@likeable.com, real@likeable.com",catch_all,,,new
-2026-09-03,Netty Awards - Celebrating achievement in the digital age.,https://nettyawards.com,"concierge@nettyawards.com, conceierge@nettyawards.com",concierge@nettyawards.com,valid,,,new
-2026-09-03,Web Design for Small Businesses | Jorvik Web Dev,https://jorvikweb.dev,"hello@jorvikweb.dev, you@yourbusiness.co.uk",hello@jorvikweb.dev,catch_all,,,new
+2026-09-03,PCP Market Research,https://pcpmarketresearch.com,info@pcpmarketresearch.com,info@pcpmarketresearch.com,valid,800 6523740,,emailed
+2026-09-03,Home - Graduate Management Education | GMAC Home,https://www.gmac.com,"privacy@gmac.com, john.doe@anon.com, customercare@gmac.com",john.doe@anon.com,catch_all,,,emailed
+2026-09-03,University of York,https://www.york.ac.uk,communications-support@york.ac.uk,communications-support@york.ac.uk,valid,,,emailed
+2026-09-03,EBQ,https://ebq.com,info@ebq.com,info@ebq.com,valid,(512) 637-9696,,emailed
+2026-09-03,PPC Expert,http://ppcexpert.co.uk,info@ppcexpert.co.uk,info@ppcexpert.co.uk,catch_all,345 6789,,emailed
+2026-09-03,Praytell | Integrated Marketing & Creative Communications Agency,https://www.praytellagency.com,hello@praytellagency.com,hello@praytellagency.com,catch_all,,,emailed
+2026-09-03,Purple PR,https://purplepr.com,"enquiries@purplepr.com, careers@imerza.com","enquiries@purplepr.com, careers@imerza.com",valid,,,emailed
+2026-09-03,"PR and communications agency, York, Yorkshire - Partners PR",https://www.partners-pr.co.uk,intouch@partners-pr.co.uk,intouch@partners-pr.co.uk,valid,904 6100,,emailed
+2026-09-03,BPM-PR Firm,https://www.bpm-prfirm.com,"info@bpm-prfirm.com, jane@yourbrand.com",info@bpm-prfirm.com,catch_all,1.877.841.7244,,emailed
+2026-09-03,ie edu,https://www.ie.edu,"info@ie.edu, anadelacruz@ie.edu","info@ie.edu, anadelacruz@ie.edu",valid,,,emailed
+2026-09-03,Likeable,https://likeable.com,"hello@likeable.com, real@likeable.com","hello@likeable.com, real@likeable.com",catch_all,,,emailed
+2026-09-03,Netty Awards - Celebrating achievement in the digital age.,https://nettyawards.com,"concierge@nettyawards.com, conceierge@nettyawards.com",concierge@nettyawards.com,valid,,,emailed
+2026-09-03,Web Design for Small Businesses | Jorvik Web Dev,https://jorvikweb.dev,"hello@jorvikweb.dev, you@yourbusiness.co.uk",hello@jorvikweb.dev,catch_all,,,emailed
 2026-09-03,Web Design York | SEO in York | it’seeze Web Design York,https://www.itseeze-york.co.uk,contact@itseeze.com,,unverified,423 3592,,new
 2026-09-03,Web Design & Digital Marketing Agency York | Status 218,https://status218.com,hello@status218.com,,invalid,"218
              
@@ -5948,274 +5948,274 @@ Date,Business Name,Website,Emails,Verified Emails,Verification Status,Phone,Coun
  
  
  0776",,new
-2026-09-03,Cursive,https://cursive.works,hello@cursive.works,hello@cursive.works,valid,,,new
-2026-09-03,Paradigm Marketing & Creative,https://2dimes.com,info@2dimes.com,info@2dimes.com,catch_all,901-685-7703,,new
-2026-09-03,Web & Marketing Experts LLC | SEO |Website Development in USA,https://www.wamexs.com,"support@wamexs.com, support@wamexs.co.uk, info@wamexs.com","support@wamexs.com, info@wamexs.com, support@wamexs.co.uk",catch_all,+1 800-930-4235,,new
-2026-09-03,HigherVisibility,https://www.highervisibility.com,info@highervisibility.com,info@highervisibility.com,valid,888.598.4449,,new
-2026-09-03,Big River Digital,https://bigriverdigital.ai,team@bigriverdigital.ai,team@bigriverdigital.ai,valid,(901) 708-7844,,new
+2026-09-03,Cursive,https://cursive.works,hello@cursive.works,hello@cursive.works,valid,,,emailed
+2026-09-03,Paradigm Marketing & Creative,https://2dimes.com,info@2dimes.com,info@2dimes.com,catch_all,901-685-7703,,emailed
+2026-09-03,Web & Marketing Experts LLC | SEO |Website Development in USA,https://www.wamexs.com,"support@wamexs.com, support@wamexs.co.uk, info@wamexs.com","support@wamexs.com, info@wamexs.com, support@wamexs.co.uk",catch_all,+1 800-930-4235,,emailed
+2026-09-03,HigherVisibility,https://www.highervisibility.com,info@highervisibility.com,info@highervisibility.com,valid,888.598.4449,,emailed
+2026-09-03,Big River Digital,https://bigriverdigital.ai,team@bigriverdigital.ai,team@bigriverdigital.ai,valid,(901) 708-7844,,emailed
 2026-09-03,VinzoTech,https://vinzotech.com,contact@vinzotech.com,,unverified,607 8629,,new
-2026-09-03,Andrew Ryan Marketing Agency,https://andrewryanmarketing.com,"andrew@andrewryanmarketing.com, you@yourbusiness.com, you@company.com",you@yourbusiness.com,catch_all,(423) 299-1718,,new
-2026-09-03,Tycoonstory Media | Online Network for Entrepreneurs & Startups.,https://www.tycoonstory.com,"info@tycoonstory.com, tycoonstories@gmail.com, america@tycoonstory.com, india@tycoonstory.com, europe@tycoonstory.com, australia@tycoonstory.com, russia@tycoonstory.com, asia@tycoonstory.com, uk@tycoonstory.com, marketing@tycoonstory.com, editor@tycoonstory.com, hanifa@tycoonstory.com, story@tycoonstory.com, cio@tycoonstory.com, africa@tycoonstory.com, sheerin@tycoonstory.com",tycoonstories@gmail.com,valid,,,new
-2026-09-03,Krishnan & Associates,https://krishnaninc.com,"user@domain.com, info@krishnaninc.com","user@domain.com, info@krishnaninc.com",catch_all,(203) 921 1800,,new
+2026-09-03,Andrew Ryan Marketing Agency,https://andrewryanmarketing.com,"andrew@andrewryanmarketing.com, you@yourbusiness.com, you@company.com",you@yourbusiness.com,catch_all,(423) 299-1718,,emailed
+2026-09-03,Tycoonstory Media | Online Network for Entrepreneurs & Startups.,https://www.tycoonstory.com,"info@tycoonstory.com, tycoonstories@gmail.com, america@tycoonstory.com, india@tycoonstory.com, europe@tycoonstory.com, australia@tycoonstory.com, russia@tycoonstory.com, asia@tycoonstory.com, uk@tycoonstory.com, marketing@tycoonstory.com, editor@tycoonstory.com, hanifa@tycoonstory.com, story@tycoonstory.com, cio@tycoonstory.com, africa@tycoonstory.com, sheerin@tycoonstory.com",tycoonstories@gmail.com,valid,,,emailed
+2026-09-03,Krishnan & Associates,https://krishnaninc.com,"user@domain.com, info@krishnaninc.com","user@domain.com, info@krishnaninc.com",catch_all,(203) 921 1800,,emailed
 2026-09-03,"Expert Witness Directory - SEAK, Inc. Expert Witness Directory",https://www.seakexperts.com,"alex@seak.com, mail@seak.com",,unverified,(508) 457-5150,,new
-2026-09-03,Kirkwood -,https://kirkwoodus.com,marketing@kirkwoodus.com,marketing@kirkwoodus.com,valid,978-658-4200,,new
-2026-09-03,PostGrid,https://www.postgrid.com,info@postgrid.com,info@postgrid.com,valid,1-500 501-1000,,new
-2026-09-03,Direct Mail Xperts,https://directmailxperts.com,info@dmxus.com,info@dmxus.com,valid,(888) 671-3115,,new
-2026-09-03,Hubrig Crew Marketing,https://hubrigcrewmarketing.com,info@hubrigcrewmarketing.com,info@hubrigcrewmarketing.com,catch_all,(865) 214-7162,,new
+2026-09-03,Kirkwood -,https://kirkwoodus.com,marketing@kirkwoodus.com,marketing@kirkwoodus.com,valid,978-658-4200,,emailed
+2026-09-03,PostGrid,https://www.postgrid.com,info@postgrid.com,info@postgrid.com,valid,1-500 501-1000,,emailed
+2026-09-03,Direct Mail Xperts,https://directmailxperts.com,info@dmxus.com,info@dmxus.com,valid,(888) 671-3115,,emailed
+2026-09-03,Hubrig Crew Marketing,https://hubrigcrewmarketing.com,info@hubrigcrewmarketing.com,info@hubrigcrewmarketing.com,catch_all,(865) 214-7162,,emailed
 2026-09-03,USDIGISUPPORT,https://usdigisupport.com,info@usdigisupport.com,,unverified,,,new
 2026-09-03,Code With Power,https://codewithpower.com,info@codewithpower.com,,invalid,(901) 306-3010,,new
 2026-09-03,Howell Marketing,https://www.howell-marketing.com,amy@howell-marketing.com,,invalid,901-351-7186,,new
-2026-09-03,mhp.si,https://mhp.si,hello@mhp.si,hello@mhp.si,valid,501-376-0321,,new
-2026-09-03,The Carter Malone Group in Memphis,https://cmgpr.com,"%20info@cmgpr.com, info@cmgpr.com","%20info@cmgpr.com, info@cmgpr.com",catch_all,901.278.0881,,new
-2026-09-03,Memphis Advertising,https://www.memphisadvertising.com,info@memphisadvertising.com,info@memphisadvertising.com,valid,901-257-9885,,new
+2026-09-03,mhp.si,https://mhp.si,hello@mhp.si,hello@mhp.si,valid,501-376-0321,,emailed
+2026-09-03,The Carter Malone Group in Memphis,https://cmgpr.com,"%20info@cmgpr.com, info@cmgpr.com","%20info@cmgpr.com, info@cmgpr.com",catch_all,901.278.0881,,emailed
+2026-09-03,Memphis Advertising,https://www.memphisadvertising.com,info@memphisadvertising.com,info@memphisadvertising.com,valid,901-257-9885,,emailed
 2026-09-03,meeman901strategies,https://www.meeman901strategies.com,meeman901@memphis.ed,,invalid,,,new
-2026-09-03,Wilson PR,https://wilsonpublicrelations.com,info@wilsonpublicrelations.com,info@wilsonpublicrelations.com,catch_all,,,new
+2026-09-03,Wilson PR,https://wilsonpublicrelations.com,info@wilsonpublicrelations.com,info@wilsonpublicrelations.com,catch_all,,,emailed
 2026-09-03,Trust - Marketing & Communications Inc.,https://trustmkt.com,admin@trustmkt.com,,invalid,(901) 521-1300,,new
-2026-09-03,Caissa,https://www.caissaps.com,info@caissaps.com,info@caissaps.com,valid,901-522-1030,,new
-2026-09-03,Business Directory Search - Greater Memphis Chamber,https://members.memphischamber.com,jcross@memphischamber.com,jcross@memphischamber.com,valid,901-543-3500,,new
+2026-09-03,Caissa,https://www.caissaps.com,info@caissaps.com,info@caissaps.com,valid,901-522-1030,,emailed
+2026-09-03,Business Directory Search - Greater Memphis Chamber,https://members.memphischamber.com,jcross@memphischamber.com,jcross@memphischamber.com,valid,901-543-3500,,emailed
 2026-09-03,Red Window Communications,https://www.redwindowcommunications.com,user@domain.com,,invalid,,,new
 2026-09-03,KQ Communications,https://kqcommunications.com,info@kqcommunications.com,,invalid,901-761-9286,,new
 2026-09-03,Morris Marketing Group,https://mmgmemphis.com,driveresults@mmgmemphis.com,,invalid,901-425-3770,,new
-2026-09-03,Kelley & Associates Advertising,https://www.kelleyadv.com,"admin@kelleyadv.com.com, user@domain.com, admin@kelleyadv.com","admin@kelleyadv.com.com, admin@kelleyadv.com",catch_all,901-754-8998,,new
-2026-09-03,Archer Advertising,https://wearearcher.com,"tswope@wearearcher.com, mcuevas@wearearcher.com","tswope@wearearcher.com, mcuevas@wearearcher.com",valid,,,new
-2026-09-03,"Brand, Web & Advertising Agency | branded by™ | Locations Nationwide",https://brandedby.co,"hello@brandedby.co, wilmington@brandedby.co, hendersonville@brandedby.co, greensboro@brandedby.co, columbia@brandedby.co, raleigh@brandedby.co, richmond@brandedby.co, nashville@brandedby.co, charlotte@brandedby.co, myrtlebeach@brandedby.co, winstonsalem@brandedby.co, evan@brandedbygreenville.com, knoxville@brandedby.co, batonrouge@brandedby.co, neworleans@brandedby.co, hello@brandeby.co, asheville@brandedby.co, orlando@brandedby.co, birmingham@brandedby.co, name@company.com, stpete@brandedby.co, tampa@brandedby.co, jacksonville@brandedby.co, atlanta@brandedby.co, greenville@brandedby.co, savannah@brandedby.co, durham@brandedby.co, huntsville@brandedby.co, augusta@brandedby.co, mobile@brandedby.co, lexington@brandedby.co, chattanooga@brandedby.co, charleston@brandedby.co","hello@brandedby.co, wilmington@brandedby.co, hendersonville@brandedby.co, greensboro@brandedby.co, columbia@brandedby.co, raleigh@brandedby.co, richmond@brandedby.co, nashville@brandedby.co, charlotte@brandedby.co, myrtlebeach@brandedby.co, winstonsalem@brandedby.co, knoxville@brandedby.co, batonrouge@brandedby.co, neworleans@brandedby.co, asheville@brandedby.co, orlando@brandedby.co, birmingham@brandedby.co, stpete@brandedby.co, tampa@brandedby.co, jacksonville@brandedby.co, atlanta@brandedby.co, greenville@brandedby.co, savannah@brandedby.co, durham@brandedby.co, huntsville@brandedby.co, augusta@brandedby.co, mobile@brandedby.co, lexington@brandedby.co, chattanooga@brandedby.co, charleston@brandedby.co, evan@brandedbygreenville.com",catch_all,864-525-5687,,new
+2026-09-03,Kelley & Associates Advertising,https://www.kelleyadv.com,"admin@kelleyadv.com.com, user@domain.com, admin@kelleyadv.com","admin@kelleyadv.com.com, admin@kelleyadv.com",catch_all,901-754-8998,,emailed
+2026-09-03,Archer Advertising,https://wearearcher.com,"tswope@wearearcher.com, mcuevas@wearearcher.com","tswope@wearearcher.com, mcuevas@wearearcher.com",valid,,,emailed
+2026-09-03,"Brand, Web & Advertising Agency | branded by™ | Locations Nationwide",https://brandedby.co,"hello@brandedby.co, wilmington@brandedby.co, hendersonville@brandedby.co, greensboro@brandedby.co, columbia@brandedby.co, raleigh@brandedby.co, richmond@brandedby.co, nashville@brandedby.co, charlotte@brandedby.co, myrtlebeach@brandedby.co, winstonsalem@brandedby.co, evan@brandedbygreenville.com, knoxville@brandedby.co, batonrouge@brandedby.co, neworleans@brandedby.co, hello@brandeby.co, asheville@brandedby.co, orlando@brandedby.co, birmingham@brandedby.co, name@company.com, stpete@brandedby.co, tampa@brandedby.co, jacksonville@brandedby.co, atlanta@brandedby.co, greenville@brandedby.co, savannah@brandedby.co, durham@brandedby.co, huntsville@brandedby.co, augusta@brandedby.co, mobile@brandedby.co, lexington@brandedby.co, chattanooga@brandedby.co, charleston@brandedby.co","hello@brandedby.co, wilmington@brandedby.co, hendersonville@brandedby.co, greensboro@brandedby.co, columbia@brandedby.co, raleigh@brandedby.co, richmond@brandedby.co, nashville@brandedby.co, charlotte@brandedby.co, myrtlebeach@brandedby.co, winstonsalem@brandedby.co, knoxville@brandedby.co, batonrouge@brandedby.co, neworleans@brandedby.co, asheville@brandedby.co, orlando@brandedby.co, birmingham@brandedby.co, stpete@brandedby.co, tampa@brandedby.co, jacksonville@brandedby.co, atlanta@brandedby.co, greenville@brandedby.co, savannah@brandedby.co, durham@brandedby.co, huntsville@brandedby.co, augusta@brandedby.co, mobile@brandedby.co, lexington@brandedby.co, chattanooga@brandedby.co, charleston@brandedby.co, evan@brandedbygreenville.com",catch_all,864-525-5687,,emailed
 2026-09-03,Remember Media,https://www.remember901.com,"user@domain.com, support@remember901.com",,invalid,,,new
-2026-09-03,Memphix Web Design & Marketing,https://memphix.com,"memphixweb@gmail.com, b@memphix.com, jane@yourbusiness.com","memphixweb@gmail.com, jane@yourbusiness.com",valid,901.432.5701,,new
-2026-09-03,"UI Compass | Home | Arlington, TX",https://uicompass.com,contact@uicompass.com,contact@uicompass.com,valid,(901) 490-4750,,new
-2026-09-03,"Hatch Digital Marketing Agency | Bristol, South West",https://www.hatchdigitalmarketing.com,hello@hatchdigitalmarketing.com,hello@hatchdigitalmarketing.com,catch_all,3592594,,new
+2026-09-03,Memphix Web Design & Marketing,https://memphix.com,"memphixweb@gmail.com, b@memphix.com, jane@yourbusiness.com","memphixweb@gmail.com, jane@yourbusiness.com",valid,901.432.5701,,emailed
+2026-09-03,"UI Compass | Home | Arlington, TX",https://uicompass.com,contact@uicompass.com,contact@uicompass.com,valid,(901) 490-4750,,emailed
+2026-09-03,"Hatch Digital Marketing Agency | Bristol, South West",https://www.hatchdigitalmarketing.com,hello@hatchdigitalmarketing.com,hello@hatchdigitalmarketing.com,catch_all,3592594,,emailed
 2026-09-03,Shan Digital Marketing,https://shandigitalmarketing.com,"info@shandigitalmarketing.com, jane@business.co.uk",,invalid,,,new
-2026-09-03,Full Service Marketing Agency | Bristol Marketing Agency,https://www.truedigital.co.uk,"info@truedigital.co.uk, jobs@truedigital.co.uk","info@truedigital.co.uk, jobs@truedigital.co.uk",valid,927 7750,,new
+2026-09-03,Full Service Marketing Agency | Bristol Marketing Agency,https://www.truedigital.co.uk,"info@truedigital.co.uk, jobs@truedigital.co.uk","info@truedigital.co.uk, jobs@truedigital.co.uk",valid,927 7750,,emailed
 2026-09-03,SEO Agency – Bristol – Rank higher than a Turbo Island resident,https://www.seoagency-bristol.co.uk,hi@seoagency-bristol.co.uk,,invalid,,,new
-2026-09-03,COOLBISON SEO - SEO for competitive markets,https://coolbison.co.uk,seo@coolbison.co.uk,seo@coolbison.co.uk,valid,402 7464,,new
+2026-09-03,COOLBISON SEO - SEO for competitive markets,https://coolbison.co.uk,seo@coolbison.co.uk,seo@coolbison.co.uk,valid,402 7464,,emailed
 2026-09-03,Sapdra – Think Digital,https://sapdra.com,sales@sapdra.com,,unverified,260-2869,,new
 2026-09-03,Local SEO Bristol | #1 Google Maps Ranking Experts | Bristol Local SEO,https://bristollocalseo.co.uk,info@bristollocalseo.co.uk,,unverified,,,new
-2026-09-03,Ridley Marketing,https://lewisridley.com,lewis@lewisridley.com,lewis@lewisridley.com,catch_all,427 1237,,new
-2026-09-03,B2B Podcast Agency for Pipeline & Business Growth | ThePod.fm,https://thepod.fm,management@thepod.fm,management@thepod.fm,catch_all,,,new
-2026-09-03,"HubSpot Partner | CRM, Websites and Marketing for B2B Growth | Axon Garside",https://www.axongarside.com,info@axongarside.com,info@axongarside.com,valid,3011128,,new
-2026-09-03,Owtanet,https://www.owta.net,info@owta.net,info@owta.net,valid,,,new
-2026-09-03,Digital Marketing Agency London | Marketing Agency Bristol,https://teyluandpartners.com,"nb@teyluandpartners.com, hello@teyluandpartners.com","nb@teyluandpartners.com, hello@teyluandpartners.com",catch_all,3133620,,new
+2026-09-03,Ridley Marketing,https://lewisridley.com,lewis@lewisridley.com,lewis@lewisridley.com,catch_all,427 1237,,emailed
+2026-09-03,B2B Podcast Agency for Pipeline & Business Growth | ThePod.fm,https://thepod.fm,management@thepod.fm,management@thepod.fm,catch_all,,,emailed
+2026-09-03,"HubSpot Partner | CRM, Websites and Marketing for B2B Growth | Axon Garside",https://www.axongarside.com,info@axongarside.com,info@axongarside.com,valid,3011128,,emailed
+2026-09-03,Owtanet,https://www.owta.net,info@owta.net,info@owta.net,valid,,,emailed
+2026-09-03,Digital Marketing Agency London | Marketing Agency Bristol,https://teyluandpartners.com,"nb@teyluandpartners.com, hello@teyluandpartners.com","nb@teyluandpartners.com, hello@teyluandpartners.com",catch_all,3133620,,emailed
 2026-09-03,Helium42,https://helium42.com,info@helium42.com,,invalid,208 834 4795,,new
 2026-09-03,BD Consultancy,https://www.bdconsultancy.co,brigid@bdconsultancy.co,,unverified,0798905234,,new
-2026-09-03,Evo Agency,https://evo.agency,hello@evo.agency,hello@evo.agency,valid,5385379,,new
-2026-09-03,Duchess 2023,https://www.duchessmedia.com,"clem@duchessmedia.com, example@mysite.com, meg@duchessmedia.com","clem@duchessmedia.com, meg@duchessmedia.com",valid,791 8964,,new
-2026-09-03,Orchard,https://thinkorchard.com,"lasekome@menzies.co.uk, info@thinkorchard.com",info@thinkorchard.com,valid,,,new
-2026-09-03,Fox Collective,https://fox-collective.com,careers@fox-collective.com,careers@fox-collective.com,valid,0750890961,,new
-2026-09-03,Grapevine,https://www.grapevineads.co.uk,hello@grapevineads.co.uk,hello@grapevineads.co.uk,catch_all,235 4455,,new
-2026-09-03,"Sprague Gibbons / Advertising, marketing and design agency Bristol | Sprague Gibbons",https://www.spraguegibbons.co.uk,hello@spraguegibbons.co.uk,hello@spraguegibbons.co.uk,valid,956 6777,,new
-2026-09-03,Creative Lives In Progress,https://creativelivesinprogress.com,"community@creativelivesinprogress.com, alfred@creativelivesinprogress.com, jessica@creativelivesinprogress.com, events@creativelivesinprogress.com, indi@creativelivesinprogress.com, zak@creativelivesinprogress.com, alex@creativelivesinprogress.com, content@creativelivesinprogress.com","community@creativelivesinprogress.com, alfred@creativelivesinprogress.com, jessica@creativelivesinprogress.com, events@creativelivesinprogress.com, indi@creativelivesinprogress.com, zak@creativelivesinprogress.com, alex@creativelivesinprogress.com, content@creativelivesinprogress.com",valid,,,new
+2026-09-03,Evo Agency,https://evo.agency,hello@evo.agency,hello@evo.agency,valid,5385379,,emailed
+2026-09-03,Duchess 2023,https://www.duchessmedia.com,"clem@duchessmedia.com, example@mysite.com, meg@duchessmedia.com","clem@duchessmedia.com, meg@duchessmedia.com",valid,791 8964,,emailed
+2026-09-03,Orchard,https://thinkorchard.com,"lasekome@menzies.co.uk, info@thinkorchard.com",info@thinkorchard.com,valid,,,emailed
+2026-09-03,Fox Collective,https://fox-collective.com,careers@fox-collective.com,careers@fox-collective.com,valid,0750890961,,emailed
+2026-09-03,Grapevine,https://www.grapevineads.co.uk,hello@grapevineads.co.uk,hello@grapevineads.co.uk,catch_all,235 4455,,emailed
+2026-09-03,"Sprague Gibbons / Advertising, marketing and design agency Bristol | Sprague Gibbons",https://www.spraguegibbons.co.uk,hello@spraguegibbons.co.uk,hello@spraguegibbons.co.uk,valid,956 6777,,emailed
+2026-09-03,Creative Lives In Progress,https://creativelivesinprogress.com,"community@creativelivesinprogress.com, alfred@creativelivesinprogress.com, jessica@creativelivesinprogress.com, events@creativelivesinprogress.com, indi@creativelivesinprogress.com, zak@creativelivesinprogress.com, alex@creativelivesinprogress.com, content@creativelivesinprogress.com","community@creativelivesinprogress.com, alfred@creativelivesinprogress.com, jessica@creativelivesinprogress.com, events@creativelivesinprogress.com, indi@creativelivesinprogress.com, zak@creativelivesinprogress.com, alex@creativelivesinprogress.com, content@creativelivesinprogress.com",valid,,,emailed
 2026-09-03,Podymos,https://podymos.com,info@podymos.com,,invalid,,,new
-2026-09-03,Fork The Waffle / A Creative Agency that keeps it simple.,https://forkthewaffle.co.uk,"hello@forkthewaffle.co.uk, forkers@forkthewaffle.co.uk","hello@forkthewaffle.co.uk, forkers@forkthewaffle.co.uk",valid,17886451785,,new
+2026-09-03,Fork The Waffle / A Creative Agency that keeps it simple.,https://forkthewaffle.co.uk,"hello@forkthewaffle.co.uk, forkers@forkthewaffle.co.uk","hello@forkthewaffle.co.uk, forkers@forkthewaffle.co.uk",valid,17886451785,,emailed
 2026-09-03,Bristol Website Design Ltd,https://bristol-website-design.co.uk,info@bristol-website-design.co.uk,,unverified,823 5867,,new
 2026-09-03,Web Design Bristol | Web Development Bristol,https://www.websitesorted.com,info@websitesorted.com,,unverified,,,new
-2026-09-03,Peak,https://peak.agency,"info@nebula.design, info@peak.agency",info@nebula.design,valid,,,new
-2026-09-03,Unfold,https://madebyunfold.co,hello@madebyunfold.co,hello@madebyunfold.co,catch_all,,,new
+2026-09-03,Peak,https://peak.agency,"info@nebula.design, info@peak.agency",info@nebula.design,valid,,,emailed
+2026-09-03,Unfold,https://madebyunfold.co,hello@madebyunfold.co,hello@madebyunfold.co,catch_all,,,emailed
 2026-09-03,Web Design in Bristol,https://directlocalwebsites.co.uk,info@directlocalwebsites.co.uk,,invalid,329 0450,,new
-2026-09-03,isimplydesign.co | Squarespace Web Designer Bristol,https://www.isimplydesign.co,"isimplydesign20@gmail.com, hello@isimplydesign.com, user@domain.com","isimplydesign20@gmail.com, hello@isimplydesign.com, user@domain.com",valid,,,new
-2026-09-03,Aroar Digital,https://aroar.digital,marketing@aroardigital.com,marketing@aroardigital.com,valid,,,new
-2026-09-03,Vue Digital | Custom Websites & Media Services,https://www.vuedigital.com.au,"bookings@vuedigital.com.au, marketing@vuedigital.com.au","bookings@vuedigital.com.au, marketing@vuedigital.com.au",catch_all,,,new
-2026-09-03,Tomato Promo,https://www.tomatopromo.com,admin@tomatopromo.com,admin@tomatopromo.com,catch_all,,,new
-2026-09-03,FuturePlace,https://futureplace.tech,"tiffanys@futureplace.tech, leonk@futureplace.tech, info@futureplace.tech, lachlanm@futureplace.tech, neill@futureplace.tech, julia.arlt@gmail.com, vanessac@futureplace.tech, johnp@futureplace.tech","tiffanys@futureplace.tech, leonk@futureplace.tech, info@futureplace.tech, lachlanm@futureplace.tech, neill@futureplace.tech, vanessac@futureplace.tech, johnp@futureplace.tech, julia.arlt@gmail.com",valid,,,new
-2026-09-03,Scopic Studios,https://scopicstudios.com,"sales@scopicstudios.com, sales@scopicsoftware.com","sales@scopicstudios.com, sales@scopicsoftware.com",valid,+1 (508) 886-3240,,new
-2026-09-03,Prime,https://www.pmigrationlawyers.com,"admin@primelawyers.org, admin@pmigrationlawyers.com","admin@primelawyers.org, admin@pmigrationlawyers.com",valid,,,new
-2026-09-03,LawConnect,https://lawconnect.com,"help@lawconnect.com, u003ehelp@lawconnect.com",help@lawconnect.com,valid,,,new
-2026-09-03,Driven,https://driven.agency,info@driven.agency,info@driven.agency,valid,831 2801,,new
-2026-09-03,REVO/LOVE AGENTUR,https://revo-love.com,"info@revo-love.com, sar@revo-love.com","info@revo-love.com, sar@revo-love.com",catch_all,,,new
+2026-09-03,isimplydesign.co | Squarespace Web Designer Bristol,https://www.isimplydesign.co,"isimplydesign20@gmail.com, hello@isimplydesign.com, user@domain.com","isimplydesign20@gmail.com, hello@isimplydesign.com, user@domain.com",valid,,,emailed
+2026-09-03,Aroar Digital,https://aroar.digital,marketing@aroardigital.com,marketing@aroardigital.com,valid,,,emailed
+2026-09-03,Vue Digital | Custom Websites & Media Services,https://www.vuedigital.com.au,"bookings@vuedigital.com.au, marketing@vuedigital.com.au","bookings@vuedigital.com.au, marketing@vuedigital.com.au",catch_all,,,emailed
+2026-09-03,Tomato Promo,https://www.tomatopromo.com,admin@tomatopromo.com,admin@tomatopromo.com,catch_all,,,emailed
+2026-09-03,FuturePlace,https://futureplace.tech,"tiffanys@futureplace.tech, leonk@futureplace.tech, info@futureplace.tech, lachlanm@futureplace.tech, neill@futureplace.tech, julia.arlt@gmail.com, vanessac@futureplace.tech, johnp@futureplace.tech","tiffanys@futureplace.tech, leonk@futureplace.tech, info@futureplace.tech, lachlanm@futureplace.tech, neill@futureplace.tech, vanessac@futureplace.tech, johnp@futureplace.tech, julia.arlt@gmail.com",valid,,,emailed
+2026-09-03,Scopic Studios,https://scopicstudios.com,"sales@scopicstudios.com, sales@scopicsoftware.com","sales@scopicstudios.com, sales@scopicsoftware.com",valid,+1 (508) 886-3240,,emailed
+2026-09-03,Prime,https://www.pmigrationlawyers.com,"admin@primelawyers.org, admin@pmigrationlawyers.com","admin@primelawyers.org, admin@pmigrationlawyers.com",valid,,,emailed
+2026-09-03,LawConnect,https://lawconnect.com,"help@lawconnect.com, u003ehelp@lawconnect.com",help@lawconnect.com,valid,,,emailed
+2026-09-03,Driven,https://driven.agency,info@driven.agency,info@driven.agency,valid,831 2801,,emailed
+2026-09-03,REVO/LOVE AGENTUR,https://revo-love.com,"info@revo-love.com, sar@revo-love.com","info@revo-love.com, sar@revo-love.com",catch_all,,,emailed
 2026-09-03,Google Maps Marketing für mehr lokale Kunden | SocialEdge,https://www.socialedge.ai,timo.fallert@socialedge.ai,,unverified,2345678,,new
-2026-09-03,B2B Wachstum durch integriertes Marketing und Sales | inboundfriends,https://www.inboundfriends.com,sales@inboundfriends.com,sales@inboundfriends.com,valid,,,new
-2026-09-03,expertpowerhouse – On-Demand Consultants for Tailored Project Support,https://www.expertpowerhouse.com,"jobs@expertpowerhouse.com, info@expertpowerhouse.com","jobs@expertpowerhouse.com, info@expertpowerhouse.com",valid,753 8888,,new
+2026-09-03,B2B Wachstum durch integriertes Marketing und Sales | inboundfriends,https://www.inboundfriends.com,sales@inboundfriends.com,sales@inboundfriends.com,valid,,,emailed
+2026-09-03,expertpowerhouse – On-Demand Consultants for Tailored Project Support,https://www.expertpowerhouse.com,"jobs@expertpowerhouse.com, info@expertpowerhouse.com","jobs@expertpowerhouse.com, info@expertpowerhouse.com",valid,753 8888,,emailed
 2026-09-03,Webscension,https://www.webscension.co,contact@webscension.co,,invalid,,,new
-2026-09-03,"Editing & Proofreading Services, 100% Human | Editor World",https://www.editorworld.com,info@editorworld.com,info@editorworld.com,catch_all,,,new
-2026-09-03,StudyinEurope.eu,https://www.studyineurope.eu,hello@studyineurope.eu,hello@studyineurope.eu,catch_all,2265423,,new
-2026-09-03,Home,https://www.dolfincontent.com,"info@dolfincontent.co, info@dolfincontent.com",info@dolfincontent.com,catch_all,+1 (954) 991-1788,,new
-2026-09-03,Stevie Awards,https://mobile.stevieawards.com,"help+conference@stevieawards.com, help+awards@stevieawards.com, help+payments@stevieawards.com, help+store@stevieawards.com, help+asia@stevieawards.com, help+europe@stevieawards.com, cindy.chou@oneshottw.com, awards@kuzeygelisim.com, michael@stevieawards.com, info@businessawardsconsulting.com, sara@geisermaclang.com, judging@stevieawards.com, drraginipathak@gmail.com, hugh@monbro.com, issei@stevieawards.com, europe@stevieawards.com, help+mena@stevieawards.com, admin@theaudaciousagency.com, help@stevieawards.com, vietnam@stevieawards.com, stellawong@brandsoul.com.my, admin@awardwinningaccelerator.com, may@stevieawards.com, baeseogbong@gmail.com","help+conference@stevieawards.com, help+awards@stevieawards.com, help+payments@stevieawards.com, help+store@stevieawards.com, help+asia@stevieawards.com, help+europe@stevieawards.com, michael@stevieawards.com, judging@stevieawards.com, issei@stevieawards.com, europe@stevieawards.com, help+mena@stevieawards.com, help@stevieawards.com, vietnam@stevieawards.com, may@stevieawards.com, cindy.chou@oneshottw.com, awards@kuzeygelisim.com, sara@geisermaclang.com, drraginipathak@gmail.com, baeseogbong@gmail.com, hugh@monbro.com, admin@theaudaciousagency.com, stellawong@brandsoul.com.my",valid,,,new
-2026-09-03,VibefoxStudio,https://www.vibefoxstudio.com,inquiries@vibefoxstudio.com,inquiries@vibefoxstudio.com,catch_all,,,new
+2026-09-03,"Editing & Proofreading Services, 100% Human | Editor World",https://www.editorworld.com,info@editorworld.com,info@editorworld.com,catch_all,,,emailed
+2026-09-03,StudyinEurope.eu,https://www.studyineurope.eu,hello@studyineurope.eu,hello@studyineurope.eu,catch_all,2265423,,emailed
+2026-09-03,Home,https://www.dolfincontent.com,"info@dolfincontent.co, info@dolfincontent.com",info@dolfincontent.com,catch_all,+1 (954) 991-1788,,emailed
+2026-09-03,Stevie Awards,https://mobile.stevieawards.com,"help+conference@stevieawards.com, help+awards@stevieawards.com, help+payments@stevieawards.com, help+store@stevieawards.com, help+asia@stevieawards.com, help+europe@stevieawards.com, cindy.chou@oneshottw.com, awards@kuzeygelisim.com, michael@stevieawards.com, info@businessawardsconsulting.com, sara@geisermaclang.com, judging@stevieawards.com, drraginipathak@gmail.com, hugh@monbro.com, issei@stevieawards.com, europe@stevieawards.com, help+mena@stevieawards.com, admin@theaudaciousagency.com, help@stevieawards.com, vietnam@stevieawards.com, stellawong@brandsoul.com.my, admin@awardwinningaccelerator.com, may@stevieawards.com, baeseogbong@gmail.com","help+conference@stevieawards.com, help+awards@stevieawards.com, help+payments@stevieawards.com, help+store@stevieawards.com, help+asia@stevieawards.com, help+europe@stevieawards.com, michael@stevieawards.com, judging@stevieawards.com, issei@stevieawards.com, europe@stevieawards.com, help+mena@stevieawards.com, help@stevieawards.com, vietnam@stevieawards.com, may@stevieawards.com, cindy.chou@oneshottw.com, awards@kuzeygelisim.com, sara@geisermaclang.com, drraginipathak@gmail.com, baeseogbong@gmail.com, hugh@monbro.com, admin@theaudaciousagency.com, stellawong@brandsoul.com.my",valid,,,emailed
+2026-09-03,VibefoxStudio,https://www.vibefoxstudio.com,inquiries@vibefoxstudio.com,inquiries@vibefoxstudio.com,catch_all,,,emailed
 2026-09-03,Digital Marketing Company,https://digitalmarketingco.org,contact@digitalmarketingco.org,,invalid,(828) 675-8641,,new
-2026-09-03,Digital Marketing Agency | Turn Ad Spend Into Real Buyers | High Tide Marketing,https://www.hightidemarketing.com,support@hightidemarketing.com,support@hightidemarketing.com,catch_all,(912) 231-5182,,new
-2026-09-03,MESAAS,https://mesaas.columbia.edu,"rr2574@columbia.edu, c_9624e9f4acc9561297db71a63c865ad491cef27c0a5a1ed548a8c44afc32f0f1@group.calendar.google.com, jr650@columbia.edu, yn2162@columbia.edu","rr2574@columbia.edu, jr650@columbia.edu, yn2162@columbia.edu",valid,(212) 854-2556,,new
+2026-09-03,Digital Marketing Agency | Turn Ad Spend Into Real Buyers | High Tide Marketing,https://www.hightidemarketing.com,support@hightidemarketing.com,support@hightidemarketing.com,catch_all,(912) 231-5182,,emailed
+2026-09-03,MESAAS,https://mesaas.columbia.edu,"rr2574@columbia.edu, c_9624e9f4acc9561297db71a63c865ad491cef27c0a5a1ed548a8c44afc32f0f1@group.calendar.google.com, jr650@columbia.edu, yn2162@columbia.edu","rr2574@columbia.edu, jr650@columbia.edu, yn2162@columbia.edu",valid,(212) 854-2556,,emailed
 2026-09-03,Doublesmart,https://www.doublesmart.nl,"info@doublesmart.nl, rick@doublesmart.nl, jessica@doublesmart.nl, sjoerd@doublesmart.nl",,invalid,,,new
 2026-09-03,Heers,https://www.heers.nl,info@heers.nl,,invalid,,,new
 2026-09-03,SEO Economisch Onderzoek,https://www.seo.nl,"secretariaat@seo.nl, i.heemskerk@seo.nl",,invalid,399 1255,,new
-2026-09-03,YourDictionary: Definitions and Meanings From Over a Dozen Trusted Dictionary Sources,https://www.yourdictionary.com,"admin@lovetoknow.com, admin@yourdictionary.com, u003eadmin@lovetoknow.com","admin@lovetoknow.com, u003eadmin@lovetoknow.com, admin@yourdictionary.com",catch_all,,,new
-2026-09-03,NJ PEN,https://www.njpen.com,matt@njpen.com,matt@njpen.com,catch_all,,,new
-2026-09-03,Coastal Solutions Media,https://www.coastalsolutionsmedia.com,"info@coastalsolutionsmedia.com, brian@coastalsolutionsmedia.com, jane@acmehomeservices.com","info@coastalsolutionsmedia.com, brian@coastalsolutionsmedia.com",valid,+1-843-547-5515,,new
+2026-09-03,YourDictionary: Definitions and Meanings From Over a Dozen Trusted Dictionary Sources,https://www.yourdictionary.com,"admin@lovetoknow.com, admin@yourdictionary.com, u003eadmin@lovetoknow.com","admin@lovetoknow.com, u003eadmin@lovetoknow.com, admin@yourdictionary.com",catch_all,,,emailed
+2026-09-03,NJ PEN,https://www.njpen.com,matt@njpen.com,matt@njpen.com,catch_all,,,emailed
+2026-09-03,Coastal Solutions Media,https://www.coastalsolutionsmedia.com,"info@coastalsolutionsmedia.com, brian@coastalsolutionsmedia.com, jane@acmehomeservices.com","info@coastalsolutionsmedia.com, brian@coastalsolutionsmedia.com",valid,+1-843-547-5515,,emailed
 2026-09-03,Courier-Post,https://www.courierpostonline.com,"rinaganti@gannettnj.com, cwhittaker@usatodayco.com, mboykin@gannett.com, trimback@gannett.com, jwalsh@gannettnj.com, aharvin@usatodayco.com, bsiwy@usatodayco.com, tmcgurk@gannettnj.com, jsmith@thedailyjournal.com, kswift@gannettnj.com, clachall@gannettnj.com",,invalid,,,new
 2026-09-03,AdEdge Online Marketing,https://adedgemarketing.com,info@adedgemarketing.com,,unverified,(203) 682 4585,,new
 2026-09-03,US EPA,https://www.epa.gov,"tri.help@epa.gov, acres_help@epa.gov, docket-customerservice@epa.gov, communityhotline@epa.gov, npic@oregonstate.edu, p2hub@epa.gov, epa-seattle@epa.gov, radon@ksu.edu, asbo@epa.gov, lovett.queen@epa.gov, tsca-hotline@epa.gov, r8eisc@epa.gov, helpdesk@epacdx.net, oig_hotline@epa.gov",,unverified,,,new
-2026-09-03,United WebWorks,https://www.unitedwebworks.com,info@unitedwebworks.com,info@unitedwebworks.com,valid,912.231.0016,,new
-2026-09-03,Ignite Local,https://ignitelocal.com,inquiries@ignitelocal.com,inquiries@ignitelocal.com,catch_all,425-261-9873,,new
-2026-09-03,Commerce Engine,https://www.commercengine.io,"joe.smith@gmail.com, support@commercengine.io",support@commercengine.io,valid,,,new
-2026-09-03,Marie Management | Business Consulting Firm,https://www.marie-management.com,info@marie-management.com,info@marie-management.com,valid,,,new
-2026-09-03,Catalyst Marketing Agency,https://catalystmarketingagency.com,"sea@wearecatalyst.com, hello@wearecatalyst.com, snj@wearecatalyst.com, nyc@wearecatalyst.com","sea@wearecatalyst.com, hello@wearecatalyst.com, snj@wearecatalyst.com, nyc@wearecatalyst.com",catch_all,(877) 777-8390,,new
-2026-09-03,"Matific | Math Games & Worksheets Online, Designed by Math Experts",https://www.matific.com,"%20ceibal@ceibal.edu.uy, %20contato@matific.com, usa@matific.com",usa@matific.com,valid,,,new
-2026-09-03,"Matific | Math Games & Worksheets Online, Designed by Math Experts",https://www.matific.ca,"%20ceibal@ceibal.edu.uy, %20contato@matific.com, usa@matific.com",usa@matific.com,valid,,,new
-2026-09-03,The Conversion Mill,https://theconversionmill.com,"hello@theconversionmill.com, your@email.com",hello@theconversionmill.com,catch_all,(877) 426-8776,,new
-2026-09-03,702 Pros,https://702pros.com,info@702pros.com,info@702pros.com,catch_all,+1 (702) 904-4262,,new
+2026-09-03,United WebWorks,https://www.unitedwebworks.com,info@unitedwebworks.com,info@unitedwebworks.com,valid,912.231.0016,,emailed
+2026-09-03,Ignite Local,https://ignitelocal.com,inquiries@ignitelocal.com,inquiries@ignitelocal.com,catch_all,425-261-9873,,emailed
+2026-09-03,Commerce Engine,https://www.commercengine.io,"joe.smith@gmail.com, support@commercengine.io",support@commercengine.io,valid,,,emailed
+2026-09-03,Marie Management | Business Consulting Firm,https://www.marie-management.com,info@marie-management.com,info@marie-management.com,valid,,,emailed
+2026-09-03,Catalyst Marketing Agency,https://catalystmarketingagency.com,"sea@wearecatalyst.com, hello@wearecatalyst.com, snj@wearecatalyst.com, nyc@wearecatalyst.com","sea@wearecatalyst.com, hello@wearecatalyst.com, snj@wearecatalyst.com, nyc@wearecatalyst.com",catch_all,(877) 777-8390,,emailed
+2026-09-03,"Matific | Math Games & Worksheets Online, Designed by Math Experts",https://www.matific.com,"%20ceibal@ceibal.edu.uy, %20contato@matific.com, usa@matific.com",usa@matific.com,valid,,,emailed
+2026-09-03,"Matific | Math Games & Worksheets Online, Designed by Math Experts",https://www.matific.ca,"%20ceibal@ceibal.edu.uy, %20contato@matific.com, usa@matific.com",usa@matific.com,valid,,,emailed
+2026-09-03,The Conversion Mill,https://theconversionmill.com,"hello@theconversionmill.com, your@email.com",hello@theconversionmill.com,catch_all,(877) 426-8776,,emailed
+2026-09-03,702 Pros,https://702pros.com,info@702pros.com,info@702pros.com,catch_all,+1 (702) 904-4262,,emailed
 2026-09-03,"Marketing & Advertising Firm in Melbourne, FL | The AD Leaf ®",https://theadleaf.com,"info@fun-ruby-snake.65-181-111-5.cpanel.site, support@fun-ruby-snake.65-181-111-5.cpanel.site",,invalid,(321) 255-0900,,new
 2026-09-03,Primera Hora,https://www.primerahora.com,"juan.guma@gfrpr.com, maribel.hernandez@gfrmedia.com, hillary.roman@gfrmedia.com, yolymar.dejesus@gfrmedia.com, historiasph@gfrmedia.com, sara.marrero@gfrmedia.com, keishla.carbo@gfrmedia.com",,invalid,,,new
-2026-09-03,ExtremeTech,https://www.extremetech.com,"dispute.notice@ziffdavis.com, support@spiceworks.com, legal@ziffdavis.com, brand_licensing@ziffdavis.com, security@spiceworks.com","dispute.notice@ziffdavis.com, legal@ziffdavis.com, brand_licensing@ziffdavis.com, support@spiceworks.com, security@spiceworks.com",valid,,,new
+2026-09-03,ExtremeTech,https://www.extremetech.com,"dispute.notice@ziffdavis.com, support@spiceworks.com, legal@ziffdavis.com, brand_licensing@ziffdavis.com, security@spiceworks.com","dispute.notice@ziffdavis.com, legal@ziffdavis.com, brand_licensing@ziffdavis.com, support@spiceworks.com, security@spiceworks.com",valid,,,emailed
 2026-09-03,Home — Local Source,https://evansville.localfoodmarketplace.com,manager@localsourceswi.com,,invalid,812-573-0442,,new
-2026-09-03,Local Now,https://localnow.com,"advertise@localnow.com, u003econtent@localnow.com, feedback@localnow.com, u003eeditorial@localnow.com, u003efeedback@localnow.com, u003eadvertise@localnow.com, u003einfo@localnow.com, info@localnow.com, content@localnow.com, editorial@localnow.com","advertise@localnow.com, u003econtent@localnow.com, feedback@localnow.com, u003eeditorial@localnow.com, u003efeedback@localnow.com, u003eadvertise@localnow.com, u003einfo@localnow.com, info@localnow.com, content@localnow.com, editorial@localnow.com",catch_all,,,new
+2026-09-03,Local Now,https://localnow.com,"advertise@localnow.com, u003econtent@localnow.com, feedback@localnow.com, u003eeditorial@localnow.com, u003efeedback@localnow.com, u003eadvertise@localnow.com, u003einfo@localnow.com, info@localnow.com, content@localnow.com, editorial@localnow.com","advertise@localnow.com, u003econtent@localnow.com, feedback@localnow.com, u003eeditorial@localnow.com, u003efeedback@localnow.com, u003eadvertise@localnow.com, u003einfo@localnow.com, info@localnow.com, content@localnow.com, editorial@localnow.com",catch_all,,,emailed
 2026-09-03,Courier & Press,https://www.courierpress.com,"sarah.loesch@courierpress.com, houston.harwood@courierpress.com, jon.webb@courierpress.com, macabe.brown@courierpress.com, kyle.sokeland@courierpress.com, tom.langhorne@courierpress.com, mtsegaye@gannett.com, ryan.reynolds@courierpress.com",,invalid,,,new
-2026-09-03,https://www.14news.com,https://www.14news.com,"cmonroe@14news.com, joshua.auzenne@wafb.com, jamee.french@14news.com, madelyn.hanes@14news.com, jazlynn.bebout@21alivenews.com, agregory@14news.com, chris.locken@wlfi.com, jlyman@14news.com, bbarnett@14news.com, barbara.bellinger@14news.com, erika.bonner@wkyt.com, newsdesk@14news.com, cody.heaster@wlox.com, brian.cissell@14news.com, lgunter@kait8.com, publicfile@14news.com, corryn.brock@21alivenews.com, emalee.jones@14news.com, monica.watkins@14news.com, shellie.sylvestri@wave3.com, miles.montgomery@wanf.com, jill.lyman@14news.com, aaron.chatman@14news.com, greg.kathary@14news.com, debra.worley@graymedia.com, gabe.pontones@14news.com, bryce.west@14news.com, jamie.bremer@14news.com, emily.erikson@14news.com, rachaelthomas@wafb.com, aaron.weeks@14news.com","cmonroe@14news.com, jamee.french@14news.com, madelyn.hanes@14news.com, agregory@14news.com, jlyman@14news.com, bbarnett@14news.com, barbara.bellinger@14news.com, newsdesk@14news.com, brian.cissell@14news.com, publicfile@14news.com, emalee.jones@14news.com, jill.lyman@14news.com, aaron.chatman@14news.com, greg.kathary@14news.com, gabe.pontones@14news.com, bryce.west@14news.com, jamie.bremer@14news.com, emily.erikson@14news.com, aaron.weeks@14news.com, rachaelthomas@wafb.com, jazlynn.bebout@21alivenews.com, corryn.brock@21alivenews.com, chris.locken@wlfi.com",valid,(812) 426-1414,,new
-2026-09-03,Jacksonville Marketing Agency – Advertising – PR - Design,https://www.dionmarketing.com,"juliedion@dionmarketing.com, user@domain.com",juliedion@dionmarketing.com,valid,904-249-9784,,new
-2026-09-03,"Wingard » Marketing & Advertising Agency in Jacksonville, Florida",https://www.wearewingard.com,hello@wearewingard.com,hello@wearewingard.com,valid,904.387.2570,,new
-2026-09-03,Social Bar & Grill Soulard,https://www.socialbarandgrillsoulard.com,"christinemoehle@yahoo.com, sbg.stl@gmail.com, jbottems@gmail.com","sbg.stl@gmail.com, jbottems@gmail.com",valid,314-241-3023,,new
-2026-09-03,XNXX Adult Forum,https://forum.xnxx.com,forum@xnxx.com,forum@xnxx.com,valid,,,new
-2026-09-03,FOX LOCAL,https://www.foxlocal.com,feedback@foxlocal.com,feedback@foxlocal.com,catch_all,,,new
+2026-09-03,https://www.14news.com,https://www.14news.com,"cmonroe@14news.com, joshua.auzenne@wafb.com, jamee.french@14news.com, madelyn.hanes@14news.com, jazlynn.bebout@21alivenews.com, agregory@14news.com, chris.locken@wlfi.com, jlyman@14news.com, bbarnett@14news.com, barbara.bellinger@14news.com, erika.bonner@wkyt.com, newsdesk@14news.com, cody.heaster@wlox.com, brian.cissell@14news.com, lgunter@kait8.com, publicfile@14news.com, corryn.brock@21alivenews.com, emalee.jones@14news.com, monica.watkins@14news.com, shellie.sylvestri@wave3.com, miles.montgomery@wanf.com, jill.lyman@14news.com, aaron.chatman@14news.com, greg.kathary@14news.com, debra.worley@graymedia.com, gabe.pontones@14news.com, bryce.west@14news.com, jamie.bremer@14news.com, emily.erikson@14news.com, rachaelthomas@wafb.com, aaron.weeks@14news.com","cmonroe@14news.com, jamee.french@14news.com, madelyn.hanes@14news.com, agregory@14news.com, jlyman@14news.com, bbarnett@14news.com, barbara.bellinger@14news.com, newsdesk@14news.com, brian.cissell@14news.com, publicfile@14news.com, emalee.jones@14news.com, jill.lyman@14news.com, aaron.chatman@14news.com, greg.kathary@14news.com, gabe.pontones@14news.com, bryce.west@14news.com, jamie.bremer@14news.com, emily.erikson@14news.com, aaron.weeks@14news.com, rachaelthomas@wafb.com, jazlynn.bebout@21alivenews.com, corryn.brock@21alivenews.com, chris.locken@wlfi.com",valid,(812) 426-1414,,emailed
+2026-09-03,Jacksonville Marketing Agency – Advertising – PR - Design,https://www.dionmarketing.com,"juliedion@dionmarketing.com, user@domain.com",juliedion@dionmarketing.com,valid,904-249-9784,,emailed
+2026-09-03,"Wingard » Marketing & Advertising Agency in Jacksonville, Florida",https://www.wearewingard.com,hello@wearewingard.com,hello@wearewingard.com,valid,904.387.2570,,emailed
+2026-09-03,Social Bar & Grill Soulard,https://www.socialbarandgrillsoulard.com,"christinemoehle@yahoo.com, sbg.stl@gmail.com, jbottems@gmail.com","sbg.stl@gmail.com, jbottems@gmail.com",valid,314-241-3023,,emailed
+2026-09-03,XNXX Adult Forum,https://forum.xnxx.com,forum@xnxx.com,forum@xnxx.com,valid,,,emailed
+2026-09-03,FOX LOCAL,https://www.foxlocal.com,feedback@foxlocal.com,feedback@foxlocal.com,catch_all,,,emailed
 2026-09-03,WRGB,https://cbs6albany.com,"sports@wrgb.com, comments-comments@sbgi.net, sports-sports@wrgb.com, comments@sbgi.net, kmalyska@sbgtv.com, childrenstv@sbgtv.com, sdomozyc@sbgi.net, desk-news@wrgb.com, comments-feedback@wrgb.com, weather-weather@wrgb.com, feedback@wrgb.com, contentsales@sbgtv.com, weather@wrgb.com, news@wrgb.com, advertising@sbgtv.com",,unverified,,,new
 2026-09-03,Very Local,https://www.verylocal.com,hello@verylocal.com,,invalid,,,new
 2026-09-03,KATU,https://katu.com,"portland-katu-web-staff@sbgtv.com, comments-comments@sbgi.net, amnw-amnw@katu.com, amnw@katu.com, sports-sports@katu.com, tips-newstips@katu.com, sports@katu.com, inquiries-advertise@katu.com, newstips@katu.com, thedesk@katu.com, comments@sbgi.net, sdomozyc@sbgi.net, advertise@katu.com, contests-portland-katu-web-staff@sbgtv.com, stevede@katu.com, cc@katu.com, weather@katu.com, webmaster-portland-katu-web-staff@sbgtv.com, desk-thedesk@katu.com, comments-stevede@katu.com, contentsales@sbgtv.com, weather-weather@katu.com, comments-portland-katu-web-staff@sbgtv.com, advertising@sbgtv.com",,invalid,,,new
-2026-09-03,Savannah Ga Based Nicasio Web Design & Custom WordPress & Wild Apricot Design,https://nicasiodesign.com,info@nicasiodesign.com,info@nicasiodesign.com,catch_all,912-441-7011,,new
-2026-09-03,BlckOps Web Design,https://blckops.com,bj@bjblackburn.com,bj@bjblackburn.com,catch_all,(912) 536-0253,,new
-2026-09-03,HoustonMarketing,https://www.marketingillumination.com,info@marketingillumination.com,info@marketingillumination.com,valid,(832) 753-6124,,new
-2026-09-03,SERP Matrix,https://serpmatrix.com,info@serpmatrix.com,info@serpmatrix.com,catch_all,1-713-287-1134,,new
+2026-09-03,Savannah Ga Based Nicasio Web Design & Custom WordPress & Wild Apricot Design,https://nicasiodesign.com,info@nicasiodesign.com,info@nicasiodesign.com,catch_all,912-441-7011,,emailed
+2026-09-03,BlckOps Web Design,https://blckops.com,bj@bjblackburn.com,bj@bjblackburn.com,catch_all,(912) 536-0253,,emailed
+2026-09-03,HoustonMarketing,https://www.marketingillumination.com,info@marketingillumination.com,info@marketingillumination.com,valid,(832) 753-6124,,emailed
+2026-09-03,SERP Matrix,https://serpmatrix.com,info@serpmatrix.com,info@serpmatrix.com,catch_all,1-713-287-1134,,emailed
 2026-09-03,"iFlow Inc- IT Development, Consulting, Staffing & Marketing",https://iflowglobal.com,contact@iflowglobal.com,,unverified,+1 248.939.4979,,new
-2026-09-03,Enlimited: Leading Houston SEO & PPC Agency | Expert Web Design,https://enlimited.io,"mohsin@enlimited.io, hello@enlimited.io","mohsin@enlimited.io, hello@enlimited.io",valid,(713) 289-0021,,new
-2026-09-03,B2B SEO Giants,https://b2bseoagency.us,"contact@b2bseoagency.us, zakriazaeem44@gmail.com",zakriazaeem44@gmail.com,valid,,,new
-2026-09-03,INFINI Marketing,https://www.infinimarketing.com,dev@infinimarketing.com,dev@infinimarketing.com,valid,(713)804-6963,,new
-2026-09-03,"Vertical Web Hosting, Design Marketing",https://www.verticalweb.com,"info@verticalweb.com, support@verticalweb.com, billing@verticalweb.com","info@verticalweb.com, support@verticalweb.com, billing@verticalweb.com",valid,713-703-3030,,new
-2026-09-03,Versa Creative,https://versacreative.com,begin@versacreative.com,begin@versacreative.com,valid,832 831 7590,,new
-2026-09-03,Kreative Media,https://kreative-media.com,krista@kreative-media.com,krista@kreative-media.com,valid,,,new
+2026-09-03,Enlimited: Leading Houston SEO & PPC Agency | Expert Web Design,https://enlimited.io,"mohsin@enlimited.io, hello@enlimited.io","mohsin@enlimited.io, hello@enlimited.io",valid,(713) 289-0021,,emailed
+2026-09-03,B2B SEO Giants,https://b2bseoagency.us,"contact@b2bseoagency.us, zakriazaeem44@gmail.com",zakriazaeem44@gmail.com,valid,,,emailed
+2026-09-03,INFINI Marketing,https://www.infinimarketing.com,dev@infinimarketing.com,dev@infinimarketing.com,valid,(713)804-6963,,emailed
+2026-09-03,"Vertical Web Hosting, Design Marketing",https://www.verticalweb.com,"info@verticalweb.com, support@verticalweb.com, billing@verticalweb.com","info@verticalweb.com, support@verticalweb.com, billing@verticalweb.com",valid,713-703-3030,,emailed
+2026-09-03,Versa Creative,https://versacreative.com,begin@versacreative.com,begin@versacreative.com,valid,832 831 7590,,emailed
+2026-09-03,Kreative Media,https://kreative-media.com,krista@kreative-media.com,krista@kreative-media.com,valid,,,emailed
 2026-09-03,Angel SEO,https://www.angelseoservices.com,info@angelseoservices.com,,unverified,832-382-2024,,new
-2026-09-03,Web Design & Marketing Company in Houston Texas | ICONIC WEB PRESENCE,https://owdt.com,"info@owdt.com, accounting@owdt.com","info@owdt.com, accounting@owdt.com",catch_all,,,new
-2026-09-03,Clear Digital,https://www.cleardigital.com,info@cleardigital.com,info@cleardigital.com,valid,408.246.0000,,new
-2026-09-03,Houston Web Design,https://www.webtheorydesigns.com,info@webtheorydesigns.com,info@webtheorydesigns.com,catch_all,(855) 713-2811,,new
-2026-09-03,Houston Webflow Web Design Experts | Sweven.design,https://www.sweven.design,hey@sweven.design,hey@sweven.design,catch_all,832-356-6496,,new
-2026-09-03,WEB BONAFIDE,https://webbonafide.com,info@webbonafide.com,info@webbonafide.com,valid,+1 281 899 0867,,new
+2026-09-03,Web Design & Marketing Company in Houston Texas | ICONIC WEB PRESENCE,https://owdt.com,"info@owdt.com, accounting@owdt.com","info@owdt.com, accounting@owdt.com",catch_all,,,emailed
+2026-09-03,Clear Digital,https://www.cleardigital.com,info@cleardigital.com,info@cleardigital.com,valid,408.246.0000,,emailed
+2026-09-03,Houston Web Design,https://www.webtheorydesigns.com,info@webtheorydesigns.com,info@webtheorydesigns.com,catch_all,(855) 713-2811,,emailed
+2026-09-03,Houston Webflow Web Design Experts | Sweven.design,https://www.sweven.design,hey@sweven.design,hey@sweven.design,catch_all,832-356-6496,,emailed
+2026-09-03,WEB BONAFIDE,https://webbonafide.com,info@webbonafide.com,info@webbonafide.com,valid,+1 281 899 0867,,emailed
 2026-09-03,Pierce & Co.,https://pierceco.com.au,"user@domain.com, hello@pierceco.com.au",,invalid,,,new
-2026-09-03,Raindance Digital Marketing - SEO Agency,https://raindancedigitalmarketing.com.au,"support@raindance.net.au, whatsup@raindancedigitalmarketing.com.au, accounts@raindance.net.au","support@raindance.net.au, accounts@raindance.net.au, whatsup@raindancedigitalmarketing.com.au",valid,4059890,,new
-2026-09-03,Smartyr Marketing,https://www.probityweb.com.au,"rafaelfelic@gmail.com, jarrod@smartyr.marketing","rafaelfelic@gmail.com, jarrod@smartyr.marketing",valid,,,new
+2026-09-03,Raindance Digital Marketing - SEO Agency,https://raindancedigitalmarketing.com.au,"support@raindance.net.au, whatsup@raindancedigitalmarketing.com.au, accounts@raindance.net.au","support@raindance.net.au, accounts@raindance.net.au, whatsup@raindancedigitalmarketing.com.au",valid,4059890,,emailed
+2026-09-03,Smartyr Marketing,https://www.probityweb.com.au,"rafaelfelic@gmail.com, jarrod@smartyr.marketing","rafaelfelic@gmail.com, jarrod@smartyr.marketing",valid,,,emailed
 2026-09-03,Pierce & Co.,https://www.katepierce.com.au,"user@domain.com, hello@pierceco.com.au",,invalid,,,new
-2026-09-03,Gasoline Media,https://www.gasolinemedia.com.au,"studio@gasolinemedia.com.au, hello@gasolinemedia.com.au","studio@gasolinemedia.com.au, hello@gasolinemedia.com.au",catch_all,,,new
-2026-09-03,"M Group Marketing - Design, Websites and eCommerce",https://www.mgroup.marketing,"adam.foale@mgroup.partners, kate.bayley@mgroup.partners, marketing@mgroup.partners, dan.schweinzer@mgroup.partners, marketingmeeting@mulcahy.com.au, gavin.nash@mgroup.partners","adam.foale@mgroup.partners, kate.bayley@mgroup.partners, marketing@mgroup.partners, dan.schweinzer@mgroup.partners, gavin.nash@mgroup.partners, marketingmeeting@mulcahy.com.au",catch_all,330 7200,,new
-2026-09-03,"M Group | Accounting, Financial Planning, Legal, Lending and Marketing",https://www.mgroup.partners,"berri@mgroup.partners, geelong@mgroup.partners, sunshinecoast@mgroup.partners, info@mgroup.partners, mildura@mgroup.partners, ararat@mgroup.partners, info@mulcahy.com.au, toowoomba@mgroup.partners, lakebolac@mgroup.partners, robinvale@mgroup.partners","berri@mgroup.partners, geelong@mgroup.partners, sunshinecoast@mgroup.partners, toowoomba@mgroup.partners, lakebolac@mgroup.partners, robinvale@mgroup.partners, info@mulcahy.com.au",catch_all,,,new
+2026-09-03,Gasoline Media,https://www.gasolinemedia.com.au,"studio@gasolinemedia.com.au, hello@gasolinemedia.com.au","studio@gasolinemedia.com.au, hello@gasolinemedia.com.au",catch_all,,,emailed
+2026-09-03,"M Group Marketing - Design, Websites and eCommerce",https://www.mgroup.marketing,"adam.foale@mgroup.partners, kate.bayley@mgroup.partners, marketing@mgroup.partners, dan.schweinzer@mgroup.partners, marketingmeeting@mulcahy.com.au, gavin.nash@mgroup.partners","adam.foale@mgroup.partners, kate.bayley@mgroup.partners, marketing@mgroup.partners, dan.schweinzer@mgroup.partners, gavin.nash@mgroup.partners, marketingmeeting@mulcahy.com.au",catch_all,330 7200,,emailed
+2026-09-03,"M Group | Accounting, Financial Planning, Legal, Lending and Marketing",https://www.mgroup.partners,"berri@mgroup.partners, geelong@mgroup.partners, sunshinecoast@mgroup.partners, info@mgroup.partners, mildura@mgroup.partners, ararat@mgroup.partners, info@mulcahy.com.au, toowoomba@mgroup.partners, lakebolac@mgroup.partners, robinvale@mgroup.partners","berri@mgroup.partners, geelong@mgroup.partners, sunshinecoast@mgroup.partners, toowoomba@mgroup.partners, lakebolac@mgroup.partners, robinvale@mgroup.partners, info@mulcahy.com.au",catch_all,,,emailed
 2026-09-03,Advozy,https://advozy.com,"admin@advozy.com, your@email.com, student@advozy.com",,unverified,,,new
-2026-09-03,KendroAI - AI Search Marketing for Melbourne Businesses,https://www.kendroai.com,support@kendroai.com,support@kendroai.com,valid,529 4558,,new
-2026-09-03,Ballarat Business Advisory,https://www.ballaratbusinessadvisory.com.au,info@bbadvisory.com.au,info@bbadvisory.com.au,catch_all,332 2612,,new
+2026-09-03,KendroAI - AI Search Marketing for Melbourne Businesses,https://www.kendroai.com,support@kendroai.com,support@kendroai.com,valid,529 4558,,emailed
+2026-09-03,Ballarat Business Advisory,https://www.ballaratbusinessadvisory.com.au,info@bbadvisory.com.au,info@bbadvisory.com.au,catch_all,332 2612,,emailed
 2026-09-03,ATZ Consutancy |Top Start up Company for Consulting Services in Australia,https://www.atzconsultancy.com,"sales@atzconsultancy.com, admin@atzconsulting.com, admin@atzconsultany.com, admin@atzconsultancy.com",,unverified,,,new
-2026-09-03,SEOSpidy,https://www.seospidy.com,seospidy@gmail.com,seospidy@gmail.com,valid,1-9873800494,,new
+2026-09-03,SEOSpidy,https://www.seospidy.com,seospidy@gmail.com,seospidy@gmail.com,valid,1-9873800494,,emailed
 2026-09-03,ai2dm Siliguri,https://ai2dm.com,"support@ai2dm.com, info@ompackersindia.com",,unverified,646 1015,,new
 2026-09-03,HavStrategy,https://www.havstrategy.com,"editorial@havstrategy.com, info@havstrategy.com",,unverified,8750998,,new
-2026-09-03,Scoffer,https://www.scoffer.com.au,pdillon@scoffer.com.au,pdillon@scoffer.com.au,valid,,,new
-2026-09-03,Video Production Melbourne | Konquer Media Agency,https://konquermediaagency.com,"info@konquermediaagency.com, you@business.com.au, info@konquermediaagency.cominfo",info@konquermediaagency.com,catch_all,,,new
-2026-09-03,ratemyagent.com.au,https://www.ratemyagent.com.au,"support@renowned.com, john.smith@gmail.com",support@renowned.com,catch_all,,,new
+2026-09-03,Scoffer,https://www.scoffer.com.au,pdillon@scoffer.com.au,pdillon@scoffer.com.au,valid,,,emailed
+2026-09-03,Video Production Melbourne | Konquer Media Agency,https://konquermediaagency.com,"info@konquermediaagency.com, you@business.com.au, info@konquermediaagency.cominfo",info@konquermediaagency.com,catch_all,,,emailed
+2026-09-03,ratemyagent.com.au,https://www.ratemyagent.com.au,"support@renowned.com, john.smith@gmail.com",support@renowned.com,catch_all,,,emailed
 2026-09-03,Ogilvy PR,https://www.ogilvypr.com.au,user@domain.com,,invalid,281 3200,,new
-2026-09-03,ContentFactoryAI,https://contentfactoryai.org,jane@yourbusiness.com.au,jane@yourbusiness.com.au,catch_all,,,new
-2026-09-03,Social Media Ballarat,https://socialmediaballarat.com.au,"socialmediaballarat@gmail.com, hello@rfuenzalida.com, matt@pixelspread.com, impallari@gmail.com","socialmediaballarat@gmail.com, matt@pixelspread.com",valid,,,new
-2026-09-04,Areweb Digital,https://areweb.com.au,hello@areweb.com.au,hello@areweb.com.au,valid,336 9920,,new
-2026-09-04,Webtechnomind,https://www.webtechnomind.com,"you@company.com, info@webtechnomind.com",info@webtechnomind.com,valid,1 8777639601,,new
-2026-09-04,avenue.design,https://avenue.design,brenton@avenue.studio,brenton@avenue.studio,valid,,,new
+2026-09-03,ContentFactoryAI,https://contentfactoryai.org,jane@yourbusiness.com.au,jane@yourbusiness.com.au,catch_all,,,emailed
+2026-09-03,Social Media Ballarat,https://socialmediaballarat.com.au,"socialmediaballarat@gmail.com, hello@rfuenzalida.com, matt@pixelspread.com, impallari@gmail.com","socialmediaballarat@gmail.com, matt@pixelspread.com",valid,,,emailed
+2026-09-04,Areweb Digital,https://areweb.com.au,hello@areweb.com.au,hello@areweb.com.au,valid,336 9920,,emailed
+2026-09-04,Webtechnomind,https://www.webtechnomind.com,"you@company.com, info@webtechnomind.com",info@webtechnomind.com,valid,1 8777639601,,emailed
+2026-09-04,avenue.design,https://avenue.design,brenton@avenue.studio,brenton@avenue.studio,valid,,,emailed
 2026-09-04,Ballarat Business Websites | Web Development & SEO Experts,https://www.ballaratbusinesswebsites.com.au,mick@ballaratbusinesswebsites.com.au,,unverified,,,new
-2026-09-04,"Twist Lab – Marketing Consultants in Salt Lake City, Utah",https://twistlab.com,support@twistlab.com,support@twistlab.com,valid,(801) 218-2000,,new
-2026-09-04,Utah Digital Marketing Agency for Small Business | Tobe,https://www.tobeagency.co,info@tobeagency.co,info@tobeagency.co,catch_all,(801) 568-2515,,new
-2026-09-04,SEO Pros,https://utahseopros.com,"team@utahseopros.com, support@utahseopros.com","team@utahseopros.com, support@utahseopros.com",valid,801-413-7734,,new
+2026-09-04,"Twist Lab – Marketing Consultants in Salt Lake City, Utah",https://twistlab.com,support@twistlab.com,support@twistlab.com,valid,(801) 218-2000,,emailed
+2026-09-04,Utah Digital Marketing Agency for Small Business | Tobe,https://www.tobeagency.co,info@tobeagency.co,info@tobeagency.co,catch_all,(801) 568-2515,,emailed
+2026-09-04,SEO Pros,https://utahseopros.com,"team@utahseopros.com, support@utahseopros.com","team@utahseopros.com, support@utahseopros.com",valid,801-413-7734,,emailed
 2026-09-04,Cicero Group,https://cicerogroup.com,"general@cicerogrpstg.wpenginepowered.com, info@cicerogrpstg.wpenginepowered.com",,unverified,,,new
 2026-09-04,State Symbols USA,https://statesymbolsusa.org,contact@statesymbolsusa.org,,unverified,,,new
-2026-09-04,The Catalyst Business Development,https://www.thecatalystbdc.com,"contact@thecatalystbdc.com, info@mysite.com, example@mysite.com",contact@thecatalystbdc.com,valid,(801) 871-9111,,new
+2026-09-04,The Catalyst Business Development,https://www.thecatalystbdc.com,"contact@thecatalystbdc.com, info@mysite.com, example@mysite.com",contact@thecatalystbdc.com,valid,(801) 871-9111,,emailed
 2026-09-04,Cayuga Hospitality Consultants,https://cayugahospitality.com,info@cayugahospitality.com,,invalid,866.386.4020,,new
-2026-09-04,Revity -,https://gorevity.com,info@gorevity.com,info@gorevity.com,valid,(801) 383-0034,,new
-2026-09-04,Kronus Communications,https://kronuscommunications.com,office@kronuscommunications.com,office@kronuscommunications.com,catch_all,,,new
+2026-09-04,Revity -,https://gorevity.com,info@gorevity.com,info@gorevity.com,valid,(801) 383-0034,,emailed
+2026-09-04,Kronus Communications,https://kronuscommunications.com,office@kronuscommunications.com,office@kronuscommunications.com,catch_all,,,emailed
 2026-09-04,Intrepid Agency • Crisis Management • PR • Marcom,https://intrepidagency.com,"user@domain.com, connect@intrepidagency.com",,invalid,1 801.481.9482,,new
-2026-09-04,XL PR,https://xl-pr.com,erynn@xl-pr.com,erynn@xl-pr.com,catch_all,801-717-7808,,new
-2026-09-04,Third Sun | Utah Web + Design + Branding,https://thirdsun.com,hello@thirdsun.com,hello@thirdsun.com,valid,801-649-3598,,new
-2026-09-04,Milk Street Marketing,https://milkstreetmarketing.com,info@milkstreetmarketing.com,info@milkstreetmarketing.com,valid,,,new
+2026-09-04,XL PR,https://xl-pr.com,erynn@xl-pr.com,erynn@xl-pr.com,catch_all,801-717-7808,,emailed
+2026-09-04,Third Sun | Utah Web + Design + Branding,https://thirdsun.com,hello@thirdsun.com,hello@thirdsun.com,valid,801-649-3598,,emailed
+2026-09-04,Milk Street Marketing,https://milkstreetmarketing.com,info@milkstreetmarketing.com,info@milkstreetmarketing.com,valid,,,emailed
 2026-09-04,Cliff Ross,https://www.cliffross.com,example@mysite.com,,unverified,610.829.1333,,new
 2026-09-04,Punch Media | Philadelphia PR & Marketing,https://punchmedia.biz,punch@punchmedia.biz,,invalid,,,new
-2026-09-04,Hyland Graphic Design & Advertising,https://hylandgraphics.com,info@hylandgraphics.com,info@hylandgraphics.com,valid,484-879-6145,,new
-2026-09-04,Business Franchise Australia & New Zealand,https://www.businessfranchiseaustralia.com.au,"gcondello@liftbrands.com, manal@retailsystemsgroup.com.au, production@cgbpublishing.com.au, admin@graysons.com.au, discover@myhomefranchise.com.au, info@aipvend.com, your@email.com, info@osanability.com.au","gcondello@liftbrands.com, manal@retailsystemsgroup.com.au, admin@graysons.com.au, discover@myhomefranchise.com.au, info@aipvend.com, info@osanability.com.au",valid,,,new
-2026-09-04,"Black Canvas Design, Branding, Websites Toowoomba",https://www.blackcanvas.com.au,hello@blackcanvas.com.au,hello@blackcanvas.com.au,valid,613 1010,,new
+2026-09-04,Hyland Graphic Design & Advertising,https://hylandgraphics.com,info@hylandgraphics.com,info@hylandgraphics.com,valid,484-879-6145,,emailed
+2026-09-04,Business Franchise Australia & New Zealand,https://www.businessfranchiseaustralia.com.au,"gcondello@liftbrands.com, manal@retailsystemsgroup.com.au, production@cgbpublishing.com.au, admin@graysons.com.au, discover@myhomefranchise.com.au, info@aipvend.com, your@email.com, info@osanability.com.au","gcondello@liftbrands.com, manal@retailsystemsgroup.com.au, admin@graysons.com.au, discover@myhomefranchise.com.au, info@aipvend.com, info@osanability.com.au",valid,,,emailed
+2026-09-04,"Black Canvas Design, Branding, Websites Toowoomba",https://www.blackcanvas.com.au,hello@blackcanvas.com.au,hello@blackcanvas.com.au,valid,613 1010,,emailed
 2026-09-04,PrimeFirms,https://www.primefirms.co,"info@primefirms.co, u003esupport@primefirms.co, your@email.com, support@primefirms.co",,unverified,,,new
-2026-09-04,Honey Media,https://www.honeymedia.au,buzz@honeymedia.au,buzz@honeymedia.au,catch_all,6143966933,,new
-2026-09-04,Young Folks,https://youngfolks.com.au,hello@youngfolks.com.au,hello@youngfolks.com.au,catch_all,,,new
+2026-09-04,Honey Media,https://www.honeymedia.au,buzz@honeymedia.au,buzz@honeymedia.au,catch_all,6143966933,,emailed
+2026-09-04,Young Folks,https://youngfolks.com.au,hello@youngfolks.com.au,hello@youngfolks.com.au,catch_all,,,emailed
 2026-09-04,Skyline Co,https://www.skylineco.com.au,example@mysite.com,,unverified,,,new
-2026-09-04,Ripple Media,https://www.ripple-media.com.au,contact@ripple-media.com.au,contact@ripple-media.com.au,catch_all,,,new
+2026-09-04,Ripple Media,https://www.ripple-media.com.au,contact@ripple-media.com.au,contact@ripple-media.com.au,catch_all,,,emailed
 2026-09-04,Toowoomba Websites,https://www.toowoombawebsites.au,hello@toowoombawebsites.au,,unverified,,,new
 2026-09-04,Toowoomba Web Design,https://toowoombawebdesign.com.au,mark@toowoombawebdesign.com.au,,invalid,,,new
-2026-09-04,Koupe Media,https://koupemedia.com,info@koupemedia.com,info@koupemedia.com,valid,722 0781,,new
-2026-09-04,Online Path,https://onlinepath.com.au,hello@onlinepath.com.au,hello@onlinepath.com.au,valid,756 1632,,new
-2026-09-04,Toucan Digital,https://toucandigital.net,info@toucandigital.net,info@toucandigital.net,catch_all,,,new
+2026-09-04,Koupe Media,https://koupemedia.com,info@koupemedia.com,info@koupemedia.com,valid,722 0781,,emailed
+2026-09-04,Online Path,https://onlinepath.com.au,hello@onlinepath.com.au,hello@onlinepath.com.au,valid,756 1632,,emailed
+2026-09-04,Toucan Digital,https://toucandigital.net,info@toucandigital.net,info@toucandigital.net,catch_all,,,emailed
 2026-09-04,HoneyBadger,https://www.honeybadgersme.com,"jane@business.com, hello@honeybadgersme.com",,invalid,,,new
 2026-09-04,Persuasion PR,https://persuasionpr.com,info@persuasion-pr.com,,invalid,2552418,,new
 2026-09-04,AUTHOR. Brand & Marketing Agency Newcastle,https://www.authorconsulting.com.au,"gabrielle@authorconsulting.com.au, kate@authorconsulting.com.au, user@domain.com, madeline@authorconsulting.com.au, eilish@authorconsulting.com.au, chloe@authorconsulting.com.au, sophie@authorconsulting.com.au",,invalid,,,new
-2026-09-04,Reverb Media,https://www.reverb-media.com.au,"hello@reverb-media.com.au, user@domain.com, keith@reverb-media.com.au","hello@reverb-media.com.au, keith@reverb-media.com.au",catch_all,,,new
-2026-09-04,"O.agency – Brand Communications Agency | Strategy, Creative & PR",https://o.agency,"samantha@o.agency, letstalk@o.agency","samantha@o.agency, letstalk@o.agency",catch_all,232 5690,,new
-2026-09-04,Karol Marketing,https://karolmarketing.com,"info@karolmarketing.com, stefan@karolmarketing.com, will@fusionprcreative.com, alex@karolmarketing.com, kathie@karolmarketing.com, barbora@karolmarketing.com, fiona@karolmarketing.com, jess@karolmarketing.com, studio@vanillabeancreative.com",studio@vanillabeancreative.com,catch_all,265 7765,,new
-2026-09-04,NXT GEN WEB,https://nxtgenweb.com,"info@nxtgenweb.com, nhello@nxtgenweb.com, hello@nxtgenweb.com",hello@nxtgenweb.com,valid,210-360-1643,,new
-2026-09-04,2ten Marketing - Digital Marketing Agency,https://www.2tenmarketing.com,"eddie@2tenmarketing.com, belen@2tenmarketing.com, user@domain.com, skylar@2tenmarketing.com, jose@2tenmarketing.com, ana@2tenmarketing.com, jaclyn@2tenmarketing.com, angelica@2tenmarketing.com, spustka@2tenmarketing.com","eddie@2tenmarketing.com, belen@2tenmarketing.com, skylar@2tenmarketing.com, jose@2tenmarketing.com, ana@2tenmarketing.com, jaclyn@2tenmarketing.com, angelica@2tenmarketing.com, spustka@2tenmarketing.com, user@domain.com",catch_all,,,new
-2026-09-04,Gray Digital Group,https://www.graydigitalgroup.com,info@graydigitalgroup.com,info@graydigitalgroup.com,valid,(210) 750-4443,,new
+2026-09-04,Reverb Media,https://www.reverb-media.com.au,"hello@reverb-media.com.au, user@domain.com, keith@reverb-media.com.au","hello@reverb-media.com.au, keith@reverb-media.com.au",catch_all,,,emailed
+2026-09-04,"O.agency – Brand Communications Agency | Strategy, Creative & PR",https://o.agency,"samantha@o.agency, letstalk@o.agency","samantha@o.agency, letstalk@o.agency",catch_all,232 5690,,emailed
+2026-09-04,Karol Marketing,https://karolmarketing.com,"info@karolmarketing.com, stefan@karolmarketing.com, will@fusionprcreative.com, alex@karolmarketing.com, kathie@karolmarketing.com, barbora@karolmarketing.com, fiona@karolmarketing.com, jess@karolmarketing.com, studio@vanillabeancreative.com",studio@vanillabeancreative.com,catch_all,265 7765,,emailed
+2026-09-04,NXT GEN WEB,https://nxtgenweb.com,"info@nxtgenweb.com, nhello@nxtgenweb.com, hello@nxtgenweb.com",hello@nxtgenweb.com,valid,210-360-1643,,emailed
+2026-09-04,2ten Marketing - Digital Marketing Agency,https://www.2tenmarketing.com,"eddie@2tenmarketing.com, belen@2tenmarketing.com, user@domain.com, skylar@2tenmarketing.com, jose@2tenmarketing.com, ana@2tenmarketing.com, jaclyn@2tenmarketing.com, angelica@2tenmarketing.com, spustka@2tenmarketing.com","eddie@2tenmarketing.com, belen@2tenmarketing.com, skylar@2tenmarketing.com, jose@2tenmarketing.com, ana@2tenmarketing.com, jaclyn@2tenmarketing.com, angelica@2tenmarketing.com, spustka@2tenmarketing.com, user@domain.com",catch_all,,,emailed
+2026-09-04,Gray Digital Group,https://www.graydigitalgroup.com,info@graydigitalgroup.com,info@graydigitalgroup.com,valid,(210) 750-4443,,emailed
 2026-09-04,The PM Group,https://thepmgrp.com,"internships@thepmgrp.com, fran.yanity@thepmgrp.com",,unverified,210.490.2554,,new
 2026-09-04,FOG Digital Marketing,https://www.fogdigitalmarketing.com,"hello@fogdigitalmarketing.com, you@company.com",,unverified,(726) 224-4920,,new
-2026-09-04,"Tribu | Digital Marketing & Design Agency in San Antonio, TX",https://www.wearetribu.com,hello@wearetribu.com,hello@wearetribu.com,valid,210.209.9209,,new
-2026-09-04,Ossisto,https://ossisto.com,"sales@ossisto.com, support@ossisto.com, ossistotechnologies1@ossisto365.com, partnerships@ossisto.com",sales@ossisto.com,valid,,,new
-2026-09-04,Rankpay,https://www.rankpay.com,wms@rankpay.com,wms@rankpay.com,catch_all,,,new
-2026-09-04,Grow Your Business. Results To Get Excited About!,https://www.jceseo.com,info@jceseo.com,info@jceseo.com,catch_all,(210) 570-8874,,new
-2026-09-04,Salesforce Implementation & Managed Services | ForteNext,https://www.fortenext.com,info@fortenext.com,info@fortenext.com,valid,(312) 757-4944,,new
-2026-09-04,Haute in Texas Agency,https://hitpr.com,"info@hitpr.com, aquila@hauteintexas.com","info@hitpr.com, aquila@hauteintexas.com",catch_all,210.606.5251,,new
+2026-09-04,"Tribu | Digital Marketing & Design Agency in San Antonio, TX",https://www.wearetribu.com,hello@wearetribu.com,hello@wearetribu.com,valid,210.209.9209,,emailed
+2026-09-04,Ossisto,https://ossisto.com,"sales@ossisto.com, support@ossisto.com, ossistotechnologies1@ossisto365.com, partnerships@ossisto.com",sales@ossisto.com,valid,,,emailed
+2026-09-04,Rankpay,https://www.rankpay.com,wms@rankpay.com,wms@rankpay.com,catch_all,,,emailed
+2026-09-04,Grow Your Business. Results To Get Excited About!,https://www.jceseo.com,info@jceseo.com,info@jceseo.com,catch_all,(210) 570-8874,,emailed
+2026-09-04,Salesforce Implementation & Managed Services | ForteNext,https://www.fortenext.com,info@fortenext.com,info@fortenext.com,valid,(312) 757-4944,,emailed
+2026-09-04,Haute in Texas Agency,https://hitpr.com,"info@hitpr.com, aquila@hauteintexas.com","info@hitpr.com, aquila@hauteintexas.com",catch_all,210.606.5251,,emailed
 2026-09-04,Sammis Ochoa,https://www.sammisochoa.com,info@sammisochoa.com,,invalid,(210) 390-4284,,new
-2026-09-04,Miller Ink,https://miller-ink.com,"info@miller-ink.com, ny@miller-ink.com, sf@miller-ink.com, la@miller-ink.com, dc@miller-ink.com",info@miller-ink.com,valid,1-310-571-8264,,new
+2026-09-04,Miller Ink,https://miller-ink.com,"info@miller-ink.com, ny@miller-ink.com, sf@miller-ink.com, la@miller-ink.com, dc@miller-ink.com",info@miller-ink.com,valid,1-310-571-8264,,emailed
 2026-09-04,The Postcard Agency,https://www.thepostcardagency.com,jochart@thepostcardagency.com,,invalid,786.502.9180,,new
-2026-09-04,Digitalized Elevation,https://www.digitalizedelevation.com,"support@gmail.com, help@digitalizedelevation.com, support@digitalizedelevation.com","help@digitalizedelevation.com, support@digitalizedelevation.com",catch_all,(726) 240-4111,,new
-2026-09-04,"The CE Group, Inc.",https://www.cegroupinc.net,"dwarren@cegroupinc.net, bmorehouse@cegroupinc.net, mgonzaba@cegroupinc.net, syoung@cegroupinc.net, ggarza@cegroupinc.net, shane@cegroupinc.net, mcopeland@cegroupinc.net, jjaax@cegroupinc.net, mcorrea@cegroupinc.net, dhughes@cegroupinc.net, janet@cegroupinc.net, mgarza@cegroupinc.net, kbecker@cegroupinc.ne, smenchaca@cegroupinc.net, dmartin@cegroupinc.net, nwhite@cegroupinc.net, jwojtczak@cegroupinc.net, tbenavides@cegroupinc.net, jtrevino@cegroupinc.net, srendon@cegroupinc.net, ce@cegroupinc.net, lhouston@cegroupinc.net, aperez@cegroupinc.net, reschete@cegroupinc.net, fcasanova@cegroupinc.net, ltravis@cegroupinc.net, kblake@cegroupinc.net, bescobedo@cegroupinc.net, vdurand@cegroupinc.net, ahaag@cegroupinc.net, bmarsh@cegroupinc.net, mmcangus@cegroupinc.net, cbarrera@cegroupinc.ne, jcampuzano@cegroupinc.net, fflores@cegroupinc.net, mlippe@cegroupinc.net, mpena@cegroupinc.net, bperez@cegroupinc.net, lhaworth@cegroupinc.net, mshrader@cegroupinc.net, dyoung@cegroupinc.net, cbaer@cegroupinc.net, cflotte@cegroupinc.net, kperales@cegroupinc.net, jladd@cegroupinc.net, ablanchard@cegroupinc.net, bmarshall@cegroupinc.net, rmiller@cegroupinc.net","dwarren@cegroupinc.net, bmorehouse@cegroupinc.net, mgonzaba@cegroupinc.net, syoung@cegroupinc.net, ggarza@cegroupinc.net, shane@cegroupinc.net, mcopeland@cegroupinc.net, jjaax@cegroupinc.net, mcorrea@cegroupinc.net, dhughes@cegroupinc.net, janet@cegroupinc.net, mgarza@cegroupinc.net, smenchaca@cegroupinc.net, dmartin@cegroupinc.net, nwhite@cegroupinc.net, jwojtczak@cegroupinc.net, tbenavides@cegroupinc.net, jtrevino@cegroupinc.net, srendon@cegroupinc.net, ce@cegroupinc.net, lhouston@cegroupinc.net, aperez@cegroupinc.net, reschete@cegroupinc.net, fcasanova@cegroupinc.net, ltravis@cegroupinc.net, kblake@cegroupinc.net, bescobedo@cegroupinc.net, vdurand@cegroupinc.net, ahaag@cegroupinc.net, bmarsh@cegroupinc.net, mmcangus@cegroupinc.net, jcampuzano@cegroupinc.net, fflores@cegroupinc.net, mlippe@cegroupinc.net, mpena@cegroupinc.net, bperez@cegroupinc.net, lhaworth@cegroupinc.net, mshrader@cegroupinc.net, dyoung@cegroupinc.net, cbaer@cegroupinc.net, cflotte@cegroupinc.net, kperales@cegroupinc.net, jladd@cegroupinc.net, ablanchard@cegroupinc.net, bmarshall@cegroupinc.net, rmiller@cegroupinc.net",catch_all,210.822.5001,,new
+2026-09-04,Digitalized Elevation,https://www.digitalizedelevation.com,"support@gmail.com, help@digitalizedelevation.com, support@digitalizedelevation.com","help@digitalizedelevation.com, support@digitalizedelevation.com",catch_all,(726) 240-4111,,emailed
+2026-09-04,"The CE Group, Inc.",https://www.cegroupinc.net,"dwarren@cegroupinc.net, bmorehouse@cegroupinc.net, mgonzaba@cegroupinc.net, syoung@cegroupinc.net, ggarza@cegroupinc.net, shane@cegroupinc.net, mcopeland@cegroupinc.net, jjaax@cegroupinc.net, mcorrea@cegroupinc.net, dhughes@cegroupinc.net, janet@cegroupinc.net, mgarza@cegroupinc.net, kbecker@cegroupinc.ne, smenchaca@cegroupinc.net, dmartin@cegroupinc.net, nwhite@cegroupinc.net, jwojtczak@cegroupinc.net, tbenavides@cegroupinc.net, jtrevino@cegroupinc.net, srendon@cegroupinc.net, ce@cegroupinc.net, lhouston@cegroupinc.net, aperez@cegroupinc.net, reschete@cegroupinc.net, fcasanova@cegroupinc.net, ltravis@cegroupinc.net, kblake@cegroupinc.net, bescobedo@cegroupinc.net, vdurand@cegroupinc.net, ahaag@cegroupinc.net, bmarsh@cegroupinc.net, mmcangus@cegroupinc.net, cbarrera@cegroupinc.ne, jcampuzano@cegroupinc.net, fflores@cegroupinc.net, mlippe@cegroupinc.net, mpena@cegroupinc.net, bperez@cegroupinc.net, lhaworth@cegroupinc.net, mshrader@cegroupinc.net, dyoung@cegroupinc.net, cbaer@cegroupinc.net, cflotte@cegroupinc.net, kperales@cegroupinc.net, jladd@cegroupinc.net, ablanchard@cegroupinc.net, bmarshall@cegroupinc.net, rmiller@cegroupinc.net","dwarren@cegroupinc.net, bmorehouse@cegroupinc.net, mgonzaba@cegroupinc.net, syoung@cegroupinc.net, ggarza@cegroupinc.net, shane@cegroupinc.net, mcopeland@cegroupinc.net, jjaax@cegroupinc.net, mcorrea@cegroupinc.net, dhughes@cegroupinc.net, janet@cegroupinc.net, mgarza@cegroupinc.net, smenchaca@cegroupinc.net, dmartin@cegroupinc.net, nwhite@cegroupinc.net, jwojtczak@cegroupinc.net, tbenavides@cegroupinc.net, jtrevino@cegroupinc.net, srendon@cegroupinc.net, ce@cegroupinc.net, lhouston@cegroupinc.net, aperez@cegroupinc.net, reschete@cegroupinc.net, fcasanova@cegroupinc.net, ltravis@cegroupinc.net, kblake@cegroupinc.net, bescobedo@cegroupinc.net, vdurand@cegroupinc.net, ahaag@cegroupinc.net, bmarsh@cegroupinc.net, mmcangus@cegroupinc.net, jcampuzano@cegroupinc.net, fflores@cegroupinc.net, mlippe@cegroupinc.net, mpena@cegroupinc.net, bperez@cegroupinc.net, lhaworth@cegroupinc.net, mshrader@cegroupinc.net, dyoung@cegroupinc.net, cbaer@cegroupinc.net, cflotte@cegroupinc.net, kperales@cegroupinc.net, jladd@cegroupinc.net, ablanchard@cegroupinc.net, bmarshall@cegroupinc.net, rmiller@cegroupinc.net",catch_all,210.822.5001,,emailed
 2026-09-04,Southtown Web Design & Digital Marketing,https://www.southtowndesigns.com,you@business.com,,invalid,(210) 373-3237,,new
-2026-09-04,HOU Digital Marketing,https://www.houdigitalmarketing.com,info@houdigitalmarketing.com,info@houdigitalmarketing.com,catch_all,(832) 560-2010,,new
-2026-09-04,Digital Marketing Agency Houston and The Woodlands - BubbleUp,https://www.bubbleup.net,info@bubbleup.com,info@bubbleup.com,valid,832.585.0709,,new
-2026-09-04,Studio SB - Houston Branding Agency,https://www.studiobrandcollective.com,info@sbdigitalanddesign.com,info@sbdigitalanddesign.com,valid,(866) 729-4164,,new
+2026-09-04,HOU Digital Marketing,https://www.houdigitalmarketing.com,info@houdigitalmarketing.com,info@houdigitalmarketing.com,catch_all,(832) 560-2010,,emailed
+2026-09-04,Digital Marketing Agency Houston and The Woodlands - BubbleUp,https://www.bubbleup.net,info@bubbleup.com,info@bubbleup.com,valid,832.585.0709,,emailed
+2026-09-04,Studio SB - Houston Branding Agency,https://www.studiobrandcollective.com,info@sbdigitalanddesign.com,info@sbdigitalanddesign.com,valid,(866) 729-4164,,emailed
 2026-09-04,CEM Solutions Co,https://www.cemsolutionsco.com,you@company.com,,unverified,(979) 676-1075,,new
 2026-09-04,"Business consulting, marketing, branding, management, human resources, finance",https://www.bizconsultingroup.com,contact@bizconsultingroup.com,,unverified,832-757-7500,,new
 2026-09-04,alliant,https://alliantglobal.com,"sondraleibner@alliantglobal.com, stevenmiller@alliantglobal.com, jeremyfingeret@alliantglobal.com, carolinelake@alliantglobal.com, erikpaulsen@alliantglobal.com, bob.pan@alliantgroup.com, kathypetronchak@alliantglobal.com, reid.mclaughlin@alliantgroup.com, stevenhunter@alliantglobal.com, ricklazio@alliantglobal.com, dhavaljadav@alliantglobal.com, pravintalreja@alliantglobal.com, sonnygrover@alliantglobal.com, myronmoser@alliantglobal.com, darrenguillot@alliantglobal.com, contact@alliantglobal.com, mattnoll@alliantglobal.com, dean.a.zerbe@alliantglobal.com, joemelanson@alliantglobal.com, markeverson@alliantglobal.com, bob.riley@alliantgroup.com, rickwhite@alliantgroup.com, mikejohanns@alliantglobal.com, jamiefowler@alliantglobal.com, erichylton@alliantglobal.com, james.mendelssohn@alliantgroup.com, heidiheitkamp@alliantglobal.com, joytaylor@alliantglobal.com, david.ji@alliantgroup.com, robertambrose@alliantglobal.com, arunsahu@alliantglobal.com, dannywerfel@alliantglobal.com, shanefrank@alliantglobal.com",,invalid,,,new
-2026-09-04,Selling Power: Solutions to Improve Sales Performance,https://www.sellingpower.com,"editorial@sellingpower.com, web@sellingpower.com, feedback@sellingpower.com, customerservice@sellingpower.com, jeffcampbell@sellingpower.com","editorial@sellingpower.com, web@sellingpower.com, feedback@sellingpower.com, customerservice@sellingpower.com, jeffcampbell@sellingpower.com",valid,998 - 2026,,new
-2026-09-04,Key Light Collective,https://keylightcollective.com,hello@keylightcollective.com,hello@keylightcollective.com,catch_all,(409) 359-8351,,new
-2026-09-04,Clickysoft,https://clickysoft.com,info@clickysoft.com,info@clickysoft.com,catch_all,+1   (832) 847-6000,,new
+2026-09-04,Selling Power: Solutions to Improve Sales Performance,https://www.sellingpower.com,"editorial@sellingpower.com, web@sellingpower.com, feedback@sellingpower.com, customerservice@sellingpower.com, jeffcampbell@sellingpower.com","editorial@sellingpower.com, web@sellingpower.com, feedback@sellingpower.com, customerservice@sellingpower.com, jeffcampbell@sellingpower.com",valid,998 - 2026,,emailed
+2026-09-04,Key Light Collective,https://keylightcollective.com,hello@keylightcollective.com,hello@keylightcollective.com,catch_all,(409) 359-8351,,emailed
+2026-09-04,Clickysoft,https://clickysoft.com,info@clickysoft.com,info@clickysoft.com,catch_all,+1   (832) 847-6000,,emailed
 2026-09-04,Level Up PR,https://leveluppr.io,business@icons.com,,invalid,+1-725-765-3454,,new
 2026-09-04,AS Web Matrix,https://www.aswebmatrix.com,info@aswebmatrix.com,,invalid,1-9718071847,,new
 2026-09-04,OneStep Media,https://www.onestepmedia.nl,info@onestepmedia.nl,,invalid,,,new
 2026-09-04,Companial – Join the largest network of Microsoft Dynamics Partners,https://companial.com,"info@companial.comsporto, spain@companial.com, northamerica@companial.com, uk-ie@companial.com, latam@companial.com, italy@companial.com, cee@companial.com, info@companial.com, canada@companial.com, berny.during@companial.com, brasil@companial.com, dach@companial.com, portugal@companial.com, nordics@companial.com",,invalid,,,new
-2026-09-04,Sailwayz,https://sailwayz.com,"%20info@sailwayz.com, %20hello@sailwayz.com, info@sailwayz.com, hello@sailwayz.com, teamdigitalmarketing524@gmail.com","%20info@sailwayz.com, %20hello@sailwayz.com, info@sailwayz.com, hello@sailwayz.com, teamdigitalmarketing524@gmail.com",catch_all,,,new
-2026-09-04,Klaviyo Master Elite Retention Marketing Agency | Magnet Monster,https://magnetmonster.com,hello@magnetmonster.co.uk,hello@magnetmonster.co.uk,valid,2292469,,new
+2026-09-04,Sailwayz,https://sailwayz.com,"%20info@sailwayz.com, %20hello@sailwayz.com, info@sailwayz.com, hello@sailwayz.com, teamdigitalmarketing524@gmail.com","%20info@sailwayz.com, %20hello@sailwayz.com, info@sailwayz.com, hello@sailwayz.com, teamdigitalmarketing524@gmail.com",catch_all,,,emailed
+2026-09-04,Klaviyo Master Elite Retention Marketing Agency | Magnet Monster,https://magnetmonster.com,hello@magnetmonster.co.uk,hello@magnetmonster.co.uk,valid,2292469,,emailed
 2026-09-04,Eminent SEO,https://www.eminentseo.com,hello@eminentseo.com,,invalid,1.800.871.4130,,new
-2026-09-04,Stimulate Agency | Customer Retention Marketing Agency for DTC Brands,https://www.stimulate.agency,"hello@stimulate.agency, contact@stimulate.agency","hello@stimulate.agency, contact@stimulate.agency",catch_all,(203) 298-1555,,new
+2026-09-04,Stimulate Agency | Customer Retention Marketing Agency for DTC Brands,https://www.stimulate.agency,"hello@stimulate.agency, contact@stimulate.agency","hello@stimulate.agency, contact@stimulate.agency",catch_all,(203) 298-1555,,emailed
 2026-09-04,Reynhard. Ontwerp & communicatie,https://reynhard.nl,reynhard@reynhard.nl,,invalid,,,new
 2026-09-04,Dashed,https://dashed.nl,info@dashed.nl,,invalid,7015259,,new
 2026-09-04,shoart.nl,https://shoart.nl,info@shoart.nl,,invalid,,,new
 2026-09-04,Sanity.io,https://www.sanity.io,name@company.com,,unverified,,,new
-2026-09-04,BFJ Digital,https://bfj.digital,hello@bfj.com.au,hello@bfj.com.au,catch_all,,,new
+2026-09-04,BFJ Digital,https://bfj.digital,hello@bfj.com.au,hello@bfj.com.au,catch_all,,,emailed
 2026-09-04,SEO Gold Coast,https://seogoldcoast.com.au,seo@seogoldcoast.com.au,,unverified,,,new
-2026-09-04,TMX Newsfile,https://www.newsfilecorp.com,office@newsfilecorp.com,office@newsfilecorp.com,catch_all,,,new
-2026-09-04,Barrington Group Australia – Best People. Best Practice. Best Choice.,https://barringtons.com.au,"enquiries@barringtons.com.au, enquiries@barringtongroup.com.au","enquiries@barringtons.com.au, enquiries@barringtongroup.com.au",valid,899 0600,,new
+2026-09-04,TMX Newsfile,https://www.newsfilecorp.com,office@newsfilecorp.com,office@newsfilecorp.com,catch_all,,,emailed
+2026-09-04,Barrington Group Australia – Best People. Best Practice. Best Choice.,https://barringtons.com.au,"enquiries@barringtons.com.au, enquiries@barringtongroup.com.au","enquiries@barringtons.com.au, enquiries@barringtongroup.com.au",valid,899 0600,,emailed
 2026-09-04,Find the right Fluorescent Service Partner,https://partners.fluorescent.co,bob@companyemail.com,,unverified,,,new
 2026-09-04,Business News Australia,https://www.businessnewsaustralia.com,editorial@businessnewsaus.com.au,,unverified,,,new
-2026-09-04,Olifant Digital: Full-Service Amazon & E-Commerce Agency,https://olifantdigital.com,alex@olifantdigital.com,alex@olifantdigital.com,catch_all,+1 332-291-6320,,new
-2026-09-04,EA Digital | Growth Marketing Specialists,https://www.eadigital.co.nz,"erin@eadigital.co.nz, erin@eadigitalcollective.com","erin@eadigital.co.nz, erin@eadigitalcollective.com",valid,248 2421,,new
-2026-09-04,Kia Ora Digital,https://www.kiaora.digital,"ben@kiaora.digital, dan@kiaora.digital, hello@kiaora.digital, u003ehello@kiaora.digital","ben@kiaora.digital, dan@kiaora.digital, hello@kiaora.digital, u003ehello@kiaora.digital",catch_all,,,new
+2026-09-04,Olifant Digital: Full-Service Amazon & E-Commerce Agency,https://olifantdigital.com,alex@olifantdigital.com,alex@olifantdigital.com,catch_all,+1 332-291-6320,,emailed
+2026-09-04,EA Digital | Growth Marketing Specialists,https://www.eadigital.co.nz,"erin@eadigital.co.nz, erin@eadigitalcollective.com","erin@eadigital.co.nz, erin@eadigitalcollective.com",valid,248 2421,,emailed
+2026-09-04,Kia Ora Digital,https://www.kiaora.digital,"ben@kiaora.digital, dan@kiaora.digital, hello@kiaora.digital, u003ehello@kiaora.digital","ben@kiaora.digital, dan@kiaora.digital, hello@kiaora.digital, u003ehello@kiaora.digital",catch_all,,,emailed
 2026-09-04,Online Ai Marketing Courses for the Tourism and Hospitality Industry,https://www.theaimarketingclub.com,support@theaimarketingclub.com,,unverified,,,new
-2026-09-04,Auckland Website Design & SEO | ZALAS.tech,https://zalas.tech,hello@zalas.tech,hello@zalas.tech,valid,,,new
-2026-09-04,Orange Banana Digital,https://www.orangebananadigital.com,"riksta@orangebananadigital.com, user@domain.com",riksta@orangebananadigital.com,valid,,,new
-2026-09-04,Wisely,https://wiselyglobal.tech,team@wiselyglobal.tech,team@wiselyglobal.tech,valid,884 0029,,new
+2026-09-04,Auckland Website Design & SEO | ZALAS.tech,https://zalas.tech,hello@zalas.tech,hello@zalas.tech,valid,,,emailed
+2026-09-04,Orange Banana Digital,https://www.orangebananadigital.com,"riksta@orangebananadigital.com, user@domain.com",riksta@orangebananadigital.com,valid,,,emailed
+2026-09-04,Wisely,https://wiselyglobal.tech,team@wiselyglobal.tech,team@wiselyglobal.tech,valid,884 0029,,emailed
 2026-09-04,LocalBizNetwork,https://www.localbiznetwork.com,info@localbiznetwork.com,,unverified,(408) 359-2452,,new
 2026-09-04,Tũ Partners,https://tu.partners,"info@tupartners.co.nz, wellington@tupartners.co.nz, info@tu.partners",,invalid,,,new
-2026-09-04,FrankDevs,https://nz.frankdevs.com,"studio@frankdevs.com, frank@yourbusiness.co.nz",studio@frankdevs.com,valid,,,new
-2026-09-04,Orbis · Agencia de Marketing Digital,https://orbis.agency,hello@orbis.agency,hello@orbis.agency,catch_all,(449) 787 0001,,new
-2026-09-04,Daisy Digital Marketing,https://daisydigital.co.nz,hello@daisydigital.co.nz,hello@daisydigital.co.nz,valid,,,new
-2026-09-04,Sprocket Digital,https://sprocketdigital.co.nz,grow@sprocketdigital.co.nz,grow@sprocketdigital.co.nz,valid,,,new
-2026-09-04,Digigo Marketing,https://digigo.co.nz,info@digigo.co.nz,info@digigo.co.nz,valid,,,new
-2026-09-04,In-box,https://in-box.co.nz,gavin@in-box.co.nz,gavin@in-box.co.nz,catch_all,,,new
+2026-09-04,FrankDevs,https://nz.frankdevs.com,"studio@frankdevs.com, frank@yourbusiness.co.nz",studio@frankdevs.com,valid,,,emailed
+2026-09-04,Orbis · Agencia de Marketing Digital,https://orbis.agency,hello@orbis.agency,hello@orbis.agency,catch_all,(449) 787 0001,,emailed
+2026-09-04,Daisy Digital Marketing,https://daisydigital.co.nz,hello@daisydigital.co.nz,hello@daisydigital.co.nz,valid,,,emailed
+2026-09-04,Sprocket Digital,https://sprocketdigital.co.nz,grow@sprocketdigital.co.nz,grow@sprocketdigital.co.nz,valid,,,emailed
+2026-09-04,Digigo Marketing,https://digigo.co.nz,info@digigo.co.nz,info@digigo.co.nz,valid,,,emailed
+2026-09-04,In-box,https://in-box.co.nz,gavin@in-box.co.nz,gavin@in-box.co.nz,catch_all,,,emailed
 2026-09-04,Digital Refinery,https://digitalrefinery.co.nz,hello@digitalrefinery.co.nz,,invalid,,,new
-2026-09-04,Likeable Lab,https://likeablelab.com,hello@likeablelab.com,hello@likeablelab.com,catch_all,,,new
-2026-09-04,Hit Send,https://www.hitsend.co.nz,support@hitsend.co.nz,support@hitsend.co.nz,valid,,,new
+2026-09-04,Likeable Lab,https://likeablelab.com,hello@likeablelab.com,hello@likeablelab.com,catch_all,,,emailed
+2026-09-04,Hit Send,https://www.hitsend.co.nz,support@hitsend.co.nz,support@hitsend.co.nz,valid,,,emailed
 2026-09-04,Wild Tree Digital,https://wildtreedigital.com,hello@wildtreedigital.com,,invalid,,,new
 2026-09-04,PPC Consulting,https://www.ppcproject.co.nz,"mshannon@ppcproject.co.nz, user@domain.com",,invalid,,,new
-2026-09-04,Kito Infocom,https://www.kitoinfocom.com,"admin@kitoinfocom.com, info@kitoinfocom.com","admin@kitoinfocom.com, info@kitoinfocom.com",catch_all,9971147,,new
-2026-09-04,ROAS Performance Marketing Agency | Better digital marketing,https://roas.co.nz,"%20hello@roas.co.nz, hello@roas.co.nz","%20hello@roas.co.nz, hello@roas.co.nz",catch_all,,,new
+2026-09-04,Kito Infocom,https://www.kitoinfocom.com,"admin@kitoinfocom.com, info@kitoinfocom.com","admin@kitoinfocom.com, info@kitoinfocom.com",catch_all,9971147,,emailed
+2026-09-04,ROAS Performance Marketing Agency | Better digital marketing,https://roas.co.nz,"%20hello@roas.co.nz, hello@roas.co.nz","%20hello@roas.co.nz, hello@roas.co.nz",catch_all,,,emailed
 2026-09-04,Spectrum,https://www.spectrumproperty.co.nz,office@spectrumsolutions.co.nz,,invalid,427 2264,,new
 2026-09-04,Triple Star - Construction & Building Company | Queenstown NZ,https://www.triplestar.net.nz,admin@triplestar.net.nz,,invalid,441 8064,,new
 2026-09-04,LBRP,https://www.lbrp.nz,"george@lbrp.nz, user@domain.com",,invalid,428 1665,,new
 2026-09-04,Impact PR,https://www.impactpr.co.nz,info@impactpr.co.nz,,invalid,575 2722,,new
-2026-09-04,"Escorted Tours, Small Ship and River Cruises and Family Travel | Tauck",https://www.tauck.com,"info@tauck.com, info@tauckinfo.com, tauckreservations@tauck.co.uk, info@cruiseworld.co.nz, tauckrez@tauck.com","info@tauck.com, tauckrez@tauck.com",catch_all,800-810-8020,,new
+2026-09-04,"Escorted Tours, Small Ship and River Cruises and Family Travel | Tauck",https://www.tauck.com,"info@tauck.com, info@tauckinfo.com, tauckreservations@tauck.co.uk, info@cruiseworld.co.nz, tauckrez@tauck.com","info@tauck.com, tauckrez@tauck.com",catch_all,800-810-8020,,emailed
 2026-09-04,KiwiNova.tech,https://kiwinova.tech,info@kiwinova.tech,,invalid,,,new
 2026-09-04,Remarkable Creative,https://www.remarkablecreative.co.nz,hello@remarkablecreative.co.nz,,unverified,,,new
-2026-09-04,Think Creative Agency,https://thinkcreativeagency.com.au,contact@thinkcreativeagency.com.au,contact@thinkcreativeagency.com.au,valid,,,new
+2026-09-04,Think Creative Agency,https://thinkcreativeagency.com.au,contact@thinkcreativeagency.com.au,contact@thinkcreativeagency.com.au,valid,,,emailed
 2026-09-04,Webbuzz,https://webbuzz.com.au,info@webbuzz.com.au,,unverified,,,new
-2026-09-04,Wise Up Marketing - Your Digital Marketing Agency Partner in Business Growth,https://wiseupmarketing.com.au,hoot@wiseupmarketing.com.au,hoot@wiseupmarketing.com.au,valid,,,new
+2026-09-04,Wise Up Marketing - Your Digital Marketing Agency Partner in Business Growth,https://wiseupmarketing.com.au,hoot@wiseupmarketing.com.au,hoot@wiseupmarketing.com.au,valid,,,emailed
 2026-09-04,COG Digital,https://www.cogdigital.com.au,enquiries@cogbranding.com.au,enquiries@cogbranding.com.au,valid,523 6007,,new
 2026-09-04,Direct Clicks,https://directclicks.com.au,"accounts@dawsonmedia.com.au, info@directclicks.com.au",,unverified,,,new
 2026-09-04,Dom Digital Marketing,https://www.domdigitalmarketing.com.au,contact@domdigitalmarketing.com.au,,unverified,4004548,,new
@@ -8467,3 +8467,16 @@ Date,Business Name,Website,Emails,Verified Emails,Verification Status,Phone,Coun
 2026-10-13,fourplex,https://fourplex.de,info@fourplex.de,,invalid,,,new
 2026-10-13,JuNa Web UG,https://juna-web.com,"hallo@juna-web.com, info@juna-web.com",,unverified,,,new
 2026-10-13,Custom Software Development Company in Dubai | TPH Software,https://tphsoftwaretech.com,info@tphsoftwaretech.com,,invalid,963 5674,,new
+2026-10-13,UK breaks and family holiday destinations | Visit Wales,https://www.visitwales.com,"product.database@gov.wales, enquiries.wales@gov.wales, customerhelp@gov.wales",,invalid,,,new
+2026-10-13,Swansea University,https://www.swansea.ac.uk,healthandsafety@swansea.ac.uk,,invalid,,,new
+2026-10-13,What's On In Swansea,https://www.whatsoninswansea.com,sales@whatsoninswansea.com,,unverified,,,new
+2026-10-13,Speedtest.net,https://www.speedtest.net,"brand_licensing@ookla.com, legal@ookla.com","brand_licensing@ookla.com, legal@ookla.com",valid,,,new
+2026-10-13,Speed Test by Measurement Lab,https://speed.measurementlab.net,support@measurementlab.net,support@measurementlab.net,valid,,,new
+2026-10-13,The Local,https://thelocalcharlotte.com,info@thelocalcharlotte.com,,invalid,(704) 347-0035,,new
+2026-10-13,https://www.wbtv.com,https://www.wbtv.com,"cassidy.johncox@wbtv.com, luke.tucker@wbtv.com, eric.garlick@wbtv.com, brandy.beard@graymedia.com, katy.solt@wbtv.com, connor.lomis@wbtv.com, cmorgan@wbtv.com, paul.heggen@wbtv.com, naomi.kowles@wbtv.com, rachel.devereux@wandtv.com, webteam@wbtv.com, brad.dickerson@wbtv.com, michelle.robinson@wbtv.com, speakout@wbtv.com, rachel.richardson@wbtv.com, wbtv-results@graymedia.com, investigates@wbtv.com, alianna.kendall-brooks@wbtv.com, spencer.chrisman@wbtv.com, caroline.hicks@wbtv.com, michael.owens@wistv.com, jared.goffinet@fox19now.com, michael.warrick@wbtv.com, natisha.lance@wbtv.com, news@wbtv.com, forrest.tucker@wbtv.com, edwin.lake@wbtv.com, david.hodges@wbtv.com, publicfile@wbtv.com",,unverified,(704) 374-3500,,new
+2026-10-13,WSOC TV,https://www.wsoctv.com,"action9@wsoc-tv.com, assignment@wsoc-tv.com, contactus@wsoc-tv.com, action@wsoctv.com",,unverified,,,new
+2026-10-13,@dnschecker.org,https://dnschecker.org,"u0022me@mydomain.com, u0022recipient@domain.com",,unverified,,,new
+2026-10-13,Business News Wales,https://businessnewswales.com,"contact@businessnewswales.com, features@businessnewswales.com",,invalid,,,new
+2026-10-13,Hudace,https://www.hudace.com,"contact@hudace.com, jane@company.com",,unverified,1 821 892 9990,,new
+2026-10-13,SERPentity,https://serpentity.co.uk,info@serpentity.co.uk,,invalid,590 5056,,new
+2026-10-13,NB:Design | A brand and digital design agency | Wales,https://www.nb-design.com,"mail@nb-design.com, user@domain.com",,invalid,7923864,,new
