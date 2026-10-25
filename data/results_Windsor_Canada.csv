@@ -1,12 +1,11 @@
 Date,Business Name,Website,Emails,Verified Emails,Verification Status,Phone,Country,Status
-2026-08-13,Semrush Agency Partners,https://agencies.semrush.com,"agencies@semrush.com, mail@semrush.com",,invalid,,,new
-2026-08-23,Digital Ciphers Media,https://digitalciphers.com,info@digitalciphers.com,info@digitalciphers.com,valid,,,new
-2026-08-13,helloDarwin,https://hellodarwin.com,"clients@hellodarwin.com, info@hellodarwin.com","clients@hellodarwin.com, info@hellodarwin.com",catch_all,,,emailed
-2026-08-13,ICS Creative Agency,https://icscreativeagency.com,info@icscreativeagency.com,info@icscreativeagency.com,catch_all,,,emailed
-2026-08-22,"Digital Marketing Agency Windsor - SEO Services in Essex County, ON",https://seobank.ca,"info@seobank.ca, %20info@seobank.ca",info@seobank.ca,valid,519-890-3979,,new
-2026-09-01,Thought Media,https://thoughtmedia.ca,hello@thoughtmedia.ca,,invalid,(416) 992-7755,,new
-2026-09-01,windsor.ai,https://windsor.ai,hello@windsor.ai,hello@windsor.ai,catch_all,,,new
+2026-08-13,Canadian Web Agencies,https://canadianwebagencies.com,recommendations@canadianwebagencies.com,,unverified,,,new
+2026-10-25,Design519,https://design519.com,"example@mail.com, info@design519.com",,unverified,,,new
+2026-10-25,Experts.ca,https://experts.ca,hello@experts.ca,,invalid,,,new
+2026-09-01,Pivot Creative Media,https://pivotcreativemedia.com,hello@pivotcreativemedia.com,hello@pivotcreativemedia.com,catch_all,,,emailed
+2026-08-30,RevenueBase | B2B Data Infrastructure to Grow Your Business,https://revenuebase.ai,sales@revenuebase.ai,sales@revenuebase.ai,catch_all,,,emailed
+2026-08-13,"Finding the best business, It's that easy - ThreeBestRated.ca",https://threebestrated.ca,"support@threebestrated.ca, press@threebestrated.com, reviews@threebestrated.ca","support@threebestrated.ca, reviews@threebestrated.ca, press@threebestrated.com",valid,,,emailed
+2026-08-17,True North Web Design,https://truenorthwebdesign.ca,info@truenorthwebdesign.ca,,unverified,416-797-3407,,new
 2026-08-15,Convex Studio,https://www.convexstudio.ca,info@convexstudio.ca,,invalid,1 (800) 949-1830,,new
-2026-08-14,Kinex Media Inc.,https://www.kinexmedia.com,info@kinexmedia.com,info@kinexmedia.com,catch_all,1-888-679-7773,,emailed
-2026-09-01,Sebastian Agosta |,https://www.sebastianagosta.com,info@sebastianagosta.com,,invalid,519-995-7329,,new
-2026-08-22,YQG Digital - Windsor-Essex's Digital Marketing Experts,https://yqgdigital.ca,"tim@yqgdigital.com, tim@yqgdigital.ca",tim@yqgdigital.ca,catch_all,226-344-3685,,new
+2026-09-01,Databending,https://www.databending.ca,hello@databending.ca,,invalid,,,new
+2026-10-25,"Windsor Web - Web Design, Development & AI Solutions",https://www.windsorweb.ca,windsorweb.ca@gmail.com,windsorweb.ca@gmail.com,valid,,,new
