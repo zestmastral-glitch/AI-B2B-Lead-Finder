@@ -1,12 +1,11 @@
 Date,Business Name,Website,Emails,Verified Emails,Verification Status,Phone,Country,Status
-2026-08-15,Choc Chip Digital,https://chocchip.com.au,"yourname@yourdomain.com.au, enquiries@chocchip.com.au, accounts@yourdomain.com.au",enquiries@chocchip.com.au,catch_all,273 0100,,new
-2026-08-16,Enterprise Monkey,https://enterprisemonkey.com.au,"sales@enterprisemonkey.com.au, aamir@enterprisemonkey.com.au, reach@enterprisemonkey.com.au","sales@enterprisemonkey.com.au, aamir@enterprisemonkey.com.au, reach@enterprisemonkey.com.au",catch_all,,,new
+2026-08-13,Enests,https://enests.co,info@enests.co,,invalid,,,new
 2026-08-16,Evolution Design Agency,https://evolutiondesign.com.au,hello@evolutiondesign.com.au,,unverified,222 3328,,new
 2026-08-16,Geelong Web Design,https://geelongwebdesign.com.au,info@geelongwebdesign.com.au,,unverified,232 3655,,new
-2026-08-13,Konigle,https://konigle.com,support@konigle.com,support@konigle.com,catch_all,2018153,,emailed
-2026-08-14,Chromatix Web Design,https://www.chromatix.com.au,hello@chromatix.com.au,hello@chromatix.com.au,catch_all,912 6403,,emailed
-2026-08-14,"Web Design, development & SEO Geelong and Hobart | GOOP Digital",https://www.goop.com.au,info@goop.com.au,,invalid,222 4220,,new
-2026-08-15,Make My Website,https://www.makemywebsite.com.au,"info@makemywebsite.com.au, seo@makemywebsite.com.au","info@makemywebsite.com.au, seo@makemywebsite.com.au",valid,3007693,,new
-2026-08-15,Pixeld,https://www.pixeld.com.au,hello@pixeld.com.au,hello@pixeld.com.au,catch_all,,,new
-2026-08-22,Pixelfire Web Design Geelong,https://www.pixelfire.com.au,info@pixelfire.com.au,info@pixelfire.com.au,valid,300 3095,,new
-2026-08-15,Propeld,https://www.propeld.com.au,hello@propeld.com.au,hello@propeld.com.au,catch_all,,,new
+2026-08-13,Realweb Website Design,https://realweb.com.au,admin@realweb.com.au,,unverified,891 5552,,new
+2026-10-25,Reveler,https://reveler.com.au,create@reveler.com.au,create@reveler.com.au,catch_all,,,new
+2026-08-13,"Finding the best business, in a fair dinkum way - ThreeBestRated.com.au",https://threebestrated.com.au,"press@threebestrated.com, reviews@threebestrated.com.au, support@threebestrated.com.au","press@threebestrated.com, reviews@threebestrated.com.au, support@threebestrated.com.au",valid,,,emailed
+2026-08-15,3228Digital,https://www.3228digital.com.au,info@3228digital.com.au,info@3228digital.com.au,catch_all,,,emailed
+2026-08-15,Make My Website,https://www.makemywebsite.com.au,"info@makemywebsite.com.au, seo@makemywebsite.com.au","info@makemywebsite.com.au, seo@makemywebsite.com.au",valid,3007693,,emailed
+2026-08-22,Pixelfire Web Design Geelong,https://www.pixelfire.com.au,info@pixelfire.com.au,info@pixelfire.com.au,valid,300 3095,,emailed
+2026-08-15,Propeld,https://www.propeld.com.au,hello@propeld.com.au,hello@propeld.com.au,catch_all,,,emailed
