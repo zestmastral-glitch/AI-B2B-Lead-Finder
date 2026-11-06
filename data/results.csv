@@ -9020,3 +9020,6 @@ Date,Business Name,Website,Emails,Verified Emails,Verification Status,Phone,Coun
 2026-11-05,Avicolli's Coal Fire,https://www.avicolliscoalfire.com,"info@avicolliscoalfire.com, user@domain.com",info@avicolliscoalfire.com,valid,(315) 637-5800,,new
 2026-11-05,Local Restaurant & Bar,https://www.localjh.com,"info@localjh.com, user@domain.com",info@localjh.com,catch_all,1 307.201.1717,,new
 2026-11-05,Wayback Machine,https://web.archive.org,info@archive.org,info@archive.org,valid,,,new
+2026-11-06,Marketing Partner,https://www.marketingpartner.de,"info@marketingpartner.de, you@company.com",,unverified,,,new
+2026-11-06,Brehm Consulting,https://www.brehm-consulting.com,service@brehm-consulting.com,,unverified,2097200,,new
+2026-11-06,Lister,https://www.lister.ai,hello@lister.ai,hello@lister.ai,catch_all,,,new
